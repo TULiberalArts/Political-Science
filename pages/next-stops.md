@@ -1,21 +1,31 @@
 ---
 title: Next Stops
-permalink: "/next-stops"
+permalink: /next-stops
 layout: page
+published: true
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+Next Stops:
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Our students continually secure coveted internships in the following fields:
 
-## Recently, our alumni have secured coveted positions with the following employers:
+- Government offices and agencies (for example, the City of Philadelphia)
+- State legislative or congressional offices
+- Political campaigns
+- Law firms and local prosecutor’s offices
+- Public interest groups
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+
+Political science also offers students preparation that can help them in a wide range of endeavors. Our alumni go on to law school and graduate studies, while others find meaningful employment in government, political groups and campaigns, the media, non-profit organizations and business.
+
+Related careers include:
+
+- Policy Researchers
+- Political Correspondents
+- Lobbyists
+- Political Consultants
+- Business
+- Diplomacy
+- Education
+- Government Affairs
+
