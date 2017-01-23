@@ -68,3 +68,25 @@ Established to honor William Allen Jones, a long-term supporter of the Political
 3. **Political Science Advisory Board Internship Awards**
 
 These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the Department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks.  Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
+
+## Graduate Resources
+
+- [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf)
+- [Survival Guide for New Students](http://www.cla.temple.edu/politicalscience/files/2013/04/SurvivalGuide2012.pdf)
+- [M.A. and Ph.D. Coursework Checklist](http://www.cla.temple.edu/politicalscience/files/2014/09/ProgramChecklist2014.pdf)
+- [Study Guide for Comprehensive Exams](http://www.cla.temple.edu/politicalscience/files/2013/04/StudyGuideforComprehensiveExams.pdf)
+- [Dissertation Defense Checklist](http://www.cla.temple.edu/politicalscience/files/2013/04/DissertationDefenseChecklist.pdf)
+- [Department Travel Award Application](http://www.cla.temple.edu/politicalscience/files/2013/04/PoliticalScienceConferenceParticipationAwards.docx)
+- [Guide to Creating Your Own Webpage](http://sites.temple.edu/websiteinstructionsforpoliscigradstudents/)
+- [Graduate School Policies](http://www.temple.edu/grad/policies/gradpolicies.htm)
+- [Graduate School Forms](http://www.temple.edu/grad/forms/)
+
+## Graduate Student Support Grants
+
+1. Summer Camps for Methods Training Grants: The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
+
+2. Lynn Miller Writing Grants: The department will fund each year up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
+
+3. Graduate Opportunity Grants: The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
+
+4. Evolution Consulting Dissertation Grant: With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
