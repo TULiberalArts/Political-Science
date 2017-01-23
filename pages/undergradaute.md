@@ -139,10 +139,10 @@ Cooperative Education Program. The Cooperative Education Program at Temple is de
 
 III. **Student Organizations**
 
-The Political Science Majors Association . The Political Science Majors Association is the organization of all Political Science majors at Temple University . The primary purpose of the Association is to relay the Undergraduate Major’s opinions and interests in the Political Science Department and in the College of Liberal Arts . The Association has sponsored various activities for the Undergraduate major including: career forums, lectures, student and faculty mixers, law and graduate forums, seminars on popular topics, and trips to Harrisburg .
+**The Political Science Majors Association:** The Political Science Majors Association is the organization of all Political Science majors at Temple University . The primary purpose of the Association is to relay the Undergraduate Major’s opinions and interests in the Political Science Department and in the College of Liberal Arts. The Association has sponsored various activities for the Undergraduate major including: career forums, lectures, student and faculty mixers, law and graduate forums, seminars on popular topics, and trips to Harrisburg .
 
 Pi Sigma Alpha Pi Sigma Alpha, the national Political Science Honor Society, exists for the purpose of conferring honor on those students who have distinguished themselves in the field of Political Science. Inquiries about membership in Pi Sigma Alpha should be directed to the faculty advisor of Pi Sigma Alpha, [Dr. Robin Kolodny](mailto:rhsueh@temple.edu).
 
 IV. **Faculty**
 
-See the faculty homepage.
+[See the faculty homepage](http://www.cla.temple.edu/politicalscience/faculty/).
