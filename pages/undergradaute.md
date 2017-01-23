@@ -12,7 +12,6 @@ Our research-oriented curriculum emphasizes academic knowledge, career preparati
 
 Students have the opportunity to participate in Temple’s Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post.
 
-
 ## Academic Offerings
 
 - [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/)
