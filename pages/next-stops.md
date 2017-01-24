@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-Next Stops:
+## Next Stops:
 
 Our students continually secure coveted internships in the following fields:
 
@@ -28,4 +28,3 @@ Related careers include:
 - Diplomacy
 - Education
 - Government Affairs
-
