@@ -5,7 +5,7 @@ layout: page
 published: true
 ---
 
-chris is editing this right now 
+> chris is editing this right now 
 Students can earn either a terminal Masters of Arts (M.A.) or Doctor of Philosophy (Ph.D.) in political science.  The primary mission of the terminal M.A. program is to provide a broad education in the general field of political science.  M.A. students also have the option to develop technical skills by completing the methods sequence.  M.A. students typically apply their degree towards careers in the private or public sector.
 
 The primary mission of the Ph.D. program is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers.  Ph.D. students complete the requirements for the M.A. program, take additional courses that help them specialize in particular fields of study, and a methods sequence.  Many of our Ph.D.s pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
