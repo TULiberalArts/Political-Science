@@ -117,7 +117,7 @@ A faculty advisor in the department is the best place to come for general advisi
 
 - Internship Coordinator: for information on internships and general advising for students in the department. For 2016-17 – Dr. John S. Masker (mailto:jsmasker@temple.edu).
 
-- [Academic Advising Center](http://www.temple.edu/cla/advising/index.html)for information about programs and courses outside the department and College of Liberal Arts or University policy.
+- [Academic Advising Center](http://liberalarts.temple.edu/advising)for information about programs and courses outside the department and College of Liberal Arts or University policy.
 
 - [Career Services](http://www.temple.edu/provost/careercenter/) – for advising about your plans after graduation.
 
