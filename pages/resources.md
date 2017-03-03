@@ -5,6 +5,47 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Robin Kolodny
+437 Gladfelter Hall
+[(215) 204-7709](tel:215204-7709)
+[rkolodny@temple.edu](mailto:rkolodny@temple.edu)
+
+Director:
+
+Administrator:
+Jessica Brennan
+708 Gladfelter Hall
+[(215) 204-7577](tel:2152047577 )
+[tua11422@temple.edu](mailto:tua11422@temple.edu)
+
+Coordinator:
+
+LaTasha Goodman
+408 Gladfelter Hall
+215-204-7796
+[lgoodman@temple.edu](mailto:lgoodman@temple.edu)
+
+Tanya Taylor (Coordinator for Graduate Studies)
+411 Gladfelter Hall
+[(215) 204-1469](tel:2152041469)
+[ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
+
+Undergraduate Chair:
+
+Heath Fogg Davis
+447 Gladfelter Hall
+[(215) 204-7796](tel:2152047796)
+[hfd@temple.edu](mailto:hfd@temple.edu)
+
+Graduate Chair:
+
+Ryan J. Vander Wielen
+457 Gladfelter Hall
+[(215) 204-1469](tel:2152041469)
+[rvwielen@temple.edu](mailto:rvwielen@temple.edu)
+
 ## Resources here here to help!
 
 ## Make Your Declaration
