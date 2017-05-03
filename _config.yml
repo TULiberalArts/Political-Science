@@ -8,7 +8,7 @@ baseurl: /political-science
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'A major in Political Science is ideal for students interested in politics, international affairs, and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 4th Floor, Room 409
   street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: political-science@temple.edu
-  phone: 2152047796
+  email: <a href="mailto:political-science@temple.edu">political-science@temple.edu</a>
+  phone: 215-204-7796
 
 # Social Media
 # Put in only the username unless otherwise noted
