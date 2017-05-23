@@ -21,7 +21,7 @@ Students have the opportunity to participate in Temple’s Washington Semester, 
 - [PhD in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 - Certificate in Political Economy
 
-The undergraduate program in the Political Science at Temple University is designed to give students and broad education in the study of politics.  The curriculum introduces students to the diverse theoretical and methodological approaches that we use to study politics, sharpens analytical thinking, and challenges students to evaluate critically the rights and responsibilities of citizens living in a democracy.
+The Bachelor of Arts degree program in the Political Science Department gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
 
 The discipline of political science is broken down into four distinct subfields:
 
@@ -33,7 +33,7 @@ The discipline of political science is broken down into four distinct subfields:
 
 - **Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy, and justice.
 
-The Political Science Department consists of faculty who conduct research in these areas and office classes that relate to their research specialties.
+The Political Science Department’s faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
 
 For more information on the undergraduate program, please contact [Heath Fogg Davis](http://www.cla.temple.edu/politicalscience/faculty/heath-fogg-davis/).
 
