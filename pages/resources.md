@@ -58,13 +58,17 @@ Ryan J. Vander Wielen
 - [Incomplete Coursework Policy](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13): View the Universities offical policy on incomplete coursework [here](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13).
 - [Department Directory](http://www.cla.temple.edu/politicalscience/faculty/): Complete listing of contact information for Faculty.
 
+## Political Science Advisory Board
+
+The mission and role of the Political Science Advisory Board (PSAB) is to identify resources for students studying with the Department of Political Science. This includes discovering and expanding internships and other undergraduate and graduate career opportunities; counseling students on best practices to develop their professional network and achieve success in the job market; and raising external funding for Political Science Advisory Board Internship Awards.
+
 ## Undergraduate Internships
 
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for the study of politics. Through generous gifts from its supporters, the Department makes awards to students who secure appropriate internships. The awards are intended to off-set costs associated with taking on unpaid internships that do not lead to academic credit.
 
 ### Instructions:
 
-Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript, and a letter of recommendation. More details are available with award announcements, and by [emailing the Undergraduate Chair](http://www.cla.temple.edu/politicalscience/undergraduate/contacts/) of Political Science.
+Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript, and a letter of recommendation. More details are available with award announcements, and by [emailing the Undergraduate Chair](mailto:hfd@temple.edu).
 
 **Paul Tully Intern Scholarship**
 
