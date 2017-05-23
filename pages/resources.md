@@ -5,22 +5,21 @@ layout: page
 published: true
 ---
 
-Chair:
+**Chair:**
 
 Robin Kolodny
 437 Gladfelter Hall
 [(215) 204-7709](tel:215204-7709)
 [rkolodny@temple.edu](mailto:rkolodny@temple.edu)
 
-Director:
+**Administrator:**
 
-Administrator:
 Jessica Brennan
 708 Gladfelter Hall
 [(215) 204-7577](tel:2152047577 )
 [tua11422@temple.edu](mailto:tua11422@temple.edu)
 
-Coordinator:
+**Coordinator:**
 
 LaTasha Goodman
 408 Gladfelter Hall
@@ -32,14 +31,14 @@ Tanya Taylor (Coordinator for Graduate Studies)
 [(215) 204-1469](tel:2152041469)
 [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 
-Undergraduate Chair:
+**Undergraduate Chair:**
 
 Heath Fogg Davis
 447 Gladfelter Hall
 [(215) 204-7796](tel:2152047796)
 [hfd@temple.edu](mailto:hfd@temple.edu)
 
-Graduate Chair:
+**Graduate Chair:**
 
 Ryan J. Vander Wielen
 457 Gladfelter Hall
@@ -67,17 +66,17 @@ The Department of Political Science encourages students to pursue internships th
 
 Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript, and a letter of recommendation. More details are available with award announcements, and by [emailing the Undergraduate Chair](http://www.cla.temple.edu/politicalscience/undergraduate/contacts/) of Political Science.
 
-1. **Paul Tully Intern Scholarship**
+**Paul Tully Intern Scholarship**
 
 Established to honor the political life and career of Paul Tully, this award funds students who will complete an internship in government or with a political organization in Washington, D.C.
 Paul Tully was a political strategist who served as political director of the Democratic National Committee and as advisor to several political campaigns. He worked among others for George McGovern, Edward Kennedy, Robert Kennedy, Walter Mondale, Gary Hart, and Michael Dukakis. At his untimely passing in 1992 at the young age of 48, Paul Tully was deeply engaged in Governor Bill Clinton’s campaign for the White House.
 The Paul Tully Intern Scholarship helps students defray costs associated with completing an internship in Washington, D.C. for a minimum period of six weeks. The award is $1,500.
 
-2. **William Allen Jones Experiential Learning Award**
+**William Allen Jones Experiential Learning Award**
 
 Established to honor William Allen Jones, a long-term supporter of the Political Science Department, this award funds Political Science majors who complete an internship in local, national, or international governmental offices or political organizations, for a minimum of six weeks. The award is $1,000.
 
-3. **Political Science Advisory Board Internship Awards**
+**Political Science Advisory Board Internship Awards**
 
 These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the Department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks.  Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
 
@@ -95,10 +94,10 @@ These awards were established and funded through the generous support of the Pol
 
 ## Graduate Student Support Grants
 
-1. Summer Camps for Methods Training Grants: The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
+**Summer Camps for Methods Training Grants:** The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
 
-2. Lynn Miller Writing Grants: The department will fund each year up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
+**Lynn Miller Writing Grants:** The department will fund each year up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
 
-3. Graduate Opportunity Grants: The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
+**Graduate Opportunity Grants:** The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
 
-4. Evolution Consulting Dissertation Grant: With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
+**Evolution Consulting Dissertation Grant:** With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
