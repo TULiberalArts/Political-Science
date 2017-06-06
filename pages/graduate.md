@@ -56,9 +56,9 @@ As you can imagine, being admitted into the graduate program is a competitive pr
 
 Funding is available to a select group of PhD students that includes a monthly stipend for your living expenses, tuition remission for full-time enrollment in coursework, and health insurance. Funding is determined through a competitive process. In general, there are two types of funding:
 
--Graduate Assistantships: These are provided by the College of Liberal Arts and the department allocates assistantships each year. In return for the assistantship, students serve as teaching assistants, research assistants, or as instructors of record.
+- Graduate Assistantships are provided by the College of Liberal Arts and the department allocates assistantships each year. In return for the assistantship, students serve as teaching assistants, research assistants, or as instructors of record.
 
--University Fellowships: These are allocated each year by the central graduate school. To be considered for a university fellowship, you must submit your application by the December 1 deadline, as these decisions are made early in the year. University fellows receive funding in their first and fourth years and are not expected to serve as a teaching assistant or research assistant; the stipend is also a bit higher than the graduate assistantships stipend. In their second and third years, university fellows who remain in good standing can expect to receive a graduate assistantship (see above).
+- University Fellowships are allocated each year by the central graduate school. To be considered for a university fellowship, you must submit your application by the December 1 deadline, as these decisions are made early in the year. University fellows receive funding in their first and fourth years and are not expected to serve as a teaching assistant or research assistant; the stipend is also a bit higher than the graduate assistantships stipend. In their second and third years, university fellows who remain in good standing can expect to receive a graduate assistantship (see above).
 
 Students who receive assistantships must remain in good standing within the department in order to be considered for continued funding. Funded students are also expected to take a full course load (9 credit hours prior to passing exams and 1 credit afterwards).
 
