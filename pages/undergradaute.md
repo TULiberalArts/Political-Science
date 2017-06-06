@@ -4,6 +4,44 @@ permalink: /undergraduate/
 layout: page
 published: true
 ---
+## Academic Offerings at a Glance
+
+- [BA in Political Science](#major)
+- [Minor in Political Science](#minor)
+- [Certificate in Political Economy](#certificate-in-political-economy)
+
+## Major
+
+The bachelor of arts degree program in the Political Science Department gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
+
+The discipline of political science is broken down into four distinct subfields:
+
+**American Politics** focuses on the study of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
+
+**Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes.  Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
+
+**International Relations** studies how nation states interact in the global system.  Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
+
+**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy, and justice.
+
+The Political Science Department’s faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
+
+For more information on the undergraduate program, please contact [Heath Fogg Davis](mailto:hfd@temple.edu).
+
+For major requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
+
+Students must meet University Core Requirements and certain distribution and other requirements of the College of Liberal Arts. More information on these requirements can be found by following these links:
+
+- [Temple General Education Requirements](http://bulletin.temple.edu/undergraduate/general-education/)
+- [College of Liberal Arts Requirements](http://bulletin.temple.edu/undergraduate/liberal-arts/#collegerequirementstext)
+
+## Minor
+
+Students wishing to pair political science with another program of study may be interested in our political science minor. For minor requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
+
+## Certificate in Political Economy
+
+The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics. 
 
 ## Pioneering Research
  
@@ -12,52 +50,6 @@ Our research-oriented curriculum emphasizes academic knowledge, career preparati
 ## Intern In Washington, D.C.
 
 Students have the opportunity to participate in Temple’s Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post.
-
-## Academic Offerings
-
-- [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/)
-- [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/)
-- [MA in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/)
-- [PhD in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
-- Certificate in Political Economy
-
-The Bachelor of Arts degree program in the Political Science Department gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
-
-The discipline of political science is broken down into four distinct subfields:
-
-- **American Politics** focuses on the study of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
-
-- **Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes.  Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
-
-- **International Relations** studies how nation states interact in the global system.  Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
-
-- **Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy, and justice.
-
-The Political Science Department’s faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
-
-For more information on the undergraduate program, please contact [Heath Fogg Davis](http://www.cla.temple.edu/politicalscience/faculty/heath-fogg-davis/).
-
-## Major
-
-For Major Requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
-
-Students must meet University Core Requirements and certain distribution and other requirements of the College of Liberal Arts. More information on these requirements can be found by following these links:
-
-- Temple General Education Requirements
-- [College of Liberal Arts Requirements](http://bulletin.temple.edu/undergraduate/liberal-arts/#collegerequirementstext)
-
-For more detailed information on the undergraduate program, contact Heath Fogg Davis at [hfd@temple.edu](mailto:hfd@temple.edu).
-
-## Minor
-
-For Minor Requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
-
-Students must meet University Core Requirements and certain distribution and other requirements of the College of Liberal Arts. More information on these requirements can be found by following these links:
-
-- University Core Requirements
-- College of Liberal Arts Requirements
-
-For more detailed information on the undergraduate program, contact Professor Heath Fogg Davis at [hfd@temple.edu](mailto:hfd@temple.edu).
 
 ## Honors Program
 
@@ -69,8 +61,7 @@ Political Science majors who have completed their sophomore year with a 3.5 GPA 
 
 ### Admission into the Departmental Honors Program
 
-Eligible students will be contacted via email in the spring semester. Students who believe they are eligible for the program but who were not contacted are encouraged to contact the Political Science Honors Director.
-Political Science Honors Director: Prof. Heath Fogg Davis [hfd@temple.edu](mailto:hfd@temple.edu).
+Eligible students will be contacted via email in the spring semester. Students who believe they are eligible for the program but who were not contacted are encouraged to contact the Political Science Honors Director,  Heath Fogg Davis [hfd@temple.edu](mailto:hfd@temple.edu).
 
 ### University Honors Program
 
