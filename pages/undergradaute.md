@@ -30,11 +30,6 @@ For more information on the undergraduate program, please contact [Heath Fogg Da
 
 For major requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
 
-Students must meet University Core Requirements and certain distribution and other requirements of the College of Liberal Arts. More information on these requirements can be found by following these links:
-
-- [Temple General Education Requirements](http://bulletin.temple.edu/undergraduate/general-education/)
-- [College of Liberal Arts Requirements](http://bulletin.temple.edu/undergraduate/liberal-arts/#collegerequirementstext)
-
 ## Minor
 
 Students wishing to pair political science with another program of study may be interested in our political science minor. For minor requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
@@ -42,14 +37,6 @@ Students wishing to pair political science with another program of study may be 
 ## Certificate in Political Economy
 
 The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics. 
-
-## Pioneering Research
- 
-Our research-oriented curriculum emphasizes academic knowledge, career preparation and citizenship in a democratic political system.
-
-## Intern In Washington, D.C.
-
-Students have the opportunity to participate in Temple’s Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post.
 
 ## Honors Program
 
