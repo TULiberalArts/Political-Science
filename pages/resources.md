@@ -61,7 +61,7 @@ Roselyn Hsueh<br>
 - [Political Science Honor Society](http://www.pisigmaalpha.org/): Pi Sigma Alpha exists to stimulate scholarship and intelligent interest in political science
 - [Application to Temple](http://admissions.temple.edu/apply): for more information and to apply
 - [Incomplete Coursework Policy](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13): the University's offical policy on incomplete coursework
-- [Department Directory](/political-science/faculty): complete listing of contact information for Faculty
+- [Department Directory](/political-science/faculty): complete listing of contact information for faculty
 
 ## Political Science Advisory Board
 
@@ -91,7 +91,7 @@ Established to honor William Allen Jones, a long-term supporter of the Political
 
 **Political Science Advisory Board Internship Awards**
 
-These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the Department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
+These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
 
 ## Graduate Resources
 
