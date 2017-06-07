@@ -1,6 +1,6 @@
 ---
 title: Home
-meta-description: null
+meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
