@@ -6,7 +6,7 @@ permalink: /
 layout: home
 feature: true
 feature-title: Be a Part of Politics
-feature-body: >- 
+feature-body: >-
 	Our students do more than study politics-they actively participate in the process. From the Temple University Capital Semester
 	in Harrisburg to a course where you intern on a real campaign, our program is ideal for students ready to get to work from day 
 	one. Whether your interests lie in civil rights, international affairs, health care, the environment or running for office 
