@@ -93,13 +93,10 @@ TRANSFERS: Transfer students are strongly encouraged to see the chair of undergr
 
 A faculty advisor in the department is the best place to come for general advising about your program at Temple, but keep in mind that there are a variety of other sources you can turn to for advising of various kinds:
 
-Internship Coordinator: for information on internships and general advising for students in the department. For 2016-17 – Dr. John S. Masker (mailto:jsmasker@temple.edu).
-
-[Academic Advising Center](http://liberalarts.temple.edu/advising) - for information about programs and courses outside the department and College of Liberal Arts or University policy.
-
-[Career Services](http://www.temple.edu/provost/careercenter/) - for advising about your plans after graduation.
-
-[Pre-Law Advisor](http://www.cla.temple.edu/prelaw/) – for those interested in a legal career, or information about law school.
+- Internship Coordinator: for information on internships and general advising for students in the department. For 2016-17 – Dr. John S. Masker (mailto:jsmasker@temple.edu).
+- [Academic Advising Center](http://liberalarts.temple.edu/advising) - for information about programs and courses outside the department and College of Liberal Arts or University policy.
+- [Career Services](http://www.temple.edu/provost/careercenter/) - for advising about your plans after graduation.
+- [Pre-Law Advisor](http://www.cla.temple.edu/prelaw/) – for those interested in a legal career, or information about law school. 
 
 University honors and double majors: please be aware that the department may not have a copy of your DARS form. Please bring a copy of your student DARS with you for advising if you fall into one of those categories.
 
