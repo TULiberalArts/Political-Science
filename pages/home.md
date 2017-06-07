@@ -4,10 +4,14 @@ meta-description: 100 or so words
 meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
-feature: false
-feature-title: 
-feature-body: 
-feature-image: 
+feature: true
+feature-title: Be a Part of History
+feature-body: >-
+  Our neuroscience program teaches students to explore neural and brain function
+  at multiple levels in a rapidly growing field. Our students study the neural
+  basis of addiction, developmental disorders, ADHD, depression, anxiety,
+  age-related disorders and much more.
+feature-image: media/hero_Neuroscience-red.png
 published: true
 ---
 
