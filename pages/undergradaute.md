@@ -60,7 +60,7 @@ University honors students may become honors scholars by choosing to develop and
 
 The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of the junior year. All proposals are due by the end of junior year, and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (i.e. the capstone), an independent study or curiosity about some other facet of the study of politics. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
 
-The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. Students who are interested in learning more about joining the University Honors Program are encouraged to contact the university honors director, Ruth Ost [rost@temple.edu](mailto:rost@temple.edu). 
+The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. Students who are interested in learning more about joining the University Honors Program are encouraged to contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu). 
 
 ### Funding and Support
 
