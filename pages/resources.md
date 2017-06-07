@@ -4,7 +4,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-
 ## Contact Us
 
 **Chair:**
@@ -48,11 +47,13 @@ Ryan J. Vander Wielen<br>
 [rvwielen@temple.edu](mailto:rvwielen@temple.edu)
 
 **Undergraduate Advisor and Internship Program Coordinator:**
+
 John S. Masker<br>
 429 Gladfelter Hall<br>
 [jsmasker@temple.edu](mailto:jsmasker@temple.edu)
 
-**Pi Sigma Alpha Faculty Advisor**
+**Pi Sigma Alpha Faculty Advisor:**
+
 Political Science Honor Society, Delta Rho Chapter<br>
 Roselyn Hsueh<br>
 443 Gladfelter Hall<br>
