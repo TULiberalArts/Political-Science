@@ -5,47 +5,58 @@ layout: page
 published: true
 ---
 
+## Contact Us
+
 **Chair:**
 
-Robin Kolodny
-437 Gladfelter Hall
-[(215) 204-7709](tel:215204-7709)
+Robin Kolodny<br>
+437 Gladfelter Hall<br>
+[(215) 204-7709](tel:215204-7709)<br>
 [rkolodny@temple.edu](mailto:rkolodny@temple.edu)
 
 **Administrator:**
 
-Jessica Brennan
-708 Gladfelter Hall
-[(215) 204-7577](tel:2152047577 )
+Jessica Brennan<br>
+708 Gladfelter Hall<br>
+[(215) 204-7577](tel:2152047577 )<br>
 [tua11422@temple.edu](mailto:tua11422@temple.edu)
 
-**Coordinator:**
+**Coordinators:**
 
-LaTasha Goodman
-408 Gladfelter Hall
-215-204-7796
+LaTasha Goodman<br>
+408 Gladfelter Hall<br>
+215-204-7796<br>
 [lgoodman@temple.edu](mailto:lgoodman@temple.edu)
 
-Tanya Taylor (Coordinator for Graduate Studies)
-411 Gladfelter Hall
-[(215) 204-1469](tel:2152041469)
+Tanya Taylor (Coordinator for Graduate Studies)<br>
+411 Gladfelter Hall<br>
+[(215) 204-1469](tel:2152041469)<br>
 [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
 
 **Undergraduate Chair:**
 
-Heath Fogg Davis
-447 Gladfelter Hall
-[(215) 204-7796](tel:2152047796)
+Heath Fogg Davis<br>
+447 Gladfelter Hall<br>
+[(215) 204-7796](tel:2152047796)<br>
 [hfd@temple.edu](mailto:hfd@temple.edu)
 
 **Graduate Chair:**
 
-Ryan J. Vander Wielen
-457 Gladfelter Hall
-[(215) 204-1469](tel:2152041469)
+Ryan J. Vander Wielen<br>
+457 Gladfelter Hall<br>
+[(215) 204-1469](tel:2152041469)<br>
 [rvwielen@temple.edu](mailto:rvwielen@temple.edu)
 
-## Resources here here to help!
+**Undergraduate Advisor and Internship Program Coordinator:**
+John S. Masker<br>
+429 Gladfelter Hall<br>
+[jsmasker@temple.edu](mailto:jsmasker@temple.edu)
+
+**Pi Sigma Alpha Faculty Advisor**
+Political Science Honor Society, Delta Rho Chapter<br>
+Roselyn Hsueh<br>
+443 Gladfelter Hall<br>
+[rhsueh@temple.edu](mailto@rhsueh@temple.edu)
 
 ## Undergraduate Resources 
 
@@ -73,7 +84,11 @@ Applications to departmental internships awards are solicited in March ever year
 **Paul Tully Intern Scholarship**
 
 Established to honor the political life and career of Paul Tully, this award funds students who will complete an internship in government or with a political organization in Washington, D.C.
+
+
 Paul Tully was a political strategist who served as political director of the Democratic National Committee and as advisor to several political campaigns. He worked among others for George McGovern, Edward Kennedy, Robert Kennedy, Walter Mondale, Gary Hart, and Michael Dukakis. At his untimely passing in 1992 at the young age of 48, Paul Tully was deeply engaged in Governor Bill Clinton’s campaign for the White House.
+
+
 The Paul Tully Intern Scholarship helps students defray costs associated with completing an internship in Washington, D.C. for a minimum period of six weeks. The award is $1,500.
 
 **William Allen Jones Experiential Learning Award**
@@ -82,7 +97,7 @@ Established to honor William Allen Jones, a long-term supporter of the Political
 
 **Political Science Advisory Board Internship Awards**
 
-These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the Department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks.  Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
+These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the Department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
 
 ## Graduate Resources
 
