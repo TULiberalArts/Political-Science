@@ -61,14 +61,14 @@ Roselyn Hsueh<br>
 
 ## Undergraduate Resources 
 
-- [Academic Advising](http://www.temple.edu/cla/advising/): The homepage of the Academic Advising Department
-- [Bulletin and Course Listing](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#text): The Undergraduate Bulletin for Political Science
-- [Pre-Law Resources from College of Liberal Arts](http://www.temple.edu/claprelaw/): The homepage of the CLA Pre-law program.
-- [Study Abroad](http://www.temple.edu/studyabroad/): The Temple University Study Abroad Program website can be found [here](http://www.temple.edu/studyabroad/) .
-- [Political Science Honor Society](http://www.pisigmaalpha.org/): [Pi Sigma Alpha](http://www.pisigmaalpha.org/) exists to stimulate scholarship and intelligent interest in political science.
-- [Application to Temple](http://admissions.temple.edu/apply): For more information and to apply, see [here](http://admissions.temple.edu/apply).
-- [Incomplete Coursework Policy](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13): View the Universities offical policy on incomplete coursework [here](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13).
-- [Department Directory](http://www.cla.temple.edu/politicalscience/faculty/): Complete listing of contact information for Faculty.
+- [Academic Advising](http://www.temple.edu/cla/advising/): the homepage of the Academic Advising Department
+- [Bulletin and Course Listing](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#text): the undergraduate bulletin for political science
+- [Pre-Law Resources from College of Liberal Arts](http://www.temple.edu/claprelaw/): the homepage of the CLA Pre-law program
+- [Study Abroad](http://www.temple.edu/studyabroad/): the Temple University Study Abroad Program website
+- [Political Science Honor Society](http://www.pisigmaalpha.org/): Pi Sigma Alpha exists to stimulate scholarship and intelligent interest in political science
+- [Application to Temple](http://admissions.temple.edu/apply): for more information and to apply
+- [Incomplete Coursework Policy](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13): the University's offical policy on incomplete coursework
+- [Department Directory](/political-science/faculty): complete listing of contact information for Faculty
 
 ## Political Science Advisory Board
 
@@ -104,7 +104,7 @@ These awards were established and funded through the generous support of the Pol
 
 - [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf)
 - [Survival Guide for New Students](http://www.cla.temple.edu/politicalscience/files/2013/04/SurvivalGuide2012.pdf)
-- [M.A. and Ph.D. Coursework Checklist](http://www.cla.temple.edu/politicalscience/files/2014/09/ProgramChecklist2014.pdf)
+- [MA and PhD Coursework Checklist](http://www.cla.temple.edu/politicalscience/files/2014/09/ProgramChecklist2014.pdf)
 - [Study Guide for Comprehensive Exams](http://www.cla.temple.edu/politicalscience/files/2013/04/StudyGuideforComprehensiveExams.pdf)
 - [Dissertation Defense Checklist](http://www.cla.temple.edu/politicalscience/files/2013/04/DissertationDefenseChecklist.pdf)
 - [Department Travel Award Application](http://www.cla.temple.edu/politicalscience/files/2013/04/PoliticalScienceConferenceParticipationAwards.docx)
