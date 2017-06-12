@@ -5,7 +5,7 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: true
-feature-title: Be a Part of the Political Process
+feature-title: Be a Part of Politics
 feature-body: >-
   Our students do more than study politics — they actively participate in the
   process. From the Temple University Capital Semester in Harrisburg to a   
