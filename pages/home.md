@@ -16,7 +16,6 @@ feature-body: >-
 feature-image: null
 published: true
 ---
-
 The Political Science Department is ideal for students interested in politics, international affairs, and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.
 
 Our faculty members are nationally recognized in their fields and continue to research and publish while teaching both introductory and advanced courses—all the while bringing their cutting edge research into the classroom.
