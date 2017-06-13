@@ -5,53 +5,7 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Contact Us
-
-### Chair:
-Robin Kolodny<br>
-437 Gladfelter Hall<br>
-[(215) 204-7709](tel:215204-7709)<br>
-[rkolodny@temple.edu](mailto:rkolodny@temple.edu)
-
-### Administrator:
-Jessica Brennan<br>
-708 Gladfelter Hall<br>
-[(215) 204-7577](tel:2152047577 )<br>
-[tua11422@temple.edu](mailto:tua11422@temple.edu)
-
-### Coordinators:
-LaTasha Goodman<br>
-408 Gladfelter Hall<br>
-215-204-7796<br>
-[lgoodman@temple.edu](mailto:lgoodman@temple.edu)
-
-Tanya Taylor (Coordinator for Graduate Studies)<br>
-411 Gladfelter Hall<br>
-[(215) 204-1469](tel:2152041469)<br>
-[ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)
-
-### Undergraduate Chair:
-Heath Fogg Davis<br>
-447 Gladfelter Hall<br>
-[(215) 204-7796](tel:2152047796)<br>
-[hfd@temple.edu](mailto:hfd@temple.edu)
-
-### Graduate Chair:
-Ryan J. Vander Wielen<br>
-457 Gladfelter Hall<br>
-[(215) 204-1469](tel:2152041469)<br>
-[rvwielen@temple.edu](mailto:rvwielen@temple.edu)
-
-### Undergraduate Advisor and Internship Program Coordinator:
-John S. Masker<br>
-429 Gladfelter Hall<br>
-[jsmasker@temple.edu](mailto:jsmasker@temple.edu)
-
-### Pi Sigma Alpha Faculty Advisor:
-Political Science Honor Society, Delta Rho Chapter<br>
-Roselyn Hsueh<br>
-443 Gladfelter Hall<br>
-[rhsueh@temple.edu](mailto@rhsueh@temple.edu)
+## Resources are here to help!
 
 ## Political Science Advisory Board
 
