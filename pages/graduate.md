@@ -44,7 +44,7 @@ sidebar-content:
     <a href="mailto:rvwielen@temple.edu">rvwielen@temple.edu</a><br/>
       &nbsp;<br/>
       
-    <bPi Sigma Alpha Faculty Advisor:</b><br/>
+    <b>Pi Sigma Alpha Faculty Advisor:</b><br/>
     Political Science Honor Society, Delta Rho Chapter
     Roselyn Hsueh<br/>
     443 Gladfelter Hall<br/>
