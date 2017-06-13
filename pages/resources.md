@@ -53,17 +53,6 @@ Roselyn Hsueh<br>
 443 Gladfelter Hall<br>
 [rhsueh@temple.edu](mailto@rhsueh@temple.edu)
 
-## Undergraduate Resources 
-
-- [Academic Advising](http://www.temple.edu/cla/advising/): the homepage of the Academic Advising Department
-- [Bulletin and Course Listing](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#text): the undergraduate bulletin for political science
-- [Pre-Law Resources from College of Liberal Arts](http://www.temple.edu/claprelaw/): the homepage of the CLA Pre-law program
-- [Study Abroad](http://www.temple.edu/studyabroad/): the Temple University Study Abroad Program website
-- [Political Science Honor Society](http://www.pisigmaalpha.org/): Pi Sigma Alpha exists to stimulate scholarship and intelligent interest in political science
-- [Application to Temple](http://admissions.temple.edu/apply): for more information and to apply
-- [Incomplete Coursework Policy](http://policies.temple.edu/getdoc.asp?policy_no=02.10.13): the University's offical policy on incomplete coursework
-- [Department Directory](/political-science/faculty): complete listing of contact information for faculty
-
 ## Political Science Advisory Board
 
 The mission and role of the Political Science Advisory Board (PSAB) is to identify resources for students studying with the Department of Political Science. This includes discovering and expanding internships and other undergraduate and graduate career opportunities; counseling students on best practices to develop their professional network and achieve success in the job market; and raising external funding for Political Science Advisory Board Internship Awards.
@@ -80,9 +69,7 @@ Applications to departmental internships awards are solicited in March ever year
 
 Established to honor the political life and career of Paul Tully, this award funds students who will complete an internship in government or with a political organization in Washington, D.C.
 
-
 Paul Tully was a political strategist who served as political director of the Democratic National Committee and as advisor to several political campaigns. He worked among others for George McGovern, Edward Kennedy, Robert Kennedy, Walter Mondale, Gary Hart, and Michael Dukakis. At his untimely passing in 1992 at the young age of 48, Paul Tully was deeply engaged in Governor Bill Clinton’s campaign for the White House.
-
 
 The Paul Tully Intern Scholarship helps students defray costs associated with completing an internship in Washington, D.C. for a minimum period of six weeks. The award is $1,500.
 
@@ -93,25 +80,3 @@ Established to honor William Allen Jones, a long-term supporter of the Political
 **Political Science Advisory Board Internship Awards**
 
 These awards were established and funded through the generous support of the Political Science Advisory Board. The Board is comprised of alums and friends of the department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
-
-## Graduate Resources
-
-- [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf)
-- [Survival Guide for New Students](http://www.cla.temple.edu/politicalscience/files/2013/04/SurvivalGuide2012.pdf)
-- [MA and PhD Coursework Checklist](http://www.cla.temple.edu/politicalscience/files/2014/09/ProgramChecklist2014.pdf)
-- [Study Guide for Comprehensive Exams](http://www.cla.temple.edu/politicalscience/files/2013/04/StudyGuideforComprehensiveExams.pdf)
-- [Dissertation Defense Checklist](http://www.cla.temple.edu/politicalscience/files/2013/04/DissertationDefenseChecklist.pdf)
-- [Department Travel Award Application](http://www.cla.temple.edu/politicalscience/files/2013/04/PoliticalScienceConferenceParticipationAwards.docx)
-- [Guide to Creating Your Own Webpage](http://sites.temple.edu/websiteinstructionsforpoliscigradstudents/)
-- [Graduate School Policies](http://www.temple.edu/grad/policies/gradpolicies.htm)
-- [Graduate School Forms](http://www.temple.edu/grad/forms/)
-
-## Graduate Student Support Grants
-
-**Summer Camps for Methods Training Grants:** The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
-
-**Lynn Miller Writing Grants:** The department will fund each year up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
-
-**Graduate Opportunity Grants:** The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
-
-**Evolution Consulting Dissertation Grant:** With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
