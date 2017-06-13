@@ -4,6 +4,53 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /undergraduate/
 layout: page
 published: true
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Chair:</b><br/>
+          Robin Kolodny<br/>
+    437 Gladfelter Hall<br/>
+    <a href="tel:2152047709">(215) 204-7709</a><br/>
+    <a href="mailto:rkolodny@temple.edu">rkolodny@temple.edu</a><br/>
+    &nbsp;<br/> 
+
+    <b>Undergraduate Chair:</b><br/>
+    Heath Fogg Davis<br/>
+    447 Gladfelter Hall<br/>
+    <a href="tel:2152047796">(215) 204-7796</a><br/>
+    <a href="mailto:hfd@temple.edu">hfd@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Administrator:</b><br/>
+    Jessica Brennan<br/>
+    708 Gladfelter Hall<br/>
+    <a href="tel:2152047796">(215) 204-7796</a><br/>
+    <a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Coordinator:</b><br/>
+    LaTasha Goodman<br/>
+    408 Gladfelter Hall<br/>
+    <a href="tel:2152047796">(215) 204-7796</a><br/>
+    <a href="mailto:lgoodman@temple.edu">lgoodman@temple.edu</a><br/>
+      &nbsp;<br/>
+      
+    <b>Undergraduate Advisor and Internship Program Coordinator:</b><br/>
+    John S. Masker<br/>
+    429 Gladfelter Hall<br/>
+    <a href="mailto:jsmasker@temple.edu">jsmasker@temple.edu</a><br/>
+      &nbsp;<br/>
+      
+    <bPi Sigma Alpha Faculty Advisor:</b><br/>
+    Political Science Honor Society, Delta Rho Chapter
+    Roselyn Hsueh<br/>
+    443 Gladfelter Hall<br/>
+    <a href="mailto:rhsueh@temple.edu">rhsueh@temple.edu</a><br/>
+      &nbsp;<br/>
+      </ul>
+      </div>
 ---
 ## Academic Offerings at a Glance
 
