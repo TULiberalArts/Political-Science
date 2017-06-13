@@ -4,8 +4,55 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /graduate/
 layout: page
 published: true
----
+sidebar: true
+sidebar-content: 
+    <div class="course-box">
+        <b>Contact:</b>
+        <ul>
+        <b>Chair:</b><br/>
+          Robin Kolodny<br/>
+    437 Gladfelter Hall<br/>
+    <a href="tel:2152047709">(215) 204-7709</a><br/>
+    <a href="mailto:rkolodny@temple.edu">rkolodny@temple.edu</a><br/>
+    &nbsp;<br/> 
 
+    <b>Graduate Chair:</b><br/>
+    Ryan J. Vander Wielen<br/>
+    457 Gladfelter Hall<br/>
+    <a href="tel:2152041469">(215) 204-1469</a><br/>
+    <a href="mailto:rvwielen@temple.edu">rvwielen@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Administrator:</b><br/>
+    Jessica Brennan<br/>
+    708 Gladfelter Hall<br/>
+    <a href="tel:2152047796">(215) 204-7796</a><br/>
+    <a href="mailto:tua11422@temple.edu">tua11422@temple.edu</a><br/>
+      &nbsp;<br/>
+
+    <b>Coordinators:</b><br/>
+    LaTasha Goodman<br/>
+    408 Gladfelter Hall<br/>
+    <a href="tel:2152047796">(215) 204-7796</a><br/>
+    <a href="mailto:lgoodman@temple.edu">lgoodman@temple.edu</a><br/>
+      &nbsp;<br/>
+      
+    <b>Coordinator for Graduate Studies:</b><br/>
+    Tanya Taylor<br/>
+    411 Gladfelter Hall<br/>
+    <a href="tel:2152041469">(215) 204-1469</a><br/>
+    <a href="mailto:rvwielen@temple.edu">rvwielen@temple.edu</a><br/>
+      &nbsp;<br/>
+      
+    <bPi Sigma Alpha Faculty Advisor:</b><br/>
+    Political Science Honor Society, Delta Rho Chapter
+    Roselyn Hsueh<br/>
+    443 Gladfelter Hall<br/>
+    <a href="mailto:rhsueh@temple.edu">rhsueh@temple.edu</a><br/>
+      &nbsp;<br/>
+      </ul>
+      </div>
+---
 Students can earn either a terminal [masters of arts (MA)](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) or [doctor of philosophy (PhD)](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) in political science. The primary mission of the terminal MA program is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
 
 The primary mission of the PhD program is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study, and a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
