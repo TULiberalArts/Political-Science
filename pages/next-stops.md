@@ -35,7 +35,7 @@ Like us on [facebook.com/TUpolisci](https://www.facebook.com/TUpolisci/) and fol
 
 ### Calling All Alumni
 
-How are you? What are you up to? Join the Temple University Political Science Alumni group on LinkedIn. We are working on getting us back in touch with you, getting you in touch with each other, and giving our current students great ideas about all that you can do with political science training.
+How are you? What are you up to? Join the [Temple University Political Science Alumni group on LinkedIn](https://www.linkedin.com/groups/3823848/profile). We are working on getting us back in touch with you, getting you in touch with each other, and giving our current students great ideas about all that you can do with political science training.
 
 ## Make Your Declaration
 
