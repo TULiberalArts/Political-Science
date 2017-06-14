@@ -22,6 +22,7 @@ Our faculty members are nationally recognized in their fields and continue to re
 
 We teach our students how to think, write, read and speak in ways that they can apply to a variety of careers and that will help them become more interested, engaged and capable citizens.
 
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="World-Class Faculty" 
