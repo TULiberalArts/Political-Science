@@ -27,7 +27,7 @@ We teach our students how to think, write, read and speak in ways that they can 
     title="World-Class Faculty" 
     content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and the countries of the world." 
     image="" 
-    button-link="/faculty" 
+    button-link="/political-science/faculty" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -35,7 +35,7 @@ We teach our students how to think, write, read and speak in ways that they can 
       title="Exciting Internship Opportunities" 
       content="We have internships in the public and private sectors and funding to help you make it possible." 
       image="" 
-      button-link="/resources#undergraduate-internships" 
+      button-link="/political-science/resources#undergraduate-internships" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -43,7 +43,7 @@ We teach our students how to think, write, read and speak in ways that they can 
         title="Connect with Us on Social Media" 
         content="Keep up with department happenings and connect with our extensive alumni network." 
         image="" 
-        button-link="/next-stops#social-media" 
+        button-link="/political-science/next-stops#connect-with-us-on-social-media" 
         button-text="Learn More" %}
       </div>
 </div>
