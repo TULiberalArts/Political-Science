@@ -5,8 +5,6 @@ permalink: /resources/
 layout: page
 published: true
 ---
-## Resources are here to help!
-
 ## Political Science Advisory Board
 
 The mission and role of the Political Science Advisory Board (PSAB) is to identify resources for students studying with the Department of Political Science. This includes discovering and expanding internships and other undergraduate and graduate career opportunities; counseling students on best practices to develop their professional network and achieve success in the job market; and raising external funding for Political Science Advisory Board Internship Awards.
