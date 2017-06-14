@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+## Internships and Careers
+
 Our students continually secure coveted internships in the following fields:
 
 - Government offices and agencies (for example, the City of Philadelphia)
@@ -25,6 +27,15 @@ Related careers and fields include the following:
 - Diplomacy
 - Education
 - Government affairs
+
+## Connect with Us on Social Media
+
+Like us on [facebook.com/TUpolisci](https://www.facebook.com/TUpolisci/) and follow us on [twitter.com/TUpolisci](https://twitter.com/TUpolisci) to stay updated on department events and news.
+
+
+### Calling All Alumni
+
+How are you? What are you up to? Join the Temple University Political Science Alumni group on LinkedIn. We are working on getting us back in touch with you, getting you in touch with each other, and giving our current students great ideas about all that you can do with political science training.
 
 ## Make Your Declaration
 
