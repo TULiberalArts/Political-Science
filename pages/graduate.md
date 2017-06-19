@@ -42,7 +42,7 @@ sidebar-content: > #
   
   <hr>
   
- **Coordinator for Graduate Studies:**<br/>
+  **Coordinator for Graduate Studies:**<br/>
   Tanya Taylor<br/>
   411 Gladfelter Hall<br/>
   [(215) 204-1469](tel:2152041469)<br/>
@@ -50,7 +50,7 @@ sidebar-content: > #
   
   <hr>
   
- **Pi Sigma Alpha Faculty Advisor:**<br/>
+  **Pi Sigma Alpha Faculty Advisor:**<br/>
   Political Science Honor Society, Delta Rho Chapter<br/>
   Roselyn Hsueh<br/>
   443 Gladfelter Hall<br/>
