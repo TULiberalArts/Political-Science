@@ -42,14 +42,14 @@ sidebar-content: > #
   
   <hr>
   
- **Undergraduate Advisor and Internship Program Coordinator:**<br/>
+  **Undergraduate Advisor and Internship Program Coordinator:**<br/>
   John S. Masker<br/>
   429 Gladfelter Hall<br/>
   [jsmasker@temple.edu](mailto:jsmasker@temple.edu)<br/>
   
   <hr>
   
- **Pi Sigma Alpha Faculty Advisor:**<br/>
+  **Pi Sigma Alpha Faculty Advisor:**<br/>
   Political Science Honor Society, Delta Rho Chapter<br/>
   Roselyn Hsueh<br/>
   443 Gladfelter Hall<br/>
