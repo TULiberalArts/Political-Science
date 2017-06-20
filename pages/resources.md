@@ -13,11 +13,6 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 ### University Community Collaborative
 The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
-
-## Political Science Advisory Board
-
-The mission and role of the Political Science Advisory Board (PSAB) is to identify resources for students studying with the Department of Political Science. This includes discovering and expanding internships and other undergraduate and graduate career opportunities, counseling students on best practices to develop their professional network and achieve success in the job market, and raising external funding for Political Science Advisory Board Internship Awards.
-
 ## Undergraduate Internships
 
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for the study of politics. Through generous gifts from its supporters, the department makes awards to students who secure appropriate internships. The awards are intended to off-set costs associated with taking on unpaid internships that do not lead to academic credit.
