@@ -28,6 +28,10 @@ Related careers and fields include the following:
 - Education
 - Government affairs
 
+## Intern in Washington, D.C.
+
+Students have the opportunity to participate in Temple’s Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post.
+
 ## Connect with Us on Social Media
 
 Like us on [facebook.com/TUpolisci](https://www.facebook.com/TUpolisci/) and follow us on [twitter.com/TUpolisci](https://twitter.com/TUpolisci) to stay updated on department events and news.
