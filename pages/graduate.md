@@ -47,13 +47,13 @@ sidebar-content: >
 
 Students can earn either a terminal [masters of arts (MA)](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) or [doctor of philosophy (PhD)](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) in political science. The primary mission of the terminal MA program is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
 
-The primary mission of the PhD program is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study, and a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
+The primary mission of the PhD program is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
-We offer coursework in the four major subfields of Political Science: American Politics, Comparative Politics, International Relations, and Political Theory. In American Politics, faculty conduct research on political behavior, political institutions, public policy, and urban politics. In Comparative Politics, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East. In International Relations, faculty apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations. In Political Theory our strengths cluster around the research areas of late modernity; democratic and normative political theories, especially those pertaining to political questions of social and economic inequality, globalization, identity politics, and social movements; and the relationship between politics and religion.
+We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory. In American Politics, faculty conduct research on political behavior, political institutions, public policy and urban politics. In Comparative Politics, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East. In International Relations, faculty apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations. In Political Theory our strengths cluster around the research areas of late modernity; democratic and normative political theories, especially those pertaining to political questions of social and economic inequality, globalization, identity politics, and social movements; and the relationship between politics and religion.
 
 ## Prospective Students
 
-You can apply on-line by clicking [here](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).  Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
+You can apply on-line through the [Temple University Application for Admissions page](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).  Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
 
 - Completed application form
 - Statement of interest
@@ -96,7 +96,7 @@ As you can imagine, being admitted into the graduate program is a competitive pr
 
 Funding is available to a select group of PhD students that includes a monthly stipend for your living expenses, tuition remission for full-time enrollment in coursework, and health insurance. Funding is determined through a competitive process. In general, there are two types of funding:
 
-- Graduate Assistantships: these are provided by the College of Liberal Arts and the department allocates assistantships each year. In return for the assistantship, students serve as teaching assistants, research assistants, or as instructors of record.
+- Graduate Assistantships: these are provided by the College of Liberal Arts and the department allocates assistantships each year. In return for the assistantship, students serve as teaching assistants, research assistants or as instructors of record.
 - University Fellowships: these are allocated each year by the central graduate school. To be considered for a university fellowship, you must submit your application by the December 1 deadline, as these decisions are made early in the year. University fellows receive funding in their first and fourth years and are not expected to serve as a teaching assistant or research assistant; the stipend is also a bit higher than the graduate assistantships stipend. In their second and third years, university fellows who remain in good standing can expect to receive a graduate assistantship (see above).
 
 Students who receive assistantships must remain in good standing within the department in order to be considered for continued funding. Funded students are also expected to take a full course load (9 credit hours prior to passing exams and 1 credit afterwards).
@@ -107,7 +107,7 @@ Once admitted, students may also be able to obtain funding by serving as a resea
 
 Unfortunately, funding is only available for PhD students.
 
-**Q: If I am admitted, but do not receive funding, how much does tuition cost?**
+**Q: If I am admitted but do not receive funding, how much does tuition cost?**
 
 Tuition can vary from year to year. For current rates see [tuition and fees](http://www.temple.edu/grad/admissions/tuition_fees.htm) on the admissions page.
 
@@ -115,7 +115,7 @@ Tuition can vary from year to year. For current rates see [tuition and fees](htt
 
 Current requirements can be found in the [university bulletin](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/).
 
-**Q: What are the requirements for the Ph.D. degree?**
+**Q: What are the requirements for the PhD degree?**
 
 Current requirements can be found in the [university bulletin](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/).
 
@@ -133,4 +133,4 @@ Yes, but only for one year. If you wish to defer your admissions by more than on
 
 **Q: Where can I get a detailed description of the program?**
 
-The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements, and funding.
+The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
