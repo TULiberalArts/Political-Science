@@ -46,9 +46,9 @@ sidebar-content: >
 ---
 ## Academic Offerings at a Glance
 
-- [Master of Arts](#MA-in-Political-Science)
-- [Doctor of Philosophy](#PhD-in-Political-Science)
-- [Master of Public Policy](#Master-of-Public-Policy) 
+- [Master of Arts](#ma-in-political-science)
+- [Doctor of Philosophy](#phd-in-political-science)
+- [Master of Public Policy](#master-of-public-policy) 
 
 ## MA in Political Science
 
