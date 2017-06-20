@@ -5,55 +5,43 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: >
   ### Contact Us
 
   <hr>
 
-  **Chair:**<br/>
-  Robin Kolodny<br/>
-  437 Gladfelter Hall<br/>
-  [(215) 204-7709](tel:2152047709)<br/>
+  **Chair:**<br/> Robin Kolodny<br/> 437 Gladfelter Hall<br/> [(215)
+  204-7709](tel:2152047709)<br/>
   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)<br/>
 
   <hr>
 
-  **Graduate Chair:**<br/>
-  Ryan J. Vander Wielen<br/>
-  457 Gladfelter Hall<br/>
+  **Graduate Chair:**<br/> Ryan J. Vander Wielen<br/> 457 Gladfelter Hall<br/>
   [(215) 204-1469](tel:2152041469) <br/>
   [rvwielen@temple.edu](mailto:rvwielen@temple.edu)<br/>
 
   <hr>
 
-  **Administrator:**<br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7796](tel:2152047796)<br/>
+  **Administrator:**<br/> Jessica Brennan<br/> 708 Gladfelter Hall<br/> [(215)
+  204-7796](tel:2152047796)<br/>
   [tua11422@temple.edu](mailto:tua11422@temple.edu) <br/>
-  
+
   <hr>
 
-  **Coordinator:**<br/>
-  LaTasha Goodman<br/>
-  408 Gladfelter Hall<br/>
-  [(215) 204-7796](tel:2152047796)<br/>
+  **Coordinator:**<br/> LaTasha Goodman<br/> 408 Gladfelter Hall<br/> [(215)
+  204-7796](tel:2152047796)<br/>
   [lgoodman@temple.edu](mailto:lgoodman@temple.edu) <br/>
-  
+
   <hr>
-  
-  **Coordinator for Graduate Studies:**<br/>
-  Tanya Taylor<br/>
-  411 Gladfelter Hall<br/>
-  [(215) 204-1469](tel:2152041469)<br/>
+
+  **Coordinator for Graduate Studies:**<br/> Tanya Taylor<br/> 411 Gladfelter
+  Hall<br/> [(215) 204-1469](tel:2152041469)<br/>
   [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)<br/>
-  
+
   <hr>
-  
-  **Pi Sigma Alpha Faculty Advisor:**<br/>
-  Political Science Honor Society, Delta Rho Chapter<br/>
-  Roselyn Hsueh<br/>
-  443 Gladfelter Hall<br/>
+
+  **Pi Sigma Alpha Faculty Advisor:**<br/> Political Science Honor Society,
+  Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
 ---
 
@@ -65,7 +53,7 @@ We offer coursework in the four major subfields of Political Science: American P
 
 ## Prospective Students
 
-You can apply on-line by clicking [here](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).  Be sure to select either the MA or PhD program.  You do not need a Master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
+You can apply on-line by clicking [here](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).  Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
 
 - Completed application form
 - Statement of interest
