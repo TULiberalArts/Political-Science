@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-published: true
+published: false
 ---
 ## Pioneering Research
  
