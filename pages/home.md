@@ -13,7 +13,7 @@ feature-body: >-
   ready to get to work from day  one. Whether your interests lie in civil
   rights, international affairs, health care, the environment or running for
   office yourself, we have the classes and opportunities for you.
-feature-image: media/hero_PoliticalScience.png
+feature-image: media/hero_PoliticalScience2.png
 published: true
 ---
 The Political Science Department is ideal for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.
