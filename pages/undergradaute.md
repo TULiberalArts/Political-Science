@@ -5,54 +5,43 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: >
   ### Contact Us
 
   <hr>
 
-  **Chair:**<br/>
-  Robin Kolodny<br/>
-  437 Gladfelter Hall<br/>
-  [(215) 204-7709](tel:2152047709)<br/>
+  **Chair:**<br/> Robin Kolodny<br/> 437 Gladfelter Hall<br/> [(215)
+  204-7709](tel:2152047709)<br/>
   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)<br/>
 
   <hr>
 
-  **Undergraduate Chair:**<br/>
-  Heath Fogg Davis<br/>
-  447 Gladfelter Hall<br/>
+  **Undergraduate Chair:**<br/> Heath Fogg Davis<br/> 447 Gladfelter Hall<br/>
   [(215) 204-7796](tel:2152047796)<br/>
   [hfd@temple.edu](mailto:hfd@temple.edu)<br/>
 
   <hr>
 
-  **Administrator:**<br/>
-  Jessica Brennan<br/>
-  708 Gladfelter Hall<br/>
-  [(215) 204-7796](tel:2152047796)<br/>
+  **Administrator:**<br/> Jessica Brennan<br/> 708 Gladfelter Hall<br/> [(215)
+  204-7796](tel:2152047796)<br/>
   [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-  
+
   <hr>
 
-  **Coordinator:**<br/>
-  LaTasha Goodman<br/>
-  408 Gladfelter Hall<br/>
-  [(215) 204-7796](tel:2152047796)<br/>
+  **Coordinator:**<br/> LaTasha Goodman<br/> 408 Gladfelter Hall<br/> [(215)
+  204-7796](tel:2152047796)<br/>
   [lgoodman@temple.edu](mailto:lgoodman@temple.edu)<br/>
-  
+
   <hr>
-  
-  **Undergraduate Advisor and Internship Program Coordinator:**<br/>
-  John S. Masker<br/>
-  429 Gladfelter Hall<br/>
+
+  **Undergraduate Advisor and Internship Program Coordinator:**<br/> John S.
+  Masker<br/> 429 Gladfelter Hall<br/>
   [jsmasker@temple.edu](mailto:jsmasker@temple.edu)<br/>
-  
+
   <hr>
-  
-  **Pi Sigma Alpha Faculty Advisor:**<br/>
-  Political Science Honor Society, Delta Rho Chapter<br/>
-  Roselyn Hsueh<br/>
-  443 Gladfelter Hall<br/>
+
+  **Pi Sigma Alpha Faculty Advisor:**<br/> Political Science Honor Society,
+  Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
 ---
 
@@ -61,6 +50,7 @@ sidebar-content: > #
 - [BA in Political Science](#major)
 - [Minor in Political Science](#minor)
 - [Certificate in Political Economy](#certificate-in-political-economy)
+- [Honors Program](#honors-program)
 
 ## Major
 
@@ -72,9 +62,9 @@ The discipline of political science is broken down into four distinct subfields:
 
 **Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes.  Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
 
-**International Relations** studies how nation states interact in the global system.  Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
+**International Relations** explores how nation states interact in the global system.  Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
 
-**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy, and justice.
+**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy and justice.
 
 The Political Science Department’s faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
 
@@ -94,9 +84,9 @@ The undergraduate [certificate in political economy](http://bulletin.temple.edu/
 
 ### Political Science Honors Program and Distinction in the Major
 
-The political science honors program is designed to give highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students, and to acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program is excellent preparation for graduate school, and deepens the information literacy goals of the general education requirement.
+The political science honors program is designed to give highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students and to acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program deepens the information literacy goals of the general education requirement and is excellent preparation for graduate school.
 
-Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible to be a member of the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone.  Students who pass both capstones with a B or better will graduate with distinction in the major.  In addition, POLI 3996 counts as an upper-level elective and writing intensive course and POLI 4996 counts as the senior capstone requirement.
+Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible to be members of the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone.  Students who pass both capstones with a B or better will graduate with distinction in the major.  In addition, POLI 3996 counts as an upper-level elective and writing intensive course and POLI 4996 counts as the senior capstone requirement.
 
 ### Admission into the Departmental Honors Program
 
@@ -104,13 +94,13 @@ Eligible students will be contacted via email in the spring semester. Students w
 
 ### University Honors Program
 
-Students accepted into the [University Honors Scholar Program](http://www.temple.edu/honors/) may select political science as their field of concentration, thus becoming a member of the political science honors program. University honors students who are interested in earning distinction in the major should take the junior and senior honors capstone course, as described above. University Honors students who do not wish to pursue distinction in the major should, nonetheless, sign up for POLI 4996 as their capstone.
+Students accepted into the [University Honors Scholar Program](http://www.temple.edu/honors/) may select political science as their field of concentration, thus becoming a member of the political science honors program. University honors students who are interested in earning distinction in the major should take the junior and senior honors capstone course, as described above. University honors students who do not wish to pursue distinction in the major should, nonetheless, sign up for POLI 4996 as their capstone.
 
 ### University Honors Scholar Track
 
-University honors students may become honors scholars by choosing to develop and complete an honors project in the form of a thesis. Political science university honors students who complete the university honors program’s course requirements plus an honors thesis graduate with an honors scholar designation on their transcript. Those who do not complete an honors thesis, but satisfy all honors requirements graduate with an honors certificate designation on their transcript.
+University honors students may become honors scholars by choosing to develop and complete an honors project in the form of a thesis. Political science university honors students who complete the university honors program’s course requirements plus an honors thesis graduate with an honors scholar designation on their transcript. Those who do not complete an honors thesis but satisfy all honors requirements graduate with an honors certificate designation on their transcript.
 
-The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of the junior year. All proposals are due by the end of junior year, and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (i.e. the capstone), an independent study or curiosity about some other facet of the study of politics. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
+The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of the junior year. All proposals are due by the end of junior year, and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (e.g., the capstone), an independent study or curiosity about some other facet of the study of politics. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
 
 The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. Students who are interested in learning more about joining the University Honors Program are encouraged to contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu). 
 
@@ -126,7 +116,7 @@ Attention: The following information is for political science majors declared af
 
 ### Introduction
 
-The undergraduate manual is intended as a guide for political science majors and minors. It contains information on requirements for the major and minor, advising services available to you, suggestions for selecting an overall program of study as well as for choosing specific courses, and an overview of special programs. You can find this information here.
+The undergraduate manual is intended as a guide for political science majors and minors. It contains information on requirements for the major and minor, advising services available to you, suggestions for selecting an overall program of study as well as for choosing specific courses, and an overview of special programs.
 
 I. **Advising**
 
