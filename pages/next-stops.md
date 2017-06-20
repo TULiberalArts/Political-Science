@@ -7,9 +7,9 @@ published: true
 ---
 ## Internships and Careers
 
-Our students continually secure coveted internships in the following fields:
+Our students regularly secure coveted internships in the following fields:
 
-- Government offices and agencies (for example, the City of Philadelphia)
+- Government offices and agencies (e.g., the City of Philadelphia)
 - State legislative or congressional offices
 - Political campaigns
 - Law firms and local prosecutor’s offices
