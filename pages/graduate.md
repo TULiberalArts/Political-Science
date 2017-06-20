@@ -44,10 +44,19 @@ sidebar-content: >
   Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
 ---
+## Academic Offerings at a Glance
 
-Students can earn either a terminal [masters of arts (MA)](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) or [doctor of philosophy (PhD)](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) in political science. The primary mission of the terminal MA program is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
+- [Master of Arts](#MA)
+- [Doctor of Philosophy](#PhD)
+- [Master of Public Policy](#MPP) 
 
-The primary mission of the PhD program is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
+## MA
+
+The primary mission of the terminal [MA program](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
+
+## PhD
+
+The primary mission of the [PhD program](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
 We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory. In American Politics, faculty conduct research on political behavior, political institutions, public policy and urban politics. In Comparative Politics, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East. In International Relations, faculty apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations. In Political Theory our strengths cluster around the research areas of late modernity; democratic and normative political theories, especially those pertaining to political questions of social and economic inequality, globalization, identity politics, and social movements; and the relationship between politics and religion.
 
@@ -134,3 +143,7 @@ Yes, but only for one year. If you wish to defer your admissions by more than on
 **Q: Where can I get a detailed description of the program?**
 
 The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
+
+## MPP 
+
+We also offer a [master of public policy](https://develop.cla.temple.edu/public-policy/), housed on its own website.
