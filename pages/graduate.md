@@ -46,15 +46,15 @@ sidebar-content: >
 ---
 ## Academic Offerings at a Glance
 
-- [Master of Arts](#MA)
-- [Doctor of Philosophy](#PhD)
-- [Master of Public Policy](#MPP) 
+- [Master of Arts](#Master-of-Arts)
+- [Doctor of Philosophy](#Doctor-of-Philosophy)
+- [Master of Public Policy](#Master-of-Public-Policy) 
 
-## MA
+## Master of Arts
 
 The primary mission of the terminal [MA program](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
 
-## PhD
+## Doctor of Philosophy
 
 The primary mission of the [PhD program](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
@@ -144,6 +144,6 @@ Yes, but only for one year. If you wish to defer your admissions by more than on
 
 The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
 
-## MPP 
+## Master of Public Policy
 
 We also offer a [master of public policy](https://www.cla.temple.edu/public-policy/), housed on its own website.
