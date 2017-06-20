@@ -146,4 +146,4 @@ The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/poli
 
 ## MPP 
 
-We also offer a [master of public policy](https://develop.cla.temple.edu/public-policy/), housed on its own website.
+We also offer a [master of public policy](https://www.cla.temple.edu/public-policy/), housed on its own website.
