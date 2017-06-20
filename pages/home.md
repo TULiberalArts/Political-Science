@@ -13,7 +13,7 @@ feature-body: >-
   ready to get to work from day  one. Whether your interests lie in civil
   rights, international affairs, health care, the environment or running for
   office yourself, we have the classes and opportunities for you.
-feature-image: media/hero_PoliticalScience2.png
+feature-image: hero_PoliticalScience2.png
 published: true
 
 ---
