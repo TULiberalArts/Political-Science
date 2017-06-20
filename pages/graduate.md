@@ -46,15 +46,15 @@ sidebar-content: >
 ---
 ## Academic Offerings at a Glance
 
-- [Master of Arts](#Master-of-Arts)
-- [Doctor of Philosophy](#Doctor-of-Philosophy)
+- [Master of Arts](#MA-in-Political-Science)
+- [Doctor of Philosophy](#PhD-in-Political-Science)
 - [Master of Public Policy](#Master-of-Public-Policy) 
 
-## Master of Arts
+## MA in Political Science
 
 The primary mission of the terminal [MA program](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
 
-## Doctor of Philosophy
+## PhD in Political Science
 
 The primary mission of the [PhD program](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
