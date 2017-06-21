@@ -50,6 +50,7 @@ sidebar-content: >
 - [BA in Political Science](#major)
 - [Minor in Political Science](#minor)
 - [Certificate in Political Economy](#certificate-in-political-economy)
+- [The Washington Semester](#the-washington-semester)
 - [Honors Program](#honors-program)
 
 ## Major
