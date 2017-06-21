@@ -13,6 +13,12 @@ Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/i
 ### University Community Collaborative
 The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
+## Featherman Lecture Series
+
+In addition to our thriving departmental lecture series, we offer the exciting Sandra and Bernard Featherman Lecture Series. How societies cope with and resolve major policy problems stands at the center of the Featherman Lecture Series. Made possible by generous benefactors, the series brings to the Temple community the voice of eminent political scientists who address timely and timeless challenges confronting the United States. Past speakers include Cornel West, Frances Fox Piven, Margaret Levi, Jane Mansbridge and Edward G. Rendell.
+
+Sandra Featherman is a former member of the Temple Political Science Department and University of New England president. With a particular scholarly interest in urban politics, Sandra Featherman has been actively involved in the boards of over forty community and charitable organizations within the Philadelphia area. Bernard Featherman is an alumnus of the Temple School of Business and attended Temple Law School. A former business executive, Bernard Featherman has been an active voice in public policy, serving on many boards for urban enterprise zones and community health organizations.
+
 ## Undergraduate Internships
 
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for the study of politics. Through generous gifts from its supporters, the department makes awards to students who secure appropriate internships. The awards are intended to off-set costs associated with taking on unpaid internships that do not lead to academic credit.
