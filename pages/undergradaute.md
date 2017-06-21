@@ -83,7 +83,7 @@ The undergraduate [certificate in political economy](http://bulletin.temple.edu/
 
 ## The Washington Semester
 
-Students have the opportunity to participate in the Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post. See the department for details. For information on other internships as well as internship funding opportunities, see our [resources page](/political-science/resources).
+Students have the opportunity to participate in the Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post. See the department for details. For information on other internships as well as internship funding opportunities, see our [resources page](/political-science/resources#undergraduate-internships).
 
 ## Honors Program
 
