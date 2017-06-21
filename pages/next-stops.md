@@ -15,9 +15,9 @@ Our students regularly secure coveted internships in the following fields:
 - Law firms and local prosecutor’s offices
 - Public interest groups
 
-Political science offers students preparation that can help them in a wide range of endeavors. Our alumni go on to law school and graduate studies, while others find meaningful employment in government, political groups and campaigns, the media, non-profit organizations and business.
+See our [resources page](/political-science/resources#undergraduate-internships) for more information on internships and funding opportunities.
 
-Related careers and fields include the following:
+Political science offers students preparation that can help them in a wide range of endeavors. Our alumni go on to law school and graduate studies, while others find meaningful employment in government, political groups and campaigns, the media, non-profit organizations and business. Related careers and fields include the following:
 
 - Policy researchers
 - Political correspondents
