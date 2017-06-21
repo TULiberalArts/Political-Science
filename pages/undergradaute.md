@@ -80,6 +80,10 @@ Students wishing to pair political science with another program of study may be 
 
 The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics. 
 
+## The Washington Semester
+
+Students have the opportunity to participate in the Washington Semester, earning credit while interning in D.C. at places like the U.S. House of Representatives, the Smithsonian and the Washington Post. See the department for details. For information on other internships as well as internship funding opportunities, see our [resources page](/political-science/resources).
+
 ## Honors Program
 
 ### Political Science Honors Program and Distinction in the Major
