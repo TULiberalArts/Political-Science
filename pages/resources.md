@@ -5,6 +5,8 @@ permalink: /resources/
 layout: page
 published: true
 ---
+Read on for information about our [affiliated centers](#affiliated-centers), the exciting [Featherman Lecture Series](#featherman-lecture-series), [undergraduate internships](#undergraduate-internships), the [washington semester](#washington-semester), the undergraduate [honors program](#honors-program) and [handbook](#handbook), and [graduate student support grants](#graduate-student-support-grants).
+
 ## Affiliated Centers
 
 ### Institute for Public Affairs
@@ -140,5 +142,3 @@ IV. **Faculty**
 **Graduate Opportunity Grants:** The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
 
 **Evolution Consulting Dissertation Grant:** With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
-
-
