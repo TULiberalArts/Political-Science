@@ -44,6 +44,7 @@ sidebar-content: >
   Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
 ---
+Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. 
 
 ## Academic Offerings at a Glance
 
@@ -77,4 +78,4 @@ Students wishing to pair political science with another program of study may be 
 
 ## Certificate in Political Economy
 
-The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics. 
+The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics.
