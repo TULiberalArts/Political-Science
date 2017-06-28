@@ -5,7 +5,7 @@ permalink: /resources/
 layout: page
 published: true
 ---
-Read on for information about our [affiliated centers](#affiliated-centers), the exciting [Featherman Lecture Series](#featherman-lecture-series), [undergraduate internships](#undergraduate-internships), the [Washington Semester](#the-washington-semester), the undergraduate [honors program](#undergraduate-honors-program) and [handbook](#handbook), and [graduate student support grants](#graduate-student-support-grants).
+Read on for information about our [affiliated centers](#affiliated-centers), the exciting [Featherman Lecture Series](#featherman-lecture-series), [graduate student support grants](#graduate-student-support-grants), the [Washington Semester](#the-washington-semester) and undergraduate [internships](#undergraduate-internships), [honors program](#undergraduate-honors-program) and [handbook](#handbook).
 
 ## Affiliated Centers
 
