@@ -5,7 +5,7 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
-Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Just [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Find out more on our [social media accounts](#connect-with-us-on-social-media) or [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
 ## Internships and Careers
 
