@@ -5,6 +5,8 @@ permalink: /next-stops/
 layout: page
 published: true
 ---
+Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Just [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
+
 ## Internships and Careers
 
 Our students regularly secure coveted internships in the following fields:
@@ -31,7 +33,6 @@ Political science offers students preparation that can help them in a wide range
 ## Connect with Us on Social Media
 
 Like us on [facebook.com/TUpolisci](https://www.facebook.com/TUpolisci/) and follow us on [twitter.com/TUpolisci](https://twitter.com/TUpolisci) to stay updated on department events and news.
-
 
 ### Calling All Alumni
 
