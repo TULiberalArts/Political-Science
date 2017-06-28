@@ -44,6 +44,8 @@ sidebar-content: >
   Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
 ---
+Our graduate offerings include an MA and PhD in political science as well as a master of public policy degree. Read our [FAQ](#frequently-asked-questions) below for answers to our most commonly received questions.
+
 ## Academic Offerings at a Glance
 
 - [Master of Arts](#ma-in-political-science)
