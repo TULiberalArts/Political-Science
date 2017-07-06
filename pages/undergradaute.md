@@ -5,45 +5,45 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: >
-  ### Contact Us
-
-  <hr>
-
-  **Chair:**<br/> Robin Kolodny<br/> 437 Gladfelter Hall<br/> [(215)
-  204-7709](tel:2152047709)<br/>
-  [rkolodny@temple.edu](mailto:rkolodny@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Chair:**<br/> Heath Fogg Davis<br/> 447 Gladfelter Hall<br/>
-  [(215) 204-7796](tel:2152047796)<br/>
-  [hfd@temple.edu](mailto:hfd@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:**<br/> Jessica Brennan<br/> 708 Gladfelter Hall<br/> [(215)
-  204-7796](tel:2152047796)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu)<br/>
-
-  <hr>
-
-  **Coordinator:**<br/> LaTasha Goodman<br/> 408 Gladfelter Hall<br/> [(215)
-  204-7796](tel:2152047796)<br/>
-  [lgoodman@temple.edu](mailto:lgoodman@temple.edu)<br/>
-
-  <hr>
-
-  **Undergraduate Advisor and Internship Program Coordinator:**<br/> John S.
-  Masker<br/> 429 Gladfelter Hall<br/>
-  [jsmasker@temple.edu](mailto:jsmasker@temple.edu)<br/>
-
-  <hr>
-
-  **Pi Sigma Alpha Faculty Advisor:**<br/> Political Science Honor Society,
-  Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
-  [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
+sidebar-content: > #   
+  **Chair:**  
+   Robin Kolodny  
+   437 Gladfelter Hall  
+   [(215) 204-7709](tel:2152047709)  
+   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)  
+   
+   ___
+   
+   **Undergraduate Chair:**  
+   Heath Fogg Davis  
+   447 Gladfelter Hall  
+   [(215) 204-7796](tel:2152047796)  
+   [hfd@temple.edu](mailto:hfd@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall  
+   [(215) 204-7796](tel:2152047796)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+      
+   ___
+   
+   **Coordinator:**  
+   LaTasha Goodman  
+   408 Gladfelter Hall  
+   [(215) 204-7796](tel:2152047796)  
+   [lgoodman@temple.edu](mailto:lgoodman@temple.edu)  
+      
+   ___
+   
+   **Pi Sigma Alpha Faculty Advisor, Political Science Honor Society Delta Rho Chapter:**  
+   Roselyn Hsueh  
+   443 Gladfelter Hall  
+   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
 ---
+
 Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. 
 
 ## Academic Offerings at a Glance
