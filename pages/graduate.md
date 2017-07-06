@@ -5,45 +5,53 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: >
-  ### Contact Us
-
-  <hr>
-
-  **Chair:**<br/> Robin Kolodny<br/> 437 Gladfelter Hall<br/> [(215)
-  204-7709](tel:2152047709)<br/>
-  [rkolodny@temple.edu](mailto:rkolodny@temple.edu)<br/>
-
-  <hr>
-
-  **Graduate Chair:**<br/> Ryan J. Vander Wielen<br/> 457 Gladfelter Hall<br/>
-  [(215) 204-1469](tel:2152041469) <br/>
-  [rvwielen@temple.edu](mailto:rvwielen@temple.edu)<br/>
-
-  <hr>
-
-  **Administrator:**<br/> Jessica Brennan<br/> 708 Gladfelter Hall<br/> [(215)
-  204-7796](tel:2152047796)<br/>
-  [tua11422@temple.edu](mailto:tua11422@temple.edu) <br/>
-
-  <hr>
-
-  **Coordinator:**<br/> LaTasha Goodman<br/> 408 Gladfelter Hall<br/> [(215)
-  204-7796](tel:2152047796)<br/>
-  [lgoodman@temple.edu](mailto:lgoodman@temple.edu) <br/>
-
-  <hr>
-
-  **Coordinator for Graduate Studies:**<br/> Tanya Taylor<br/> 411 Gladfelter
-  Hall<br/> [(215) 204-1469](tel:2152041469)<br/>
-  [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)<br/>
-
-  <hr>
-
-  **Pi Sigma Alpha Faculty Advisor:**<br/> Political Science Honor Society,
-  Delta Rho Chapter<br/> Roselyn Hsueh<br/> 443 Gladfelter Hall<br/>
-  [rhsueh@temple.edu](mailto:rhsueh@temple.edu)<br/>
+sidebar-content: > #
+  **Chair:**  
+   Robin Kolodny  
+   437 Gladfelter Hall  
+   [(215) 204-7709](tel:2152047709)  
+   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)  
+   
+   ___
+   
+   **Graduate Chair:**  
+   Ryan J. Vander Wielen  
+   457 Gladfelter Hall  
+   [(215) 204-1469](tel:2152041469)  
+   [rvwielen@temple.edu](mailto:rvwielen@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Jessica Brennan  
+   708 Gladfelter Hall  
+   [(215) 204-7796](tel:2152047796)  
+   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
+      
+   ___
+   
+   **Coordinator:**  
+   LaTasha Goodman  
+   408 Gladfelter Hall  
+   [(215) 204-7796](tel:2152047796)  
+   [lgoodman@temple.edu](mailto:lgoodman@temple.edu)  
+      
+   ___
+   
+   **Coordinator for Graduate Studies:**  
+   Tanya Taylor  
+   411 Gladfelter Hall  
+   [(215) 204-1469](tel:2152041469)  
+   [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)  
+   
+   ___
+   
+   **Pi Sigma Alpha Faculty Advisor, Political Science Honor Society Delta Rho Chapter:**  
+   Roselyn Hsueh  
+   443 Gladfelter Hall  
+   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
 ---
+
 Our graduate offerings include an MA and PhD in political science as well as a master of public policy degree. Read our [FAQ](#frequently-asked-questions) for answers to our most commonly received questions.
 
 ## Academic Offerings at a Glance
