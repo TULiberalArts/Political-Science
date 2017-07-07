@@ -5,7 +5,7 @@ permalink: /graduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Robin Kolodny  
    437 Gladfelter Hall  
@@ -49,7 +49,7 @@ sidebar-content: > #
    **Pi Sigma Alpha Faculty Advisor, Political Science Honor Society Delta Rho Chapter:**  
    Roselyn Hsueh  
    443 Gladfelter Hall  
-   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
+   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
 
 Our graduate offerings include an MA and PhD in political science as well as a master of public policy degree. Read our [FAQ](#frequently-asked-questions) for answers to our most commonly received questions.
@@ -58,7 +58,7 @@ Our graduate offerings include an MA and PhD in political science as well as a m
 
 - [Master of Arts](#ma-in-political-science)
 - [Doctor of Philosophy](#phd-in-political-science)
-- [Master of Public Policy](#master-of-public-policy) 
+- [Master of Public Policy](https://develop.cla.temple.edu/public-policy/) 
 
 ## MA in Political Science
 
