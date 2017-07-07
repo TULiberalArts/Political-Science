@@ -58,7 +58,7 @@ Our graduate offerings include an MA and PhD in political science as well as a m
 
 - [Master of Arts](#ma-in-political-science)
 - [Doctor of Philosophy](#phd-in-political-science)
-- [Master of Public Policy](https://develop.cla.temple.edu/public-policy/)
+- [Master of Public Policy](https://develop.cla.temple.edu/public-policy/) 
 
 ## MA in Political Science
 
