@@ -153,7 +153,3 @@ Yes, but only for one year. If you wish to defer your admissions by more than on
 **Q: Where can I get a detailed description of the program?**
 
 The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
-
-## Master of Public Policy
-
-We also offer a [master of public policy](https://develop.cla.temple.edu/public-policy/), housed on its own website.
