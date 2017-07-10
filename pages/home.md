@@ -20,6 +20,8 @@ The Political Science Department is ideal for students interested in politics, i
 
 Our students learn how to think, write, read and speak in ways that they can apply to a variety of careers and that will help them become more interested, engaged and capable citizens.
 
+Testing.
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="World-Class Faculty" 
