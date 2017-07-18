@@ -8,15 +8,15 @@ feature: true
 feature-title: Take Part in the Political Process
 feature-body: >-
   Our students do more than study politics — they actively participate in it.
-  From Temple's Capital Semester in Harrisburg to a   
-  course where you intern on a real campaign, our program is ideal for students
-  ready to get to work from day one. Whether your interests lie in civil
-  rights, international affairs, health care, the environment or running for
-  office yourself, we have the classes and opportunities for you.
+  From Temple's Capital Semester in Harrisburg to a    course where you intern
+  on a real campaign, our program is ideal for students ready to get to work
+  from day one. Whether your interests lie in civil rights, international
+  affairs, health care, the environment or running for office yourself, we have
+  the classes and opportunities for you.
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
-The Political Science Department is ideal for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.
+The Department of Political Science ideal for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.
 
 Our students learn how to think, write, read and speak in ways that they can apply to a variety of careers and that will help them become more interested, engaged and capable citizens.
 
