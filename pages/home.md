@@ -16,9 +16,9 @@ feature-body: >-
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
-The Department of Political Science ideal for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theories concerning the ideal government and how power and resources should be allocated in society.
+The Department of Political Science is the ideal home for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theory and debate how power and resources should be allocated in society.
 
-Our students learn how to think, write, read and speak in ways that they can apply to a variety of careers and that will help them become more interested, engaged and capable citizens.
+As a political science student, you will learn how to think, write, read and speak in ways that  you can apply to a variety of careers, helping you become a more interested, engaged and capable citizen.
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
