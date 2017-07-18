@@ -5,12 +5,12 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /
 layout: home
 feature: true
-feature-title: Be a Part of the Political Process
+feature-title: Take Part in the Political Process
 feature-body: >-
-  Our students do more than study politics — they actively participate in the
-  process. From the Temple University Capital Semester in Harrisburg to a   
+  Our students do more than study politics — they actively participate in it.
+  From Temple's Capital Semester in Harrisburg to a   
   course where you intern on a real campaign, our program is ideal for students
-  ready to get to work from day  one. Whether your interests lie in civil
+  ready to get to work from day one. Whether your interests lie in civil
   rights, international affairs, health care, the environment or running for
   office yourself, we have the classes and opportunities for you.
 feature-image: hero_PoliticalScience2.png
