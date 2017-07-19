@@ -4,6 +4,10 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
+meta-description: >-
+  Information about our affiliated centers, the exciting Featherman  Lecture
+  Series, graduate student support grants, the Washington  Semester and
+  undergraduate internships, honors program and handbook.
 ---
 Read on for information about our [affiliated centers](#affiliated-centers), the exciting [Featherman Lecture Series](#featherman-lecture-series), [graduate student support grants](#graduate-student-support-grants), the [Washington Semester](#the-washington-semester) and undergraduate [internships](#undergraduate-internships), [honors program](#undergraduate-honors-program) and [handbook](#handbook).
 
