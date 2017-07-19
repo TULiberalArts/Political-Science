@@ -43,9 +43,9 @@ sidebar-content: |
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
 meta-description: >-
-  Our department offers a bachelor’s degree in political science, a       minor
-  that can be paired with any other program of study and a          certificate
-  in political economy.
+  Our department offers a bachelor’s degree in political science, a     minor
+  that can be paired with any other program of study and a  certificate in
+  political economy.
 ---
 
 Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. 
