@@ -4,6 +4,7 @@ meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
 published: true
+meta-description: 'Our graduates go on to an exciting range of internships and careers. '
 ---
 Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Find out more on our [social media accounts](#connect-with-us-on-social-media) or [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
