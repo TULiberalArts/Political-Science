@@ -50,6 +50,9 @@ sidebar-content: |
    Roselyn Hsueh  
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
+meta-description: >-
+  Our graduate offerings include an MA and PhD in political science as  well as
+  a master of public policy degree.
 ---
 
 Our graduate offerings include an MA and PhD in political science as well as a master of public policy degree. Read our [FAQ](#frequently-asked-questions) for answers to our most commonly received questions.
