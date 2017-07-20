@@ -1,6 +1,6 @@
 ---
 title: Alumni Board
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: alumini board, internship awards, career, undergraduate, graduate
 permalink: /alumni-board/
 layout: page
 published: true
