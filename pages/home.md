@@ -3,14 +3,14 @@ title: Home
 meta-description: >-
   Our students do more than study politics - they actively participate in the
   political process. 
-meta-keywords: 
+meta-keywords: political science, students, politics, learn, intern
 permalink: /
 layout: home
 feature: true
 feature-title: Take Part in the Political Process
 feature-body: >-
   Our students do more than study politics — they actively participate in it.
-  From Temple's Capital Semester in Harrisburg to a    course where you intern
+  From Temple's Capital Semester in Harrisburg to a course where you intern
   on a real campaign, our program is ideal for students ready to get to work
   from day one. Whether your interests lie in civil rights, international
   affairs, health care, the environment or running for office yourself, we have
