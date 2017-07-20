@@ -1,6 +1,6 @@
 ---
 title: Undergraduate
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: undergraduate, major, minor, political study
 permalink: /undergraduate/
 layout: page
 published: true
