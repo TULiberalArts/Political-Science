@@ -3,7 +3,7 @@ title: Home
 meta-description: >-
   Our students do more than study politics - they actively participate in the
   political process. 
-meta-keywords: 3 or 4 unique for this page
+meta-keywords: transfer, apply, visit, College of Liberal Arts
 permalink: /
 layout: home
 feature: true
