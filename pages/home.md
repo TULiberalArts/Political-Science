@@ -3,18 +3,18 @@ title: Home
 meta-description: >-
   Our students do more than study politics - they actively participate in the
   political process. 
-meta-keywords: political science, students, politics, learn, intern
+meta-keywords: 'political science, students, politics, learn, intern'
 permalink: /
 layout: home
 feature: true
 feature-title: Take Part in the Political Process
 feature-body: >-
   Our students do more than study politics — they actively participate in it.
-  From Temple's Capital Semester in Harrisburg to a course where you intern
-  on a real campaign, our program is ideal for students ready to get to work
-  from day one. Whether your interests lie in civil rights, international
-  affairs, health care, the environment or running for office yourself, we have
-  the classes and opportunities for you.
+  From Temple's Capital Semester in Harrisburg to a course where you intern on a
+  real campaign, our program is ideal for students ready to get to work from day
+  one. Whether your interests lie in civil rights, international affairs, health
+  care, the environment or running for office yourself, we have the classes and
+  opportunities for you.
 feature-image: hero_PoliticalScience2.png
 published: true
 ---
@@ -25,7 +25,7 @@ As a political science student, you will learn how to think, write, read and spe
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="World-Class Faculty" 
-    content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and the countries of the world." 
+    content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and to countries around the world." 
     image="" 
     button-link="/political-science/faculty" 
     button-text="Learn More" %}
@@ -33,7 +33,7 @@ As a political science student, you will learn how to think, write, read and spe
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Exciting Internship Opportunities" 
-      content="We have internships in the public and private sectors and funding to help you make it possible." 
+      content="We can connect you to internships in the public and private sectors, along with funding to help you take advante of your opportunities." 
       image="" 
       button-link="/political-science/resources#undergraduate-internships" 
       button-text="Learn More" %}
