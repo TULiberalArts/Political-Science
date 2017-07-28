@@ -1,6 +1,6 @@
 ---
 title: Next Stops
-meta-keywords: transfer, apply, visit, College of Liberal Arts
+meta-keywords: 'transfer, apply, visit, College of Liberal Arts'
 permalink: /next-stops/
 layout: page
 published: true
@@ -59,7 +59,7 @@ To learn more about transferring to Temple, please visit [temple.edu/transfer](h
 
 ## Apply
 
-When you are ready to apply, submit your application online at [admissions.temple.edu/app](http://admissions.temple.edu/app)
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply )
 
 ## Deadlines
 
