@@ -1,6 +1,6 @@
 ---
 title: Graduate
-meta-keywords: masters, phd program, funding, application
+meta-keywords: 'masters, phd program, funding, application'
 permalink: /graduate/
 layout: page
 published: true
@@ -82,7 +82,7 @@ You can apply on-line through the [Temple University Application for Admissions 
 - Three (3) letters of recommendation
 - Writing sample
 - Resume
-- Official transcript(s) for previous degrees (must be sent directly from the granting institution). Please submit transcripts from non-U.S. granting institutions to us via [Word Education Services](http://www.wes.org/students/index.asp).
+- Official transcript(s) for previous degrees (must be sent directly from the granting institution). Please submit transcripts from non-U.S. granting institutions to us via [World Education Services](https://www.wes.org/).
 - GRE scores (GREs must have been taken within the last five years)
 - TOFEL scores (only necessary if applicant’s previous degree(s) are from a university outside the United States)
 
