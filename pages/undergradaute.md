@@ -50,7 +50,7 @@ meta-description: >-
 
 Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. 
 
-When you are ready to apply, submit your application online at [https://admissions.temple.edu/apply](https://admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [http://admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic Offerings at a Glance
 
