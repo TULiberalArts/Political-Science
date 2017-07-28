@@ -1,6 +1,6 @@
 ---
 title: Resources
-meta-keywords: political science, resources, internships, opportunities, grants
+meta-keywords: 'political science, resources, internships, opportunities, grants'
 permalink: /resources/
 layout: page
 published: true
@@ -31,7 +31,7 @@ The Department of Political Science encourages students to pursue internships th
 
 ### Instructions
 
-Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript and a letter of recommendation. More details are available with award announcements, and by [emailing the Undergraduate Chair](mailto:hfd@temple.edu).
+Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript and a letter of recommendation. More details are available with award announcements, and by [emailing the undergraduate chair](mailto:hfd@temple.edu).
 
 **Paul Tully Intern Scholarship**
 
@@ -43,11 +43,11 @@ The Paul Tully Intern Scholarship helps students defray costs associated with co
 
 **William Allen Jones Experiential Learning Award**
 
-Established to honor William Allen Jones, a long-term supporter of the Political Science Department, this award funds political science majors who complete an internship in local, national, or international governmental offices or political organizations, for a minimum of six weeks. The award is $1,000.
+Established to honor William Allen Jones, a long-term supporter of the Department of Political Science, this award funds political science majors who complete an internship in local, national or international governmental offices or political organizations, for a minimum of six weeks. The award is $1,000.
 
 **Political Science Advisory Board Internship Awards**
 
-These awards were established and funded through the generous support of the Political Science Advisory Board. The board is comprised of alums and friends of the department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
+These awards were established and funded through the generous support of the Political Science Advisory Board. The board is comprised of alumni and friends of the department who wish to help current political science majors complete internships in the course of their studies. These awards fund majors who complete an internship in local, national, or international organization for a minimum of eight weeks. Preference in selection is given to students who are completing an unpaid internship. The award is $1,000.
 
 ## The Washington Semester
 
@@ -59,7 +59,7 @@ Students have the opportunity to participate in the Washington Semester, earning
 
 The political science honors program is designed to give highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students and to acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program deepens the information literacy goals of the general education requirement and is excellent preparation for graduate school.
 
-Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible to be members of the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone.  Students who pass both capstones with a B or better will graduate with distinction in the major.  In addition, POLI 3996 counts as an upper-level elective and writing intensive course and POLI 4996 counts as the senior capstone requirement.
+Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible to be members of the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone. Students who pass both capstones with a B or better will graduate with distinction in the major.  In addition, POLI 3996 counts as an upper-level elective and writing intensive course and POLI 4996 counts as the senior capstone requirement.
 
 ### Admission into the Departmental Honors Program
 
@@ -85,8 +85,6 @@ Honors students are also encouraged to submit their completed thesis to the [Lib
 
 ## Handbook
 
-Attention: The following information is for political science majors declared after August 26, 2005. For those declared prior to that date, the old requirements apply.
-
 ### Introduction
 
 The undergraduate manual is intended as a guide for political science majors and minors. It contains information on requirements for the major and minor, advising services available to you, suggestions for selecting an overall program of study as well as for choosing specific courses, and an overview of special programs.
@@ -102,9 +100,9 @@ One of the most important occasions (though surely not the only one) when you wa
 - Do these courses help prepare you for what you plan to do after graduation?
 - Do some of these courses build on what you have learned before?
 
-SENIORS: Students registering for their senior year must go to Academic Advising for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
+**Seniors**: Students registering for their senior year must go to Academic Advising for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
 
-TRANSFERS: Transfer students are strongly encouraged to see the chair of undergraduate studies in the Political Science Department as soon as they receive a statement of how their previous credits transfer to Temple . The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits.
+**Transfers**: Transfer students are strongly encouraged to see the chair of undergraduate studies as soon as they receive a statement of how their previous credits transfer to Temple. The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits.
 
 A faculty advisor in the department is the best place to come for general advising about your program at Temple, but keep in mind that there are a variety of other sources you can turn to for advising of various kinds:
 
@@ -117,15 +115,15 @@ University honors and double majors: please be aware that the department may not
 
 II. **Special Programs**
 
-Honors Programs: there are two distinct honors programs for undergraduates. One is the Departmental Honor Program in which Political Science majors are eligible to take particular honors classes and graduate with distinction in the major.  The other is the University Honors Program in which students are also eligible to graduate with distinction in the major but can also pursue the Honors Certificate Program.  For more information visit [here](http://www.cla.temple.edu/politicalscience/undergraduate/honors-program/).
+**Honors Programs**: there are two distinct honors programs for undergraduates. One is the Departmental Honor Program in which political science majors are eligible to take particular honors classes and graduate with distinction in the major. The other is the University Honors Program in which students are also eligible to graduate with distinction in the major but can also pursue the Honors Certificate Program. For more information visit [here](http://www.cla.temple.edu/politicalscience/undergraduate/honors-program/).
 
-Cooperative Education Program: the Cooperative Education Program at Temple is designed to provide experience in an actual job situation for which the student earns academic credit when their work is done in conjunction with academic supervision. Interested students should see the Coop Coordinator for more information: For 2013-2014 – Dr. Alistair Howard (alistair@temple.edu).
+**Cooperative Education Program**: the Cooperative Education Program at Temple is designed to provide experience in an actual job situation for which the student earns academic credit when their work is done in conjunction with academic supervision. Interested students should see the Coop Coordinator for more information: For 2013-2014 – Dr. Alistair Howard (alistair@temple.edu).
 
-Pre-law Curriculum: Political Science is one of the most popular majors for pre-law students. Although law schools neither give preference to any particular choice of major nor require any specific undergraduate courses, they do make some general recommendations about getting a sound Liberal Arts education. Students should visit the [CLA website](http://www.cla.temple.edu/prelaw/), for more information. First, develop skill in communicating your ideas in both written and spoken form. Courses in composition, literature, speech, and other humanities and social sciences can help you improve these skills, which are essential to success in law school and in the profession of law. Second, sharpen your analytical abilities. Take courses that challenge you to think logically. Courses in mathematics, science, computer programming, logic, argumentation, philosophy, literature, other humanities and social sciences should help you develop your powers of critical thinking. Third, law schools suggest that you acquire in-depth understanding of at least one social science (in your case Political Science).Finally, some knowledge of business structure and terminology may be useful once you are in law school. Accounting and/or economics are therefore useful to some pre-law students.
+**Pre-law Curriculum**: Political Science is one of the most popular majors for pre-law students. Although law schools neither give preference to any particular choice of major nor require any specific undergraduate courses, they do make some general recommendations about getting a sound Liberal Arts education. Students should visit the [CLA website](http://www.cla.temple.edu/prelaw/), for more information. First, develop skill in communicating your ideas in both written and spoken form. Courses in composition, literature, speech, and other humanities and social sciences can help you improve these skills, which are essential to success in law school and in the profession of law. Second, sharpen your analytical abilities. Take courses that challenge you to think logically. Courses in mathematics, science, computer programming, logic, argumentation, philosophy, literature, other humanities and social sciences should help you develop your powers of critical thinking. Third, law schools suggest that you acquire in-depth understanding of at least one social science (in your case political science). Finally, some knowledge of business structure and terminology may be useful once you are in law school. Accounting and/or economics are therefore useful to some pre-law students.
 
-Temple Abroad: Temple provides a number of opportunities for students to study in foreign countries. The opportunities to live in, and meet people from, other cultures, to see different countries, and to learn a foreign language while earning credit towards the degree, can greatly enrich the undergraduate experience. The [Office of International Programs](www.temple.edu/studyabroad/programs/index.html):(200 Tuttleman Learning Center, ext. 0720) has information on a variety of programs. Students considering study abroad should contact this office. Examples of study abroad locations include Tokyo, Rome, Israel, London, Paris, Germany, Ghana, and Mexico.
+**Temple Abroad**: Temple provides a number of opportunities for students to study in foreign countries. The opportunities to live in, and meet people from, other cultures, to see different countries, and to learn a foreign language while earning credit towards the degree, can greatly enrich the undergraduate experience. The [Office of International Programs](www.temple.edu/studyabroad/programs/index.html):(200 Tuttleman Learning Center, ext. 0720) has information on a variety of programs. Students considering study abroad should contact this office. Examples of study abroad locations include Tokyo, Rome, Israel, London, Paris, Germany, Ghana, and Mexico.
 
-Political Economy Program: The Department of Political Science and the Department of Economics offer an interdisciplinary program leading to a Certificate in Political Economy. Because the program focuses on the interaction between government and the economy, the program is ideal preparation for students planning careers in either the public or private sector. It also provides an excellent foundation for graduate studies in law, the social sciences, and public administration. The program is open to all matriculated students in the University. Contact [Dr. Richard Deeg](mailto:rdeeg@temple.edu) or see here in the online bulletin for specific details and requirements.
+**Political Economy Program**: The Department of Political Science and the Department of Economics offer an interdisciplinary program leading to a Certificate in Political Economy. Because the program focuses on the interaction between government and the economy, the program is ideal preparation for students planning careers in either the public or private sector. It also provides an excellent foundation for graduate studies in law, the social sciences, and public administration. The program is open to all matriculated students in the University.
 
 III. **Student Organizations**
 
