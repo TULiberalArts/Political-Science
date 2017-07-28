@@ -33,7 +33,7 @@ As a political science student, you will learn how to think, write, read and spe
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="Exciting Internship Opportunities" 
-      content="We can connect you to internships in the public and private sectors, along with funding to help you take advante of your opportunities." 
+      content="We can connect you to internships and funding in both the public and private sectors." 
       image="" 
       button-link="/political-science/resources#undergraduate-internships" 
       button-text="Learn More" %}
