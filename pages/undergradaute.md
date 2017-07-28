@@ -60,19 +60,19 @@ When you are ready to apply, submit your application online at [admissions.templ
 
 ## Major
 
-The bachelor of arts degree program in the Political Science Department gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
+The BA in political science program gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
 
 The discipline of political science is broken down into four distinct subfields:
 
 **American Politics** focuses on the study of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
 
-**Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes.  Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
+**Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes. Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
 
-**International Relations** explores how nation states interact in the global system.  Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
+**International Relations** explores how nation states interact in the global system. Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
 
-**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity.  Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy and justice.
+**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity. Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy and justice.
 
-The Political Science Department’s faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
+Political science faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
 
 For more information on the undergraduate program, please contact [Heath Fogg Davis](mailto:hfd@temple.edu).
 
@@ -80,7 +80,7 @@ For major requirements please see the [undergraduate bulletin](http://bulletin.t
 
 ## Minor
 
-Students wishing to pair political science with another program of study may be interested in our political science minor. For minor requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
+Students wishing to pair political science with another program of study may be interested in our political science minor. For minor requirements, please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
 
 ## Certificate in Political Economy
 
