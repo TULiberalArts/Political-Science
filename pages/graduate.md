@@ -65,17 +65,25 @@ Our graduate offerings include an MA and PhD in political science as well as a m
 
 ## MA in Political Science
 
-The primary mission of the terminal [MA program](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree towards careers in the private or public sector.
+The primary mission of the terminal [MA program](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/) is to provide a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree toward careers in the private or public sector.
 
 ## PhD in Political Science
 
-The primary mission of the [PhD program](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) is to prepare students for careers in academia. Towards that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
+The primary mission of the [PhD program](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/) is to prepare students for careers in academia. To that end, we train our students to become successful scholars and teachers. PhD students complete the requirements for the MA program, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
-We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory. In American Politics, faculty conduct research on political behavior, political institutions, public policy and urban politics. In Comparative Politics, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East. In International Relations, faculty apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations. In Political Theory our strengths cluster around the research areas of late modernity; democratic and normative political theories, especially those pertaining to political questions of social and economic inequality, globalization, identity politics, and social movements; and the relationship between politics and religion.
+We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory.
+
+In American Politics, faculty conduct research on political behavior, political institutions, public policy and urban politics.
+
+In Comparative Politics, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East.
+
+In International Relations, faculty apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations.
+
+In Political Theory, our strengths cluster around the research areas of late modernity; democratic and normative political theories, especially those pertaining to political questions of social and economic inequality, globalization, identity politics, and social movements; and the relationship between politics and religion.
 
 ## Prospective Students
 
-You can apply on-line through the [Temple University Application for Admissions page](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon).  Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
+You can apply online through the [Temple University Application for Admissions](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon). Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
 
 - Completed application form
 - Statement of interest
@@ -96,7 +104,7 @@ _**Application Deadline is December 1st**_
 
 **Q: I want to earn a PhD, but I don’t have a master’s degree. Should I apply to the master’s program?**
 
-You do not need a master’s degree in order to be admitted into the PhD program.  You only need to have completed a bachelor’s degree before enrolling in classes.  If you want to earn a PhD, it is important to apply directly to the PhD program so that you will be considered for funding.
+You do not need a master’s degree in order to be admitted into the PhD program. You only need to have completed a bachelor’s degree before enrolling in classes. If you want to earn a PhD, it is important to apply directly to the PhD program so that you will be considered for funding.
 
 **Q: What are the admissions standards for the graduate program?**
 
@@ -147,11 +155,11 @@ While students are actively taking classes (i.e. before taking comprehensive exa
 
 **Q: If I am admitted, can I start in the spring semester?**
 
-No.  Students must begin in the fall semester.
+No. Students must begin in the fall semester.
 
 **Q: If I am admitted, can I defer my admissions?**
 
-Yes, but only for one year. If you wish to defer your admissions by more than one year, you must reapply.  Moreover, if you received an assistantship, you will be re-entered into the potential funding pool and there is no guarantee that you will be awarded funding for the next year. If you wish to defer your admission, you must notify the director of graduate studies in writing and receive permission.
+Yes, but only for one year. If you wish to defer your admissions by more than one year, you must reapply. Moreover, if you received an assistantship, you will be re-entered into the potential funding pool and there is no guarantee that you will be awarded funding for the next year. If you wish to defer your admission, you must notify the director of graduate studies in writing and receive permission.
 
 **Q: Where can I get a detailed description of the program?**
 
