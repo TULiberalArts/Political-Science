@@ -98,9 +98,9 @@ One of the most important occasions (though surely not the only one) when you wa
 - Do these courses help prepare you for what you plan to do after graduation?
 - Do some of these courses build on what you have learned before?
 
-**Seniors**: Students registering for their senior year must go to Academic Advising [when?]  for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
+**Seniors**: Students registering for their senior year must go to Academic Advising  for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
 
-**Transfers**: Transfer students are strongly encouraged to see the Chair of Undergraduate Studies in the Political Science department (Dr. Heath Davis – hfd@temple.edu) as soon as they receive a statement of how their previous credits transfer to Temple . The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits. 
+**Transfers**: Transfer students are strongly encouraged to see the Chair of Undergraduate Studies in the Political Science department (Dr. Heath Davis – [hfd@temple.edu](mailto:hfd@temple.edu)) as soon as they receive a statement of how their previous credits transfer to Temple . The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits. 
 
 **Advising Contacts for all Majors and Minors:**
 
