@@ -29,8 +29,6 @@ Sandra Featherman is a former member of the Temple Political Science Department 
 
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for the study of politics. Through generous gifts from its supporters, the department makes awards to students who secure appropriate internships. The awards are intended to off-set costs associated with taking on unpaid internships that do not lead to academic credit.
 
-Interested in offering an internship? We welcome new opportunities! Please contact Dr. Lauren Farmer, Undergraduate Advisor & Internship Coordinator at [laa@temple.edu](mailto:laa@temple.edu).
-
 ### Instructions
 
 Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript and a letter of recommendation. More details are available with award announcements, and by [emailing the undergraduate chair](mailto:hfd@temple.edu).
@@ -87,12 +85,10 @@ Honors students are also encouraged to submit their completed thesis to the [Lib
 
 ## Handbook
 
-### Introduction
+**Introduction**
+This handbook is intended as a guide for political science majors and minors. It contains information on requirements for the major and minor, advising services available to you, suggestions for selecting an overall program of study as well as for choosing specific courses, and an overview of special programs. 
 
-The undergraduate manual is intended as a guide for political science majors and minors. It contains information on requirements for the major and minor, advising services available to you, suggestions for selecting an overall program of study as well as for choosing specific courses, and an overview of special programs.
-
-I. **Advising**
-
+### I. Advising
 It is important that you plan your program with the assistance of an advisor to ensure that you are fully aware of the opportunities open to you and to ensure that you follow a course of study that fits your needs and goals.
 
 One of the most important occasions (though surely not the only one) when you want to talk to an advisor is when you register (or priority register) for a semester. The best way to register is to make tentative selections before you see your advisor and be prepared to explain to the advisor why these courses make the most sense for you. Be sure to have your DARS form handy when you see your advisor. Keep in mind that you are ultimately responsible for your own academic program. Here are some questions you might want to think about before you see your advisor:
@@ -102,38 +98,39 @@ One of the most important occasions (though surely not the only one) when you wa
 - Do these courses help prepare you for what you plan to do after graduation?
 - Do some of these courses build on what you have learned before?
 
-**Seniors**: Students registering for their senior year must go to Academic Advising for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
+**Seniors**: Students registering for their senior year must go to Academic Advising [when?]  for a “pre-graduate review.” This process will ensure that you have fulfilled the necessary requirements to graduate.
 
-**Transfers**: Transfer students are strongly encouraged to see the chair of undergraduate studies as soon as they receive a statement of how their previous credits transfer to Temple. The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits.
+**Transfers**: Transfer students are strongly encouraged to see the Chair of Undergraduate Studies in the Political Science department (Dr. Heath Davis – hfd@temple.edu) as soon as they receive a statement of how their previous credits transfer to Temple . The department can help students interpret the special requirements that often apply to transfer students as well as help them evaluate how their classes transferred in political science. The sooner you make this appointment, the better off you will be. We can help students with important concerns about their transfer credits. 
 
-A faculty advisor in the department is the best place to come for general advising about your program at Temple, but keep in mind that there are a variety of other sources you can turn to for advising of various kinds:
+**Advising Contacts for all Majors and Minors:**
 
-- Internship Coordinator - for information on internships and general advising for students in the department. For 2016-17 – Dr. John S. Masker (mailto:jsmasker@temple.edu).
-- [Academic Advising Center](http://liberalarts.temple.edu/advising) - for information about programs and courses outside the department and College of Liberal Arts or University policy.
-- [Career Services](http://www.temple.edu/provost/careercenter/) - for advising about your plans after graduation.
-- [Pre-Law Advisor](http://www.cla.temple.edu/prelaw/) – for those interested in a legal career, or information about law school. 
+College of Liberal Arts (CLA) [Center for Academic Advising](https://liberalarts.temple.edu/advising) for advising about programs and courses outside the department, and for information about College of Liberal Arts or University policy.
 
-University honors and double majors: please be aware that the department may not have a copy of your DARS form. Please bring a copy of your student DARS with you for advising if you fall into one of those categories.
+[CLA Professional Development](https://liberalarts.temple.edu/advising/professional-development) for classes, programs, and personal advice on how to build your skills and networks for your post-graduation plans.
 
-II. **Special Programs**
+**Pre-law Curriculum and Advising**: Political Science is one of the most popular majors for pre-law students. Although law schools neither give preference to any particular choice of major nor require any specific undergraduate courses, they do make some general recommendations about getting a sound liberal arts education. CLA recommends that you meet with a pre-law advisor during your freshman year (or as soon as you have made the decision to pursue law school). Contact one of these pre-law advisors to learn more: [Paul Crowe](mailto:pcrowe@temple.edu), [Libby Reynard](mailto:ereynard@temple.edu) and [Keesa Bond](mailto:keesab@temple.edu).
 
-**Honors Programs**: there are two distinct honors programs for undergraduates. One is the Departmental Honor Program in which political science majors are eligible to take particular honors classes and graduate with distinction in the major. The other is the University Honors Program in which students are also eligible to graduate with distinction in the major but can also pursue the Honors Certificate Program. For more information visit [here](http://www.cla.temple.edu/politicalscience/undergraduate/honors-program/).
+**Academic Advising in Political Science**: For 2017-18, Dr. John S. Masker ([jsmasker@temple.edu](mailto:jsmasker@temple.edu)) is available for general advising, transfer equivalencies for study abroad programs, study abroad and career planning. Students interested in 4 + 1 programs should make their plans carefully with Dr. Masker.
 
-**Cooperative Education Program**: the Cooperative Education Program at Temple is designed to provide experience in an actual job situation for which the student earns academic credit when their work is done in conjunction with academic supervision. Interested students should see the Coop Coordinator for more information: For 2013-2014 – Dr. Alistair Howard (alistair@temple.edu).
+**Internship Coordinator/ Cooperative Education Program**: For 2017-18, Dr. Lauren A. Farmer ([laa@temple.edu](mailto:laa@temple.edu)). Our program provides experience in a professional job situation for which the student earns academic credit (when their work is done in conjunction with academic supervision). We also work closely with the Capital Semester program in Harrisburg, Pennsylvania and the Washington Semester program in Washington, D.C. Find the right fit for you.
 
-**Pre-law Curriculum**: Political Science is one of the most popular majors for pre-law students. Although law schools neither give preference to any particular choice of major nor require any specific undergraduate courses, they do make some general recommendations about getting a sound Liberal Arts education. Students should visit the [CLA website](http://www.cla.temple.edu/prelaw/), for more information. First, develop skill in communicating your ideas in both written and spoken form. Courses in composition, literature, speech, and other humanities and social sciences can help you improve these skills, which are essential to success in law school and in the profession of law. Second, sharpen your analytical abilities. Take courses that challenge you to think logically. Courses in mathematics, science, computer programming, logic, argumentation, philosophy, literature, other humanities and social sciences should help you develop your powers of critical thinking. Third, law schools suggest that you acquire in-depth understanding of at least one social science (in your case political science). Finally, some knowledge of business structure and terminology may be useful once you are in law school. Accounting and/or economics are therefore useful to some pre-law students.
+### II. Special Programs
 
-**Temple Abroad**: Temple provides a number of opportunities for students to study in foreign countries. The opportunities to live in, and meet people from, other cultures, to see different countries, and to learn a foreign language while earning credit towards the degree, can greatly enrich the undergraduate experience. The [Office of International Programs](www.temple.edu/studyabroad/programs/index.html):(200 Tuttleman Learning Center, ext. 0720) has information on a variety of programs. Students considering study abroad should contact this office. Examples of study abroad locations include Tokyo, Rome, Israel, London, Paris, Germany, Ghana, and Mexico.
+**Honors Programs**
+There are two kinds of honors programs for undergraduates:
 
-**Political Economy Program**: The Department of Political Science and the Department of Economics offer an interdisciplinary program leading to a Certificate in Political Economy. Because the program focuses on the interaction between government and the economy, the program is ideal preparation for students planning careers in either the public or private sector. It also provides an excellent foundation for graduate studies in law, the social sciences, and public administration. The program is open to all matriculated students in the University.
+**1. Departmental Honors Program**: Political Science majors can take particular courses and graduate with distinction in the major.
 
-III. **Student Organizations**
+**2. University Honors Program**: Students who are enrolled in the University Honors Program are eligible to earn an Honors Certificate.
 
-**The Political Science Majors Association:** The Political Science Majors Association is the organization of all Political Science majors at Temple University . The primary purpose of the Association is to relay the Undergraduate Major’s opinions and interests in the Political Science Department and in the College of Liberal Arts. The Association has sponsored various activities for the Undergraduate major including: career forums, lectures, student and faculty mixers, law and graduate forums, seminars on popular topics, and trips to Harrisburg.
+**Political Economy Program**: The Department of Political Science and the Department of Economics offer an interdisciplinary program leading to a Certificate in Political Economy. The program focuses on the interaction between government and the economy, and is ideal preparation for students planning careers in either the public or private sector. It also provides an excellent foundation for graduate studies in law, the social sciences, and public administration. The program is open to all matriculated students in the University. Contact Dr. [Roselyn Hsueh](mailto:rhsueh@temple.edu) (rhsueh@temple.edu) or [Dr. Alexandra Guisinger](mailto:tug29051@temple.edu) for more information.
 
-Pi Sigma Alpha Pi Sigma Alpha, the national Political Science Honor Society, exists for the purpose of conferring honor on those students who have distinguished themselves in the field of Political Science. Inquiries about membership in Pi Sigma Alpha should be directed to the faculty advisor of Pi Sigma Alpha, [Dr. Robin Kolodny](mailto:rhsueh@temple.edu).
+### III. Student Organizations
+The Political Science Society (PSS) is an organization open to all political science majors at Temple University. The primary purpose of PSS is to relay the undergraduate major’s opinions and interests in the political science department and in the College of Liberal Arts. PSS sponsors various activities and events, such as student debates, career forums, lectures, student and faculty mixers, and law and graduate school forums.
 
-IV. **Faculty**
+Pi Sigma Alpha is the national Political Science Honor Society. It exists for the purpose of conferring honor on those students who have distinguished themselves in the field of Political Science. Temple University houses the Delta Rho chapter. Inquiries about membership in Pi Sigma Alpha should be directed to the faculty advisor, [Dr. Heath Davis](mailto:hfd@temple.edu).
+
+### IV. Faculty
 
 [See the faculty homepage](/political-science/faculty).
 
