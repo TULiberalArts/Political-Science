@@ -38,10 +38,10 @@ As a political science student, you will learn how to think, write, read and spe
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="Connect with Us on Social Media" 
-        content="Keep up with department happenings and connect with our extensive alumni network." 
+        title="A Degree With Distinction" 
+        content="Our departmental honors program allows you to conduct in-depth independent research on topics of interest." 
         image="" 
-        button-link="/political-science/next-stops#connect-with-us-on-social-media" 
+        button-link="/political-science/resources/#undergraduate-honors-program" 
         button-text="Learn More" %}
       </div>
 </div>
