@@ -130,10 +130,6 @@ The Political Science Society (PSS) is an organization open to all political sci
 
 Pi Sigma Alpha is the national Political Science Honor Society. It exists for the purpose of conferring honor on those students who have distinguished themselves in the field of Political Science. Temple University houses the Delta Rho chapter. Inquiries about membership in Pi Sigma Alpha should be directed to the faculty advisor, [Dr. Heath Davis](mailto:hfd@temple.edu).
 
-### IV. Faculty
-
-[See the faculty homepage](/political-science/faculty).
-
 ## Graduate Student Support Grants
 
 **Summer Camps for Methods Training Grants:** The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
