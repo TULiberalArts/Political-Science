@@ -29,6 +29,8 @@ Sandra Featherman is a former member of the Temple Political Science Department 
 
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for the study of politics. Through generous gifts from its supporters, the department makes awards to students who secure appropriate internships. The awards are intended to off-set costs associated with taking on unpaid internships that do not lead to academic credit.
 
+Interested in offering an internship? We welcome new opportunities! Please contact Dr. Lauren Farmer, Undergraduate Advisor & Internship Coordinator at [laa@temple.edu](mailto:laa@temple.edu).
+
 ### Instructions
 
 Applications to departmental internships awards are solicited in March ever year. Completed applications will include a statement describing how an internship will further the candidate’s studies, a list of organizations to which students have or will apply, a resume, a transcript and a letter of recommendation. More details are available with award announcements, and by [emailing the undergraduate chair](mailto:hfd@temple.edu).
