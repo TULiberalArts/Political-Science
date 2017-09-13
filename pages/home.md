@@ -2,7 +2,7 @@
 title: Home
 meta-description: >-
   Our students do more than study politics - they actively participate in the
-  political process. 
+  political process.
 meta-keywords: 'political science, students, politics, learn, intern'
 permalink: /
 layout: home
@@ -21,27 +21,27 @@ The Department of Political Science is the ideal home for students interested in
 As a political science student, you will learn how to think, write, read and speak in ways that  you can apply to a variety of careers, helping you become a more interested, engaged and capable citizen.
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html 
-    title="World-Class Faculty" 
-    content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and to countries around the world." 
-    image="" 
-    button-link="/political-science/faculty" 
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="World-Class Faculty"
+    content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and to countries around the world."
+    image=""
+    button-link="/political-science/faculty"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html 
-      title="Exciting Internship Opportunities" 
-      content="We can connect you to internships and funding in both the public and private sectors." 
-      image="" 
-      button-link="/political-science/resources#undergraduate-internships" 
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Exciting Internship Opportunities"
+      content="We can connect you to internships and funding in both the public and private sectors."
+      image=""
+      button-link="/political-science/resources#undergraduate-internships"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
-        title="A Degree With Distinction" 
-        content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in." 
-        image="" 
-        button-link="/political-science/resources/#undergraduate-honors-program" 
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="A Degree With Distinction"
+        content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in."
+        image=""
+        button-link="/political-science/resources/#undergraduate-honors-program"
         button-text="Learn More" %}
       </div>
 </div>
