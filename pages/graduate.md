@@ -1,8 +1,9 @@
 ---
 title: Graduate
-meta-keywords: 'masters, phd program, funding, application'
 permalink: /graduate/
 layout: page
+description: >- 
+keywords: 'masters, phd program, funding, application'
 published: true
 sidebar: true
 sidebar-content: |
