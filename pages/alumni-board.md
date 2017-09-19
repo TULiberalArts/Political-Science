@@ -1,10 +1,11 @@
 ---
 title: Alumni Board
-meta-keywords: alumini board, internship awards, career, undergraduate, graduate
 permalink: /alumni-board/
 layout: page
-published: true
-meta-description: Information about the Political Science Advisory Board.
+keywords: 'alumini board, internship awards, career, undergraduate, graduate'
+description: >- 
+  Information about the Political Science Advisory Board.
+published: true 
 ---
 
 ## Political Science Advisory Board
