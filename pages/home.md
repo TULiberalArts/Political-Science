@@ -1,19 +1,19 @@
 ---
 title: Home
+permalink: /
 meta-description: >-
   Our students do more than study politics - they actively participate in the
   political process.
-meta-keywords: 'political science, students, politics, learn, intern'
-permalink: /
+keywords: 'political science, students, politics, learn, intern'
 layout: home
 feature: true
 feature-title: Take Part in the Political Process
+feature-image: hero_PoliticalScience2.png
 feature-body: >-
   Our students do more than study politics — they actively participate in it.
   From Temple's Capital Semester in Harrisburg to a course where you intern on a
   real campaign, our program is ideal for students ready to get to work from day
   one.
-feature-image: hero_PoliticalScience2.png
 published: true
 ---
 The Department of Political Science is the ideal home for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theory and debate how power and resources should be allocated in society.
