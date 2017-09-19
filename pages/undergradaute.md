@@ -1,8 +1,9 @@
 ---
 title: Undergraduate
-meta-keywords: 'undergraduate, major, minor, political study'
 permalink: /undergraduate/
 layout: page
+keywords: 'undergraduate, major, minor, political study'
+description: >- 
 published: true
 sidebar: true
 sidebar-content: |
