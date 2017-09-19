@@ -1,10 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 'transfer, apply, visit, College of Liberal Arts'
 permalink: /next-stops/
 layout: page
+keywords: 'transfer, apply, visit, College of Liberal Arts'
+description: >- 
+  Our graduates go on to an exciting range of internships and careers.
 published: true
-meta-description: 'Our graduates go on to an exciting range of internships and careers. '
 ---
 Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Find out more on our [social media accounts](#connect-with-us-on-social-media) or [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
 
