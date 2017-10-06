@@ -5,7 +5,7 @@ meta-description: >-
   Our students do more than study politics - they actively participate in the
   political process.
 keywords: 'political science, students, politics, learn, intern'
-layout: home
+layout: home2
 feature: true
 feature-title: Take Part in the Political Process
 feature-image: hero_PoliticalScience2.png
