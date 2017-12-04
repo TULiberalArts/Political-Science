@@ -87,7 +87,7 @@ In Political Theory, our strengths cluster around the research areas of late mod
 
 Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 1st**_. 
 
-Please visit the Political Science Graduate Admissions page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the [Political Science Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/political-science) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Frequently Asked Questions
 
