@@ -2,7 +2,6 @@
 title: Graduate
 permalink: /graduate/
 layout: page
-description: >- 
 keywords: 'masters, phd program, funding, application'
 published: true
 sidebar: true
@@ -84,22 +83,11 @@ In Political Theory, our strengths cluster around the research areas of late mod
 
 ## Prospective Students
 
-You can apply online through the [Temple University Application for Admissions](https://prd-wlssb.temple.edu/prod8/bwskalog.P_DispLoginNon). Be sure to select either the MA or PhD program.  You do not need a master’s degree to apply to the PhD program. If you are interested in pursuing the PhD, you only need to have earned a bachelor’s degree before enrolling. A complete application includes the following:
+### Admsissions Process 
 
-- Completed application form
-- Statement of interest
-- Three (3) letters of recommendation
-- Writing sample
-- Resume
-- Official transcript(s) for previous degrees (must be sent directly from the granting institution). Please submit transcripts from non-U.S. granting institutions to us via [World Education Services](https://www.wes.org/).
-- GRE scores (GREs must have been taken within the last five years)
-- TOFEL scores (only necessary if applicant’s previous degree(s) are from a university outside the United States)
+Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 1st**_. 
 
-Applicants to the PhD program are automatically considered for funding, which includes tuition remission and a stipend.
-
-Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term.
-
-_**Application Deadline is December 1st**_
+Please visit the Political Science Graduate Admissions page to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Frequently Asked Questions
 
