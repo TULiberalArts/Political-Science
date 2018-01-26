@@ -20,6 +20,14 @@ The Department of Political Science is the ideal home for students interested in
 
 As a political science student, you will learn how to think, write, read and speak in ways that  you can apply to a variety of careers, helping you become a more interested, engaged and capable citizen.
 
+## Academic Offerings
+- [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/)
+- [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/)
+- [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
+- [Master of Arts](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/)
+- [Doctor of Philosophy](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
+- [Master of Public Policy](https://cla.temple.edu/public-policy/) 
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="World-Class Faculty"
