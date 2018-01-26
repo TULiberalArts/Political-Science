@@ -53,14 +53,7 @@ Our department offers a bachelor's degree in political science, a minor that can
 
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
-## Academic Offerings at a Glance
-
-- [BA in Political Science](#major)
-- [Minor in Political Science](#minor)
-- [Certificate in Political Economy](#certificate-in-political-economy)
-
 ## Major
-
 The BA in political science program gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
 
 The discipline of political science is broken down into four distinct subfields:
@@ -80,9 +73,7 @@ For more information on the undergraduate program, please contact [Heath Fogg Da
 For major requirements please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
 
 ## Minor
-
 Students wishing to pair political science with another program of study may be interested in our political science minor. For minor requirements, please see the [undergraduate bulletin](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
 
 ## Certificate in Political Economy
-
 The undergraduate [certificate in political economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/) is for students interested in an in-depth study of the relationship between politics and economics.
