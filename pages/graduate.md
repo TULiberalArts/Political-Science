@@ -77,16 +77,16 @@ Admissions decisions are made in the spring semester and admitted students are e
 Please visit the [Political Science Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/political-science) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Student Support Grants
--**Summer Camps for Methods Training Grants:** 
+- **Summer Camps for Methods Training Grants:** 
  The department will fund up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
 
--**Lynn Miller Writing Grants**: 
+- **Lynn Miller Writing Grants**: 
 The department will fund each year up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
 
--**Graduate Opportunity Grants**:
+- **Graduate Opportunity Grants**:
 The department will fund up to 3 students per semester for up to $500 to attend professional conferences to present scholarly research.
 
--**Evolution Consulting Dissertation Grant:** 
+- **Evolution Consulting Dissertation Grant:** 
 With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal arts is able to provide an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
 
 ## Resources 
