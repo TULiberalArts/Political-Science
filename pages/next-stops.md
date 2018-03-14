@@ -6,11 +6,9 @@ keywords: 'transfer, apply, visit, College of Liberal Arts'
 description: >- 
   Our graduates go on to an exciting range of internships and careers.
 published: true
+
 ---
-Our graduates go on to an exciting range of [internships and careers](#internships-and-careers). Find out more on our [social media accounts](#connect-with-us-on-social-media) or [ask our alumni](#calling-all-alumni). Convinced? [Make your declaration](#make-your-declaration), learn about [transfer options](#thinking-of-transferring) or [apply to Temple](#apply). 
-
-## Internships and Careers
-
+## Where can a Degree in Political Science Take Me?
 Our students regularly secure coveted internships in the following fields:
 
 - Government offices and agencies (e.g., the City of Philadelphia)
@@ -18,8 +16,6 @@ Our students regularly secure coveted internships in the following fields:
 - Political campaigns
 - Law firms and local prosecutor’s offices
 - Public interest groups
-
-See our [resources page](/political-science/resources#undergraduate-internships) for more information on internships and funding opportunities.
 
 Political science offers students preparation that can help them in a wide range of endeavors. Our alumni go on to law school and graduate studies, while others find meaningful employment in government, political groups and campaigns, the media, non-profit organizations and business. Related careers and fields include the following:
 
@@ -32,32 +28,25 @@ Political science offers students preparation that can help them in a wide range
 - Education
 - Government affairs
 
-## Connect with Us on Social Media
-
 Like us on [facebook.com/TUpolisci](https://www.facebook.com/TUpolisci/) and follow us on [twitter.com/TUpolisci](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
 ### Calling All Alumni
-
-How are you? What are you up to? Join the [Temple University Political Science Alumni group on LinkedIn](https://www.linkedin.com/groups/3823848/profile). We are working on getting us back in touch with you, getting you in touch with each other, and giving our current students great ideas about all that you can do with political science training.
+How are you? What are you up to? Join the [Temple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We are working on getting us back in touch with you, getting you in touch with each other, and giving our current students great ideas about all that you can do with political science training.
 
 ## Make Your Declaration
-
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests – from the humanities and social sciences to business and the media arts.
 
 For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
 
 ## Visit Us!
-
 The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking of Transferring?
- 
-The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
+ The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 
 To learn more about transferring to Temple, please visit [temple.edu/transfer](http://temple.edu/transfer)
 
 ## Apply
-
 When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Deadlines
