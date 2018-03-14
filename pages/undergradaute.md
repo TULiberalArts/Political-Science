@@ -4,6 +4,9 @@ permalink: /undergraduate/
 layout: page
 keywords: 'undergraduate, major, minor, political study'
 description: >- 
+  Our department offers a bachelor’s degree in political science, a minor
+  that can be paired with any other program of study and a  certificate in
+  political economy
 published: true
 sidebar: true
 sidebar-content: |
@@ -43,36 +46,49 @@ sidebar-content: |
    Roselyn Hsueh  
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
-meta-description: >-
-  Our department offers a bachelor’s degree in political science, a     minor
-  that can be paired with any other program of study and a  certificate in
-  political economy.
+   
 ---
-Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. 
-
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
-
-## Major
-The BA in political science program gives students a broad education in the study of politics and government institutions. Students learn the diverse theoretical and methodological approaches that we use to study politics. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
+## Learn Diverse, Theoretical and Methodological Approaches to Study Politics 
+Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. Political science faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies. The BA in political science program gives students a broad education in the study of politics and government institutions. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
 
 The discipline of political science is broken down into four distinct subfields:
 
-**American Politics** focuses on the study of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
+- **American Politics** focuses on the study of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
 
-**Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes. Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
+- **Comparative Politics** focuses on the study of governments outside of the United States, with an eye to comparing how different political systems affect political outcomes. Topics include the study of political and economic institutions as well as mass political behavior across different contexts.
 
-**International Relations** explores how nation states interact in the global system. Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
+- **International Relations** explores how nation states interact in the global system. Topics include the study of international conflict and the role that international institutions play in shaping the behavior of nation states.
 
-**Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity. Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy and justice.
-
-Political science faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies.
+- **Political Theory** is concerned with theoretically evaluating how individuals behave and ought to behave in a collective polity. Political theorists bring precision to fundamental, yet contested, key political concepts, such as freedom, equality, democracy and justice.
 
 [Learn More About the BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
 
-## Minor
+## Minor in Political Science
 Students wishing to pair political science with another program of study may be interested in our political science minor.
 [Learn More About the Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
 
 ## Certificate in Political Economy
 The undergraduate Certificate in Political Economy is for students interested in an in-depth study of the relationship between politics and economics.
 [Learn More About the Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/).
+
+## Political Science Honors Program and Distinction in the Major
+The political science honors program is designed to give highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students and to acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program deepens the information literacy goals of the general education requirement and is excellent preparation for graduate school.
+
+Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible to be members of the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone. Students who pass both capstones with a B or better will graduate with distinction in the major.  In addition, POLI 3996 counts as an upper-level elective and writing intensive course and POLI 4996 counts as the senior capstone requirement.
+
+Learn More About the [Political Science Distinction in Major Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor)
+
+## University Honors Program
+Students accepted into the [University Honors Scholar Program](http://www.temple.edu/honors/) may select political science as their field of concentration, thus becoming a member of the political science honors program. University honors students who are interested in earning distinction in the major should take the junior and senior honors capstone course, as described above. University honors students who do not wish to pursue distinction in the major should, nonetheless, sign up for POLI 4996 as their capstone.
+
+## University Honors Scholar Track
+University honors students may become honors scholars by choosing to develop and complete an honors project in the form of a thesis. Political science university honors students who complete the university honors program’s course requirements plus an honors thesis graduate with an honors scholar designation on their transcript. Those who do not complete an honors thesis but satisfy all honors requirements graduate with an honors certificate designation on their transcript.
+
+The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of the junior year. All proposals are due by the end of junior year, and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (e.g., the capstone), an independent study or curiosity about some other facet of the study of politics. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
+
+The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. Students who are interested in learning more about joining the University Honors Program are encouraged to contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu). 
+
+## Honors Funding and Support
+Funds are available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/ResearchScholars.htm).
+
+Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).
