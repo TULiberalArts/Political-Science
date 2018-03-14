@@ -91,5 +91,5 @@ With the generous support of Evolution Consulting, the Department of Political S
 
 ## Resources 
 
-- [FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
+- [Graduate Student FAQ's](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
 - The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
