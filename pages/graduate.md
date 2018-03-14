@@ -71,6 +71,11 @@ The primary mission of the PhD programis to prepare students for careers in acad
 
 [Learn More About the Ph.D in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 
+## Master of Public Policy (MPP)
+Advance your career. Enhance your community. Develop the analytic skills to be able to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state, and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. We train generalists who combine technical competency with a sophisticated understanding of the policy process. If you are interested in social and quality of life issues throughout Philadelphia and beyond, Temple offers a graduate program in public policy led by full-time faculty and working practitioners.
+
+[Learn More ABout the Master of Public Policy](https://www.cla.temple.edu/public-policy/mpp-degree/)
+
 ## Admsissions Process 
 Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 1st**_. 
 
