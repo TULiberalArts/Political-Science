@@ -23,56 +23,56 @@ In addition to our thriving departmental lecture series, we offer the exciting S
 **Sandra Featherman** is a former member of the Department of Political Science and University of New England president. With a particular scholarly interest in urban politics, Sandra Featherman has been actively involved in the boards of over forty community and charitable organizations within the Philadelphia area. **Bernard Featherman** is an alumnus of the Temple School of Business and attended Temple Law School. A former business executive, Bernard Featherman has been an active voice in public policy, serving on many boards for urban enterprise zones and community health organizations.
 
 **Past Lectures:**
-1991: [Cornel West](http://www.utsnyc.edu/faculty/faculty-directory/cornel-west), Princeton University
-Class of 1943 University Professor in the Center for African American Studies
-**The Color Line and American Democracy: The Ongoing Dilemma**
+1991: [Cornel West](http://www.utsnyc.edu/faculty/faculty-directory/cornel-west), Princeton University, <br>
+Class of 1943 University Professor in the Center for African American Studies <br>
+**The Color Line and American Democracy: The Ongoing Dilemma** <br>
 
-1993: [Mancur Olson](http://en.wikipedia.org/wiki/Mancur_Olson), University of Maryland
-Professor of Economics
-**Revisiting The Logic of Collective Action**
+1993: [Mancur Olson](http://en.wikipedia.org/wiki/Mancur_Olson), University of Maryland <br>
+Professor of Economics <br>
+**Revisiting The Logic of Collective Action** <br>
 
-1996: [Theda Skocpol*](http://scholar.harvard.edu/thedaskocpol), Harvard University
-Victor S. Thomas Professor of Government and Sociology
-**Civic Associations and American Democracy**
+1996: [Theda Skocpol*](http://scholar.harvard.edu/thedaskocpol), Harvard University <br>
+Victor S. Thomas Professor of Government and Sociology <br>
+**Civic Associations and American Democracy** <br>
 
-1998: [Frances Fox Piven](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Political-Science/Faculty), City University of New York
-Distinguished Professor
-**Social Meanness, Welfare Reform, and the Transformation of Electoral Politics**
+1998: [Frances Fox Piven](http://www.gc.cuny.edu/Page-Elements/Academics-Research-Centers-Initiatives/Doctoral-Programs/Political-Science/Faculty), City University of New York <br>
+Distinguished Professor <br>
+**Social Meanness, Welfare Reform, and the Transformation of Electoral Politics** <br>
 
-2002: [Michael Walzer](http://www.sss.ias.edu/faculty/walzer), Princeton University
-Professor Emeritus of Social Science, Institute for Advanced Study
-**Just War Theory Revisited**
+2002: [Michael Walzer](http://www.sss.ias.edu/faculty/walzer), Princeton University <br>
+Professor Emeritus of Social Science, Institute for Advanced Study <br>
+**Just War Theory Revisited** <br>
 
-2004: [Rogers Smith](http://www.sas.upenn.edu/polisci/people/standing-faculty/rogers-smith), University of Pennsylvania
-Christopher H. Browne Distinguished Professor of Political Science
-**The Anatomy of the American Racial State**
+2004: [Rogers Smith](http://www.sas.upenn.edu/polisci/people/standing-faculty/rogers-smith), University of Pennsylvania <br>
+Christopher H. Browne Distinguished Professor of Political Science <br>
+**The Anatomy of the American Racial State** <br>
 
-2006: [Margaret Levi*](http://faculty.washington.edu/mlevi/), University of Washington
-Jere L. Bachrach Professor of International Studies
-**Achieving Good Government – and Perhaps Legitimacy – in Third World States**
+2006: [Margaret Levi*](http://faculty.washington.edu/mlevi/), University of Washington <br>
+Jere L. Bachrach Professor of International Studies <br>
+**Achieving Good Government – and Perhaps Legitimacy – in Third World States** <br>
 
-2007: [Jane Mansbridge](http://www.hks.harvard.edu/about/faculty-staff-directory/jane-mansbridge)*, Harvard University
-Adams Professor Political Leadership and Democratic Values
-**What do We Want from Our Representatives, and Can We Get it?**
+2007: [Jane Mansbridge*](http://www.hks.harvard.edu/about/faculty-staff-directory/jane-mansbridge), Harvard University <br>
+Adams Professor Political Leadership and Democratic Values <br>
+**What do We Want from Our Representatives, and Can We Get it?** <br>
 
-2010: [Ira Katznelson*](http://polisci.columbia.edu/people/profile/92), Columbia University
-Ruggles Professor of Political Science and History
-**Shaded by Fear: The New Deal and Its Legacies**
+2010: [Ira Katznelson*](http://polisci.columbia.edu/people/profile/92), Columbia University <br>
+Ruggles Professor of Political Science and History <br>
+**Shaded by Fear: The New Deal and Its Legacies** <br>
 
-2013: [Jacob Hacker](http://politicalscience.yale.edu/people/jacob-hacker), Yale University
-Stanley B. Resor Professor of Political Science
-**Is American Politics Undermining the American Dream?**
+2013: [Jacob Hacker](http://politicalscience.yale.edu/people/jacob-hacker), Yale University <br>
+Stanley B. Resor Professor of Political Science <br>
+**Is American Politics Undermining the American Dream?** <br>
 
-2015: [Edward G. Rendell](http://www.edwardrendell.com/)
-Pennsylvania Governor (2003-2011)
-Philadelphia Mayor (1992-2000)
-Chairman, Democratic National Committee (2000)
-**The Direction of National Politics and Policy**
+2015: [Edward G. Rendell](http://www.edwardrendell.com/) <br>
+Pennsylvania Governor (2003-2011) <br>
+Philadelphia Mayor (1992-2000) <br>
+Chairman, Democratic National Committee (2000) <br>
+**The Direction of National Politics and Policy** <br>
 
-2017: [Peter Dreier](http://www.peterdreier.com/about/)
-E.P. Clapp Distinguished Professor of Politics and
-Chair of the Urban & Environmental Policy Department at Occidental College
-**Is a New Progressive Movement on the Horizon? Thinking and Organizing Beyond Trump**
+2017: [Peter Dreier](http://www.peterdreier.com/about/) <br>
+E.P. Clapp Distinguished Professor of Politics <br>
+Chair of the Urban & Environmental Policy Department at Occidental College <br>
+**Is a New Progressive Movement on the Horizon? Thinking and Organizing Beyond Trump** <br>
 
 Affiliations at the time of Lecture.
 _* Former President of American Political Science Association._
