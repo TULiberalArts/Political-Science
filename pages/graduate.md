@@ -55,7 +55,7 @@ sidebar-content: |
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
 ![Philadelphia City Hall]({{site.baseurl}}/media/reszed Philly City Hall.jpg){:.img-right}
-We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory.
+We seek students who are interested in either earning either an M.A. or a Ph.D. in political science. We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory.
 
 - In **American Politics**, faculty conduct research on political behavior, political institutions, public policy and urban politics.
 - In **Comparative Politics**, faculty focus on the issues of democratization, the role of the state in the economy, and political violence; our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East.
