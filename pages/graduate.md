@@ -54,6 +54,7 @@ sidebar-content: |
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
+![Philadelphia City Hall]({{site.baseurl}}/media/resized Philly City Hall.jpg){:.img-right}
 We offer coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations, and Political Theory.
 
 - In **American Politics**, faculty conduct research on political behavior, political institutions, public policy and urban politics.
