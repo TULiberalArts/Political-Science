@@ -51,11 +51,11 @@ Christopher H. Browne Distinguished Professor of Political Science <br>
 Jere L. Bachrach Professor of International Studies <br>
 **Achieving Good Government – and Perhaps Legitimacy – in Third World States** <br>
 
-2007: [Jane Mansbridge*](http://www.hks.harvard.edu/about/faculty-staff-directory/jane-mansbridge), Harvard University <br>
+2007: Jane Mansbridge* , Harvard University <br>
 Adams Professor Political Leadership and Democratic Values <br>
 **What do We Want from Our Representatives, and Can We Get it?** <br>
 
-2010: [Ira Katznelson*](http://polisci.columbia.edu/people/profile/92), Columbia University <br>
+2010: Ira Katznelson*, Columbia University <br>
 Ruggles Professor of Political Science and History <br>
 **Shaded by Fear: The New Deal and Its Legacies** <br>
 
