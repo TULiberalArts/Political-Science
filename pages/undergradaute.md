@@ -49,6 +49,7 @@ sidebar-content: |
    
 ---
 ## Learn Diverse, Theoretical and Methodological Approaches to Study Politics 
+![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.img-right}
 Our department offers a bachelor's degree in political science, a minor that can be paired with any other program of study and a certificate in political economy. Political science faculty conduct research in these areas and offer classes that relate to their research specialties and current issues and controversies. The BA in political science program gives students a broad education in the study of politics and government institutions. Our courses sharpen analytical thinking skills and challenge students to evaluate critically the rights and responsibilities of citizens living in a democracy.
 
 The discipline of political science is broken down into four distinct subfields:
