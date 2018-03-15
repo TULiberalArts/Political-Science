@@ -47,7 +47,7 @@ Professor Emeritus of Social Science, Institute for Advanced Study <br>
 Christopher H. Browne Distinguished Professor of Political Science <br>
 **The Anatomy of the American Racial State** <br>
 
-2006: [Margaret Levi*](http://faculty.washington.edu/mlevi/), University of Washington <br>
+2006: Margaret Levi*, University of Washington <br>
 Jere L. Bachrach Professor of International Studies <br>
 **Achieving Good Government – and Perhaps Legitimacy – in Third World States** <br>
 
