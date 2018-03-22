@@ -54,7 +54,7 @@ sidebar-content: |
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
-![Philadelphia City Hall]({{site.baseurl}}/media/reszed Philly City Hall.jpg){:.img-right}
+![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.img-right}
 Temple graduate students can take coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations and Political Theory.
 
 - In **American Politics**, faculty and students conduct research on political behavior, political institutions, public policy and urban politics.
