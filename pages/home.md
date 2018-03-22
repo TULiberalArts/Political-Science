@@ -16,9 +16,11 @@ feature-body: >-
   one.
 published: true
 ---
-The Department of Political Science is the ideal home for students interested in politics, international affairs and important issues like health care, the environment and civil rights. Our students study political theory and debate how power and resources should be allocated in society.
+Our students do more than study politics—they actively participate in it. From Temple's Capital Semester in Harrisburg to a course in which you intern on a real campaign, our program is ideal for students ready to get to work from day one.
 
-As a political science student, you will learn how to think, write, read and speak in ways that  you can apply to a variety of careers, helping you become a more interested, engaged and capable citizen.
+The Department of Political Science is the ideal home for students interested in politics, international affairs and important issues like health care, the environment and civil rights. You’ll study political theory and debate how power and resources should be allocated in society.
+
+As a political science student, you’ll also learn how to think, write, read and speak in ways you can apply to a variety of careers, helping you become a more interested, engaged and capable citizen.
 
 ## Academic Offerings
 - [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/)
@@ -46,7 +48,7 @@ As a political science student, you will learn how to think, write, read and spe
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html
-        title="A Degree With Distinction"
+        title="A Degree with Distinction"
         content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in."
         image=""
         button-link="/political-science/resources/#undergraduate-honors-program"
