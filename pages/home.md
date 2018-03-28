@@ -15,7 +15,9 @@ feature-body: >-
   real campaign, our program is ideal for students ready to get to work from day
   one.
 published: true
+
 ---
+## We do More than Study Politics
 Our students do more than study politics—they actively participate in it. From Temple's Capital Semester in Harrisburg to a course in which you intern on a real campaign, our program is ideal for students ready to get to work from day one.
 
 The Department of Political Science is the ideal home for students interested in politics, international affairs and important issues like health care, the environment and civil rights. You’ll study political theory and debate how power and resources should be allocated in society.
