@@ -2,8 +2,8 @@
 title: Student Life
 permalink: /student-life/
 layout: page
-keywords: ''
-meta-description: >-
+keywords: 'study abroad, undergraduate internships, political science society, Pi Sigma Alpha'
+description: >-
 published: true 
 
 --- 
@@ -19,7 +19,6 @@ Students have the opportunity to participate in the Washington Semester, earning
 
 ## The Political Science Society
 The Political Science Society is the organization of all Political Science majors and minors at Temple University. The association represents the opinions and interests of Political Science undergraduate majors. The society sponsors activities including career forums, lectures, student and faculty mixers, law and graduate forums, seminars on popular topics, and trips to places like New York City and Washington, DC. [Taylor Taliaferro](mailto:t.taliaferro@temple.edu) is the president of the association for the 2017-2018 academic year.
-
 
 ## Pi Sigma Alpha
 Pi Sigma Alpha is the national Political Science Honor Society. Students who have distinguished themselves in the field of political science are inducted. Inquiries about membership should be directed to the faculty advisor of Pi Sigma Alpha, [Dr. Heath Fogg Davis](mailto:hfd@temple.edu).
