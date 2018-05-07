@@ -4,7 +4,7 @@ permalink: /graduate/
 layout: page
 keywords: 'masters, phd program, funding, application'
 published: true
-meta-description: >-
+description: >-
   Our graduate offerings include an MA and PhD in political science as well as
   a master of public policy degree.
 sidebar: true
