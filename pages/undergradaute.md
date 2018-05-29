@@ -46,7 +46,7 @@ sidebar-content: |
    Roselyn Hsueh  
    443 Gladfelter Hall  
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
-   ---
+---
 College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their bachelor of science in Political Science degree. Alternatively, you can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Standout students are eligible for the political science [honors program and distinction](#political-science-honors-program-and-distinction-in-the-major), the Temple University [Honors Program](#university-honors-program), the [Honors Scholar Track](#university-honors-scholar-track) and [honors funding and support](#honors-funding-and-support).
 
 ## Learn Diverse Theoretical and Methodological Approaches to Studying Political Science
