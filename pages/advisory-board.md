@@ -1,11 +1,14 @@
 ---
-title: Advisory Board
+# global predefined variables
+layout: tla_page
 permalink: /advisory-board/
-layout: page
+published: true
+# meta-data variables
+title: Advisory Board
 keywords: 'alumini board, internship awards, career, undergraduate, graduate'
-description: >- 
+description: >-
   Information about the Political Science Advisory Board.
-published: true 
+# custom variables
 ---
 
 ## Political Science Advisory Board
@@ -14,13 +17,13 @@ The Political Science Advisory Board (PSAB)’s mission and role is to identify 
 - Eric J. Appelbaum	 
 - Brandon W. Boberick	 
 - Noah Bronkesh	 
-- James Cawley	
+- James Cawley
 - Michael H. Cook
-- Jon David	
-- Wendy Glazer	
-- Susan Gobreski	
-- Joel Goodhart	
-- James E. Heasley	
+- Jon David
+- Wendy Glazer
+- Susan Gobreski
+- Joel Goodhart
+- James E. Heasley
 - Paul Kimmins
 - Kenneth Lawrence
 - Stuart A. Leibowitz

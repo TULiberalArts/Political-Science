@@ -1,13 +1,16 @@
 ---
-title: Undergraduate
-permalink: /undergraduate/
+# global predefined variables
 layout: page
+permalink: /undergraduate/
+published: true
+# meta-data variables
+title: Undergraduate
 keywords: 'undergraduate, major, minor, political study'
-description: >- 
+description: >-
   Our department offers a bachelor’s degree in political science, a minor
   that can be paired with any other program of study and a  certificate in
   political economy
-published: true
+# custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -86,7 +89,7 @@ Students accepted into the [University Honors Scholar Program](http://www.templ
 ## University Honors Scholar Track
 The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of your junior year. All proposals are due by the end of junior year and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (e.g., the capstone), an independent study or curiosity about some other facet of political study. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
 
-The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. To learn more about joining the program, contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu). 
+The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. To learn more about joining the program, contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu).
 
 ## Honors Funding and Support
 Funds are available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/ResearchScholars.htm). Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).

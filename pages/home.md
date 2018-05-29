@@ -1,11 +1,15 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
+published: true
+# meta-data variables
+title: Home
 description: >-
   Our students do more than study politics - they actively participate in the
   political process.
 keywords: 'political science, students, politics, learn, intern'
-layout: home3
+# custom variables
 feature: true
 feature-title: Take Part in the Political Process
 feature-image: media/resized PolyHero4.jpg
@@ -14,7 +18,6 @@ feature-body: >-
   From Temple's Capital Semester in Harrisburg to a course where you intern on a
   real campaign, our program is ideal for students ready to get to work from day
   one.
-published: true
 ---
 ## We Do More Than Study Politics
 Our political science degree students do more than study politics—they actively participate in it. From Temple's Capital Semester in Harrisburg to a course where you intern on a real campaign, our program is ideal for students ready to get to work from day one.
@@ -29,7 +32,7 @@ As a political science student, you’ll also learn how to think, write, read an
 - [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
 - [Master of Arts](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/)
 - [Doctor of Philosophy](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
-- [Master of Public Policy](https://cla.temple.edu/public-policy/) 
+- [Master of Public Policy](https://cla.temple.edu/public-policy/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html

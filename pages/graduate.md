@@ -1,12 +1,15 @@
 ---
-title: Graduate
-permalink: /graduate/
+# global predefined variables
 layout: page
-keywords: 'masters, phd program, funding, application'
+permalink: /graduate/
 published: true
+# meta-data variables
+title: Graduate
+keywords: 'masters, phd program, funding, application'
 description: >-
   Our graduate offerings include an MA and PhD in political science as well as
   a master of public policy degree.
+  # custom variables
 sidebar: true
 sidebar-content: |
   **Chair:**  
@@ -78,24 +81,24 @@ Advance your career. Enhance your community. Develop the analytic skills needed 
 
 [Learn More ABout the Master of Public Policy](https://www.cla.temple.edu/public-policy/mpp-degree/)
 
-## Admissions Process 
+## Admissions Process
 Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 1st**_. 
 
 Please visit the [Political Science Graduate Admissions page](https://liberalarts.temple.edu/admissions/graduate/political-science) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Student Support Grants
-- **Summer Camps for Methods Training Grants:** 
+- **Summer Camps for Methods Training Grants:**
  The department funds up to three (3) students each year for up to $2,000 to attend summer methods training camps (e.g., ICPSR, IQMR).
 
-- **Lynn Miller Writing Grants**: 
+- **Lynn Miller Writing Grants**:
 The department annually funds up to eight (8) students in the prospects or dissertation stage for up to $100 to attend writing retreats.
 
 - **Graduate Opportunity Grants**:
 The department funds up to three (3) students per semester for up to $500 to attend professional conferences to present scholarly research.
 
-- **Evolution Consulting Dissertation Grant:** 
+- **Evolution Consulting Dissertation Grant:**
 With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal Arts provides an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
 
-## Resources 
+## Resources
 - [Graduate Student FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
 - The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.

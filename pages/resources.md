@@ -1,13 +1,16 @@
 ---
-title: Resources
-permalink: /resources/
+# global predefined variables
 layout: page
+permalink: /resources/
+published: true
+# meta-data variables
+title: Resources
 keywords: 'political science, resources, internships, opportunities, grants'
 meta-description: >-
   Information about our affiliated centers, the exciting Featherman Lecture
   Series, graduate student support grants, the Washington Semester and
   undergraduate internships, honors program and handbook.
-published: true
+# custom variables
 ---
 ## Affiliated Centers
 
