@@ -55,8 +55,9 @@ sidebar-content: |
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.img-right}
-Temple graduate students can take coursework in the four major subfields of political science: American Politics, Comparative Politics, International Relations and Political Theory.
+Temple University political science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
 
+## Study Political Science’s Four Major Subfields
 - In **American Politics**, faculty and students conduct research on political behavior, political institutions, public policy and urban politics.
 - In **Comparative Politics**, faculty teach students about democratization, the role of the state in the economy, and political violence. Our faculty specialize in the politics of Africa, China, Europe, Latin America and the Middle East.
 - In **International Relations**, faculty and students apply the various theoretical approaches to the study of world politics, international security, international political economy, and the study of international organizations.
@@ -96,6 +97,5 @@ The department funds up to three (3) students per semester for up to $500 to att
 With the generous support of Evolution Consulting, the Department of Political Science along with the aid of the College of Liberal Arts provides an $8,000 stipend to one dissertation student. The stipend includes tuition remission and health benefits.
 
 ## Resources 
-
 - [Graduate Student FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
 - The Political Science [Graduate Student Handbook](http://www.cla.temple.edu/politicalscience/files/2014/02/GradHandbookSept2013_Revised.pdf) has a complete description of the program, requirements and funding.
