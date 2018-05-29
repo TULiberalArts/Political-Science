@@ -5,8 +5,9 @@ layout: page
 keywords: 'study abroad, undergraduate internships, political science society, Pi Sigma Alpha'
 description: >-
 published: true 
-
 --- 
+At the College of Liberal Arts, your pursuit of a Political Science degree may start in the classroom, but it doesn’t end there. Make the most of your education by taking on an [internship](#undergraduate-internships), spending a [semester in Washington, D.C.](#the-washington-semester), joining the [Political Science Society](#the-political-science-society) or [Pi Sigma Alpha](#pi-sigma-alpha) or even [studying abroad](#study-abroad).
+
 ## Undergraduate Internships
 The Department of Political Science encourages students to pursue internships that help them gain valuable insights and experience from the public and private sectors with relevance for political study. Through generous gifts from its supporters, the department makes awards to students who secure appropriate internships. The awards are intended to offset the costs of taking on unpaid internships that do not lead to academic credit.
 
