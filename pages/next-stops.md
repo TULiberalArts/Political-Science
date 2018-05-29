@@ -6,8 +6,9 @@ keywords: 'transfer, apply, visit, College of Liberal Arts'
 description: >- 
   Our graduates go on to an exciting range of internships and careers.
 published: true
-
 ---
+A Temple University political science degree can take you many places, but wherever it takes you, we hope you stay in touch by joining our [alumni group](#calling-all-lumni) after graduation. Ready to earn your political science degree? [Make your declaration](#make-your-declaration), come [visit us](#visit-us), view your [transfer options](#thinking-of-transferring) and our [deadlines](#deadlines) and [apply](#apply) to get started.
+
 ## Where Can a Degree in Political Science Take Me?
 Our students regularly secure coveted internships in:
 
