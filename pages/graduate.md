@@ -55,7 +55,7 @@ sidebar-content: |
    [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.img-right}
-Temple University political science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
+Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
 
 ## Study Political Science’s Four Major Subfields
 - In **American Politics**, faculty and students conduct research on political behavior, political institutions, public policy and urban politics.
