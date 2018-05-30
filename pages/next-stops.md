@@ -35,7 +35,7 @@ Political science offers students preparation that can help them in a wide range
 Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twitter](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
 ## Calling All Alumni
-How are you? What are you up to? Join the [Temple University Political Science Alumni] (https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We’re working on getting us back in touch with you, getting you in touch with each other and giving our current students great ideas about all that you can do with political science training.
+How are you? What are you up to? Join the [Temple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We’re working on getting us back in touch with you, getting you in touch with each other and giving our current students great ideas about all that you can do with political science training.
 
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests from the humanities and social sciences to business and the media arts.
