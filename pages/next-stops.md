@@ -32,6 +32,8 @@ Political science offers students preparation that can help them in a wide range
 - Education
 - Government affairs
 
+View our [PhD Placement List](https://liberalarts.temple.edu/sites/liberalarts/files/PhD%20Placement%20List.pdf) to see where some of our graduates have landed! 
+
 Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twitter](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
 ## Calling All Alumni
