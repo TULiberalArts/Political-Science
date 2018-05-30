@@ -70,10 +70,12 @@ The political science discipline is has four distinct subfields:
 
 ## Minor in Political Science
 Want to pair political science with another program of study? Our political science minor is ideal for you. 
+
 [Learn More about the Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
 
 ## Certificate in Political Economy
 Temple’s undergraduate Certificate in Political Economy is for students interested in an in-depth study of the relationship between politics and economics. 
+
 [Learn More about the Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/).
 
 ## Political Science Honors Program and Distinction in the Major
