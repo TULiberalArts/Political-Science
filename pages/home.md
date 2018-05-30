@@ -55,7 +55,7 @@ As a political science student, you’ll also learn how to think, write, read an
         title="A Degree with Distinction"
         content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in."
         image=""
-        button-link="/political-science/resources#undergraduate-honors-program"
+        button-link="/political-science/resources#political-science-honors-program-and-distinction-in-the-major"
         button-text="Learn More" %}
       </div>
 </div>
