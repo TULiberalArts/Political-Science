@@ -12,6 +12,8 @@ meta-description: >-
   undergraduate internships, honors program and handbook.
 # custom variables
 ---
+The College of Liberal Arts has a number of resources available for political science degree students. Check out our two [affiliated centers](#affiliated-centers) for public policy research and community outreach. If you enroll as a student, we also encourage you to attend the [Featherman Lecture Series](#featherman-lecture-series), which addresses major public policy issues.
+
 ## Affiliated Centers
 
 ### Institute for Public Affairs
