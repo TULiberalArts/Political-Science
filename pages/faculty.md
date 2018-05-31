@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: faculty2
+layout: tla_faculty
 permalink: /faculty/
 published: true
 # meta-data variables
@@ -12,5 +12,9 @@ description: >-
   courses—all the while bringing their cutting edge research  into the
   classroom.
 # custom variables
+affiliated: true
+affiliated_content: profiles/affiliated.html
+emeritus: true
+emeritus_content: profiles/emeritus.html
 ---
 Our faculty members are nationally recognized in their fields and continue to research and publish while teaching both introductory and advanced courses—all the while bringing their cutting-edge research into the classroom.
