@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /undergraduate/
 published: true
 # meta-data variables
@@ -12,43 +12,7 @@ description: >-
   political economy
 # custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Robin Kolodny  
-   437 Gladfelter Hall  
-   [(215) 204-7709](tel:2152047709)  
-   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)  
-   
-   ___
-   
-   **Undergraduate Chair:**  
-   Heath Fogg Davis  
-   447 Gladfelter Hall  
-   [(215) 204-7796](tel:2152047796)  
-   [hfd@temple.edu](mailto:hfd@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall  
-   [(215) 204-7796](tel:2152047796)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-      
-   ___
-   
-   **Coordinator:**  
-   LaTasha Goodman  
-   408 Gladfelter Hall  
-   [(215) 204-7796](tel:2152047796)  
-   [lgoodman@temple.edu](mailto:lgoodman@temple.edu)  
-      
-   ___
-   
-   **Pi Sigma Alpha Faculty Advisor, Political Science Honor Society Delta Rho Chapter:**  
-   Roselyn Hsueh  
-   443 Gladfelter Hall  
-   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)  
+sidebar_content: sidebars/undergraduate.html  
 ---
 College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their bachelor of science in Political Science degree. Alternatively, you can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Standout students are eligible for the political science [honors program and distinction](#political-science-honors-program-and-distinction-in-the-major), the Temple University [Honors Program](#university-honors-program), the [Honors Scholar Track](#university-honors-scholar-track) and [honors funding and support](#honors-funding-and-support).
 
