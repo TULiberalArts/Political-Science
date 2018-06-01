@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: page
+layout: tla_page
 permalink: /graduate/
 published: true
 # meta-data variables
@@ -9,53 +9,9 @@ keywords: 'masters, phd program, funding, application'
 description: >-
   Our graduate offerings include an MA and PhD in political science as well as
   a master of public policy degree.
-  # custom variables
+# custom variables
 sidebar: true
-sidebar-content: |
-  **Chair:**  
-   Robin Kolodny  
-   437 Gladfelter Hall  
-   [(215) 204-7709](tel:2152047709)  
-   [rkolodny@temple.edu](mailto:rkolodny@temple.edu)  
-   
-   ___
-   
-   **Graduate Chair:**  
-   Ryan J. Vander Wielen  
-   457 Gladfelter Hall  
-   [(215) 204-1469](tel:2152041469)  
-   [rvwielen@temple.edu](mailto:rvwielen@temple.edu)  
-   
-   ___
-   
-   **Administrator:**  
-   Jessica Brennan  
-   708 Gladfelter Hall  
-   [(215) 204-7796](tel:2152047796)  
-   [tua11422@temple.edu](mailto:tua11422@temple.edu)  
-      
-   ___
-   
-   **Coordinator:**  
-   LaTasha Goodman  
-   408 Gladfelter Hall  
-   [(215) 204-7796](tel:2152047796)  
-   [lgoodman@temple.edu](mailto:lgoodman@temple.edu)  
-      
-   ___
-   
-   **Coordinator for Graduate Studies:**  
-   Tanya Taylor  
-   411 Gladfelter Hall  
-   [(215) 204-1469](tel:2152041469)  
-   [ttaylo01@temple.edu](mailto:ttaylo01@temple.edu)  
-   
-   ___
-   
-   **Pi Sigma Alpha Faculty Advisor, Political Science Honor Society Delta Rho Chapter:**  
-   Roselyn Hsueh  
-   443 Gladfelter Hall  
-   [rhsueh@temple.edu](mailto:rhsueh@temple.edu)
+sidebar_content: sidebars/graduate.html
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.img-right}
 Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
