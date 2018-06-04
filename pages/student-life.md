@@ -7,6 +7,8 @@ published: true
 title: Student Life
 keywords: 'study abroad, undergraduate internships, political science society, Pi Sigma Alpha'
 description: >-
+  Spend a semester in Washington, D.C, study abroad, intern, and join the Political Science Society
+  or Pi Sigma Alpha as a Political Science student at Temple University’s College of Liberal Arts.
 # custom variables
 ---
 At the College of Liberal Arts, your pursuit of a Political Science degree may start in the classroom, but it doesn’t end there. Make the most of your education by taking on an [internship](#undergraduate-internships), spending a [semester in Washington, D.C.](#the-washington-semester), joining the [Political Science Society](#the-political-science-society) or [Pi Sigma Alpha](#pi-sigma-alpha) or even [studying abroad](#study-abroad). 
