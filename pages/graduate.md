@@ -7,8 +7,9 @@ published: true
 title: Graduate
 keywords: 'masters, phd program, funding, application'
 description: >-
-  Our graduate offerings include an MA and PhD in political science as well as
-  a master of public policy degree.
+  Take coursework in the four major subfields of Political Science, earn your MA or PhD in Political
+  Science, or earn a Master of Public Policy from Temple University’s College of Liberal Arts.
+  Learn about the admissions process, grants, funding, application, and our resources.
 # custom variables
 sidebar: true
 sidebar_content: sidebars/graduate.html
