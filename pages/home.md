@@ -6,8 +6,8 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Our students do more than study politics - they actively participate in the
-  political process.
+  Do more than study politics: participate in politics by earning your degree 
+  in Political Science from Temple University’s College of Liberal Arts.
 keywords: 'political science, students, politics, learn, intern'
 # custom variables
 feature: true
