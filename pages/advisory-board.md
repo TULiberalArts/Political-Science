@@ -7,7 +7,7 @@ published: true
 title: Advisory Board
 keywords: 'alumini board, internship awards, career, undergraduate, graduate'
 description: >-
-  Information about the Political Science Advisory Board.
+  Familiarize yourself with the College of Liberal Arts’ Political Science Advisory Board at Temple University.
 # custom variables
 ---
 
