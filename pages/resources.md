@@ -7,9 +7,9 @@ published: true
 title: Resources
 keywords: 'political science, resources, internships, opportunities, grants'
 meta-description: >-
-  Information about our affiliated centers, the exciting Featherman Lecture
-  Series, graduate student support grants, the Washington Semester and
-  undergraduate internships, honors program and handbook.
+  Learn more about Temple University’s affiliated centers, such as the Institute for Public Affairs,
+  and listen in to the Featherman Lecture Series, provided to the Political Science program from 
+  the College of Liberal Arts. Learn about more opportunities, grants, and resources.
 # custom variables
 ---
 The College of Liberal Arts has a number of resources available for political science degree students. Check out our two [affiliated centers](#affiliated-centers) for public policy research and community outreach. If you enroll as a student, we also encourage you to attend the [Featherman Lecture Series](#featherman-lecture-series), which addresses major public policy issues.
