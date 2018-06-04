@@ -7,9 +7,8 @@ published: true
 title: Undergraduate
 keywords: 'undergraduate, major, minor, political study'
 description: >-
-  Our department offers a bachelor’s degree in political science, a minor
-  that can be paired with any other program of study and a  certificate in
-  political economy
+  Choose from one of four subfields in our Political Science program, minor in Political Science, or earn a certificate in Political
+  Economy from the College of Liberal Arts at Temple University. Learn more about our undergraduate honors and distinction programs.
 # custom variables
 sidebar: true
 sidebar_content: sidebars/undergraduate.html  
