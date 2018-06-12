@@ -19,7 +19,7 @@ College of Liberal Arts students study [four different subfields](#learn-diverse
 ![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.img-right}
 College of Liberal Arts students can pursue a bachelor’s degree in political science, a minor that can be paired with any other program of study and/or a certificate in political economy. Political science faculty conduct research in these areas and offer classes related to their research specialties and current issues and controversies. The political science BA program gives students a broad education in politics and government institutions. Our courses sharpen analytical thinking skills and challenge you to critically evaluate the rights and responsibilities of citizens living in a democracy.
 
-The political science discipline is has four distinct subfields:
+The political science discipline has four distinct subfields:
 
 - **American Politics** focuses on studying of the American political system, including institutions (e.g., Legislative, Executive, Courts, and Bureaucracy) and mass political behavior (e.g., elections, public opinion, and the media).
 
