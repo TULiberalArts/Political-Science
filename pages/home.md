@@ -32,7 +32,7 @@ As a political science student, you’ll also learn how to think, write, read an
 - [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
 - [Master of Arts](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/)
 - [Doctor of Philosophy](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
-- [Master of Public Policy](https://cla.temple.edu/public-policy/)
+- [Master of Public Policy](https://www.cla.temple.edu/public-policy/)
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
