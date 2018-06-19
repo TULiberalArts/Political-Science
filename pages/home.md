@@ -47,7 +47,7 @@ As a political science student, you’ll also learn how to think, write, read an
       title="Exciting Internship Opportunities"
       content="We can connect you to internships and funding in both the public and private sectors."
       image=""
-      button-link="/political-science/resources#undergraduate-internships"
+      button-link="/political-science/student-life#undergraduate-internships"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -55,7 +55,7 @@ As a political science student, you’ll also learn how to think, write, read an
         title="A Degree with Distinction"
         content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in."
         image=""
-        button-link="/political-science/resources#political-science-honors-program-and-distinction-in-the-major"
+        button-link="/political-science/undergraduate#political-science-honors-program-and-distinction-in-the-major"
         button-text="Learn More" %}
       </div>
 </div>
