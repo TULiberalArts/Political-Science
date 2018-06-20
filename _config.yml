@@ -5,6 +5,8 @@ title: Political Science
 baseurl: /political-science
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/political-science
 
 
 # Program Information
