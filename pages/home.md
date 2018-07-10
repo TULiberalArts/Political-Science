@@ -34,6 +34,8 @@ As a political science student, you’ll also learn how to think, write, read an
 - [Doctor of Philosophy](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 - [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/)
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html
     title="World-Class Faculty"
