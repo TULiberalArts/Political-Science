@@ -31,6 +31,8 @@ Learn More About the [MA in Political Science](http://bulletin.temple.edu/gradua
 ## PhD in Political Science
 The PhD program prepares students for careers in academia. We train our students to become successful scholars and teachers. PhD students complete the MA program requirements, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
+In fact, our most recent PhD graduates and candidates are leveraging the skills and knowledge they learned at Temple in pursuing exciting careers right now. You can read about their individual dissertations and qualifications and view their personal websites [right here](https://www.dropbox.com/s/2zu97avh2k5iao9/Placement%20candidates%20July%202018.pdf).
+
 Learn More About the [Ph.D in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 
 ## Master of Public Policy (MPP)
