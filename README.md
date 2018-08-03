@@ -6,7 +6,7 @@ Political Science is statically generated with [Jekyll](https://jekyllrb.com) an
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/liberal-studies/ |
+| Development | https://develop.cla.temple.edu/political-science/ |
 | Production | https://www.cla.temple.edu/political-science/ |
 
 ## Content Structure
