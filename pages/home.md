@@ -29,7 +29,7 @@ As a political science student, you’ll also learn how to think, write, read an
 ## Academic Offerings
 - [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/)
 - [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/)
-- [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/)
+- [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/)
 - [Master of Arts](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/)
 - [Doctor of Philosophy](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 - [Master of Public Policy](http://bulletin.temple.edu/graduate/scd/cla/public-policy-mpp/)
