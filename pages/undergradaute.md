@@ -39,7 +39,7 @@ Learn More about the [Minor in Political Science](http://bulletin.temple.edu/und
 ## Certificate in Political Economy
 Temple’s undergraduate Certificate in Political Economy is for students interested in an in-depth study of the relationship between politics and economics. 
 
-Learn More about the [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/economics/certificate-political-economy/).
+Learn More about the [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/).
 
 ## Political Science Honors Program and Distinction in the Major
 The political science honors program gives highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students. You’ll acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program deepens the information literacy goals of the general education requirement and is excellent preparation for graduate school.
