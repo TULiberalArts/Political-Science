@@ -6,10 +6,12 @@ published: true
 # meta-data variables
 title: Home
 description: >-
-  Do more than study politics: participate in politics by earning your degree 
+  Do more than study politics: participate in politics by earning your degree
   in Political Science from Temple University’s College of Liberal Arts.
 keywords: 'political science, students, politics, learn, intern'
 # custom variables
+promotion-table: true
+sidebar: false
 feature: true
 feature-title: Take Part in the Political Process
 feature-image: media/resized PolyHero4.jpg
