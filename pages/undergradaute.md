@@ -42,9 +42,13 @@ Temple’s undergraduate Certificate in Political Economy is for students intere
 Learn More about the [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/).
 
 ## Political Science Honors Program and Distinction in the Major
-The political science honors program gives highly motivated political science students the opportunity to take academically rigorous honors seminars with other honors students. You’ll acquire the skills necessary to undertake in-depth independent research on topics of interest. The department’s honors program deepens the information literacy goals of the general education requirement and is excellent preparation for graduate school.
+Distinction in Major, also known as the Political Science Honors program, allow exceptional undergraduates to pursue the most rigorous classes and research opportunities. Distinction in Major is separate from the University Honors program, and officially appears on the Temple transcript.
 
-Political science majors who have completed their sophomore year with a 3.5 GPA or above are eligible for the departmental honors program. Departmental honors students are allowed to take the junior (POLI 3996) and senior (POLI 4996) capstone. Students who pass both capstones with a B or better will graduate with distinction in the major. In addition, POLI 3996 counts as an upper-level elective and writing-intensive course and POLI 4996 counts as the senior capstone requirement.
+The program is open to majors who have completed their sophomore year with a minimum 3.5 GPA overall and 3.6 GPA in political science coursework. Students must take two honors seminars emphasizing research and writing skills -- the junior honors capstone (POLS 3996)
+and senior honors capstone (POLS 4996). They must pass both with a minimum grade of B+ of which at least one must be A- or better. Note that POLS 3996 counts as an upper-level elective and writing-intensive course, and POLS 4996 counts as the senior capstone
+requirement. In special circumstances, honors students may take, in place of one (but no more) of these honors capstones, a regular capstone (POLS 4896) using an approved "honors contract" signed with the instructor.
+
+Eligible students will be contacted via e-mail in the early weeks of the fall and spring semesters to apply to this honors program. Students who believe they are eligible but who were not notified should contact the [Undergraduate Chair](mailto:sean.yom@temple.edu) for more information.
 
 Learn More about the [Political Science Distinction in Major Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor)
 
