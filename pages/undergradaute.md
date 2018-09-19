@@ -63,4 +63,4 @@ The university honors program maintains a set of minimal progress standards that
 ## Honors Funding and Support
 Funds are available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/ResearchScholars.htm). Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).
 
-- [Undergraduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Political%20Science%20Undergraduate%20Handbook.pdf)
+- [Undergraduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Political%20Science%20Undergraduate%20Handbook_0.pdf)
