@@ -16,7 +16,7 @@ sidebar_content: sidebars/graduate.html
 graduate_students: true
 graduate_students_content: profiles/graduate_students_2.html
 ---
-![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.img-right}
+![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.responsive-img .img-right}
 Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
 
 ## Study Political Science’s Four Major Subfields
