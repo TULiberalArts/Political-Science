@@ -16,7 +16,7 @@ sidebar_content: sidebars/undergraduate.html
 College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their bachelor of science in Political Science degree. Alternatively, you can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Standout students are eligible for the political science [honors program and distinction](#political-science-honors-program-and-distinction-in-the-major), the Temple University [Honors Program](#university-honors-program), the [Honors Scholar Track](#university-honors-scholar-track) and [honors funding and support](#honors-funding-and-support).
 
 ## Learn Diverse Theoretical and Methodological Approaches to Studying Political Science
-![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.img-right}
+![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.responsive-img .img-right}
 College of Liberal Arts students can pursue a bachelor’s degree in political science, a minor that can be paired with any other program of study and/or a certificate in political economy. Political science faculty conduct research in these areas and offer classes related to their research specialties and current issues and controversies. The political science BA program gives students a broad education in politics and government institutions. Our courses sharpen analytical thinking skills and challenge you to critically evaluate the rights and responsibilities of citizens living in a democracy.
 
 The political science discipline has four distinct subfields:
