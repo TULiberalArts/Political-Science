@@ -7,7 +7,7 @@ published: true
 title: Next Stops
 keywords: 'transfer, apply, visit, College of Liberal Arts'
 description: >-
-  See what’s in store when you earn a Political Science degree from Temple University’s College of 
+  See what’s in store when you earn a Political Science degree from Temple University’s College of
   Liberal Arts. Make your declaration, visit us, view transfer options and deadlines, and apply!
 # custom variables
 ---
@@ -33,7 +33,7 @@ Political science offers students preparation that can help them in a wide range
 - Education
 - Government affairs
 
-View our [PhD Placement List](https://liberalarts.temple.edu/sites/liberalarts/files/PhD%20Placement%20List.pdf) to see where some of our graduates have landed! 
+View our [PhD Placement List](https://liberalarts.temple.edu/sites/liberalarts/files/PhD%20Placement%20List.pdf) to see where some of our graduates have landed!
 
 Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twitter](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
@@ -45,18 +45,18 @@ ___
 ## Make Your Declaration
 The College of Liberal Arts has the largest selection of academic offerings at Temple University. Our students have the flexibility to explore all of their interests from the humanities and social sciences to business and the media arts.
 
-For a complete list of our academic offerings visit [liberalarts.temple.edu](http://liberalarts.temple.edu)
+For a complete list of our academic offerings visit [liberalarts.temple.edu](https://liberalarts.temple.edu)
 
 ## Visit Us!
-The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](http://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
+The Office of Admissions offers tours daily. To register for a tour, please go to [temple.edu/visit](https://temple.edu/visit). If you would like to experience the College of Liberal Arts firsthand you can take advantage of the various visit opportunities we have throughout the year, including the Liberal Arts Preview Day.
 
 ## Thinking of Transferring?
  The College of Liberal Arts offers a great deal of flexibility to help you accomplish your goals as efficiently as possible.
 
-To learn more about transferring to Temple, please visit [temple.edu/transfer](http://temple.edu/transfer)
+To learn more about transferring to Temple, please visit [temple.edu/transfer](https://temple.edu/transfer)
 
 ## Apply
-When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](https://admissions.temple.edu/apply).
 
 ## Deadlines
 
