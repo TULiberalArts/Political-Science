@@ -11,7 +11,7 @@ description: >-
 keywords: 'political science, students, politics, learn, intern'
 # custom variables
 promotion-table: true
-sidebar: false
+
 feature: true
 feature-image: media/resized PolyHero4.jpg
 ---

@@ -10,8 +10,8 @@ description: >-
   Choose from one of four subfields in our Political Science program, minor in Political Science, or earn a certificate in Political
   Economy from the College of Liberal Arts at Temple University. Learn more about our undergraduate honors and distinction programs.
 # custom variables
-sidebar: true
-sidebar_content: sidebars/undergraduate.html  
+
+sidebar: sidebars/undergraduate.html  
 ---
 College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their bachelor of science in Political Science degree. Alternatively, you can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Standout students are eligible for the political science [honors program and distinction](#political-science-honors-program-and-distinction-in-the-major), the Temple University [Honors Program](#university-honors-program), the [Honors Scholar Track](#university-honors-scholar-track) and [honors funding and support](#honors-funding-and-support).
 
