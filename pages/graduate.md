@@ -11,9 +11,7 @@ description: >-
   Science, or earn a Master of Public Policy from Temple University’s College of Liberal Arts.
   Learn about the admissions process, grants, funding, application, and our resources.
 # custom variables
-
 sidebar: sidebars/graduate.html
-
 graduate_students: profiles/graduate_students_2.html
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.responsive-img .img-right}
@@ -63,4 +61,4 @@ With the generous support of Evolution Consulting, the Department of Political S
 ## Resources
 - [Graduate Student FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
 ___
-{% include {{ page.graduate_students_content }} %}
+{% include {{ page.graduate_students }} %}
