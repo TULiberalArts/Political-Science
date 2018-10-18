@@ -13,7 +13,7 @@ keywords: 'political science, students, politics, learn, intern'
 promotion-table: true
 
 feature: true
-feature-image: media/resized PolyHero4.jpg
+feature-image: media/Political Science Hero 2.jpeg
 ---
 ## Take Part in the Political Process
 Our students do more than study politics — they actively participate in it. From Temple's Capital Semester in Harrisburg to a course where you intern on a real campaign, our program is ideal for students ready to get to work from day one.
