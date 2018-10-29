@@ -12,7 +12,7 @@ description: >-
   Learn about the admissions process, grants, funding, application, and our resources.
 # custom variables
 sidebar: sidebars/graduate.html
-graduate_students: profiles/graduate_students_2.html
+graduate_students: profiles/graduate_students.html
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.responsive-img .img-right}
 Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
@@ -63,4 +63,4 @@ With the generous support of Evolution Consulting, the Department of Political S
 
 ___
 
-{% include {{ page.graduate_students_2 }} %}
+{% include {{ page.graduate_students}} %}
