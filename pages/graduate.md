@@ -60,5 +60,7 @@ With the generous support of Evolution Consulting, the Department of Political S
 
 ## Resources
 - [Graduate Student FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
+
 ___
+
 {% include {{ page.graduate_students }} %}
