@@ -41,7 +41,7 @@ Advance your career. Enhance your community. Develop the analytic skills needed 
 Learn More About the [Master of Public Policy](https://www.cla.temple.edu/public-policy/graduate/)
 
 ## Admissions Process
-Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 1st**_. 
+Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 15th**_. 
 
 Please visit the [Political Science Graduate Bulletin](http://bulletin.temple.edu/graduate/scd/cla/political-science-ma/#admissiontext) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
