@@ -61,6 +61,6 @@ The thesis proposal is submitted to the university honors program, preferably by
 The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. To learn more about joining the program, contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu).
 
 ## Honors Funding and Support
-Funds are available in the [Diamond Research Scholars program](http://www.temple.edu/vpus/opportunities/ResearchScholars.htm). Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).
+Funds are available in the Diamond Research Scholars program. Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).
 
 - [Undergraduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Political%20Science%20Undergraduate%20Handbook_0.pdf)
