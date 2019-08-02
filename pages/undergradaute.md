@@ -13,11 +13,13 @@ description: >-
 
 sidebar: sidebars/undergraduate.html  
 ---
-College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their bachelor of science in Political Science degree. Alternatively, you can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Standout students are eligible for the political science [honors program and distinction](#political-science-honors-program-and-distinction-in-the-major), the Temple University [Honors Program](#university-honors-program), the [Honors Scholar Track](#university-honors-scholar-track) and [honors funding and support](#honors-funding-and-support).
+College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their [Bachelor of Arts](#major-in-political-science) in Political Science degree. Alternatively, students can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Political science majors can also earn a Master in Public Policy degree through the [4+1 MPP program](4-1-mpp-master-of-public-policy).
+
+Standout students are eligible for [Pi Sigma Alpha](https://www.cla.temple.edu/political-science/student-life#pi-sigma-alpha) (the national political science honors society); the political science [honors program](#political-science-honors-program-distinction-in-major) (which grants Distinction in Major), the Temple University [Honors Program](#university-honors-program) and [special research opportunities](#special-research-opportunities) from CLA and Temple, including the Diamond Research Scholarship and CARAS award.  
 
 ## Learn Diverse Theoretical and Methodological Approaches to Studying Political Science
 ![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.responsive-img .img-right}
-College of Liberal Arts students can pursue a bachelor’s degree in political science, a minor that can be paired with any other program of study and/or a certificate in political economy. Political science faculty conduct research in these areas and offer classes related to their research specialties and current issues and controversies. The political science BA program gives students a broad education in politics and government institutions. Our courses sharpen analytical thinking skills and challenge you to critically evaluate the rights and responsibilities of citizens living in a democracy.
+College of Liberal Arts students can pursue a bachelor’s degree in political science, a minor that can be paired with any other program of study and/or a certificate in political economy. Political science faculty conduct research in these areas and offer classes related to their research specialties and current issues and controversies. The political science BA program gives students a broad education in politics and government institutions. Our courses sharpen analytical thinking skills and challenge students to critically evaluate the rights and responsibilities of citizens living in a democracy.
 
 The political science discipline has four distinct subfields:
 
@@ -31,36 +33,44 @@ The political science discipline has four distinct subfields:
 
 Learn More about the [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
 
+## Major in Political Science
+Our political science major encompasses eleven courses taken in a general sequence. 
+
+**First**, the major begins with four introductory courses to each subfield – POLS 1101 (American Political System), POLS 1201 (Foreign Governments and Politics), POLS 1301 (International Politics), and POLS 2496 (Introduction to Political Philosophy).  POLS 2496 counts as a writing-intensive course. 
+
+**Second**, the major proceeds with students taking POLS 2503 (Evidence and Knowledge), as well as two Research Preparation courses (POLS 3501-3599). These courses focus upon research skills and critical thinking. Students must also take three other upper-level electives (POLS 2000-4999), although up to two of these courses may be substituted by internship credits.
+
+**Finally**, the major culminates in POLS 4896 (Capstone Seminar), which brings together topical knowledge, research skills, and the learning process into a writing-intensive course to be taken in the final year or semester of study.
+
+Learn more about the [Bachelor of Arts in Political Science](https://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
+
 ## Minor in Political Science
-Want to pair political science with another program of study? Our political science minor is ideal for you. 
+Want to pair political science with another program of study? Our minor is ideal for students who wish to supplement their outside majors with focused knowledge and exposure to the study of politics. The political science minor encompasses six courses – two introductory classes, and four upper-level electives.
 
 Learn More about the [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
 
 ## Certificate in Political Economy
-Temple’s undergraduate Certificate in Political Economy is for students interested in an in-depth study of the relationship between politics and economics. 
+The Department of Political Science and the Department of Economics offer a multi-course interdisciplinary program leading to a Certificate in Political Economy. The program is open to all undergraduates and focuses on the relationship between the political and economic spheres of society. For more information, please contact the program’s coordinators, [Dr. Roselyn Hsueh](mailto:rhsueh@temple.edu) or [Dr. Alexandra Guisinger](mailto:alexandra.guisinger@temple.edu).
 
 Learn More about the [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/).
 
-## Political Science Honors Program and Distinction in the Major
-Distinction in Major, also known as the Political Science Honors program, allow exceptional undergraduates to pursue the most rigorous classes and research opportunities. Distinction in Major is separate from the University Honors program, and officially appears on the Temple transcript.
+## 4+1 MPP (Master of Public Policy)
+The Department of Political Science and the Master of Public Policy (MPP) program offer an accelerated track that enables students to attain their BA in Political Science and an MPP in five years, instead of the customary six. Students apply to the program during their third or fourth year of undergraduate study and begin taking graduate coursework upon entry.  The GRE is not necessary, but students must maintain an overall undergraduate GPA of at least 3.5.  For more information, please contact the MPP Director, [Dr. Gary Mucciaroni](mailto:gmucciar@temple.edu).
 
-The program is open to majors who have completed their sophomore year with a minimum 3.5 GPA overall and 3.6 GPA in political science coursework. Students must take two honors seminars emphasizing research and writing skills -- the junior honors capstone (POLS 3996)
-and senior honors capstone (POLS 4996). They must pass both with a minimum grade of B+ of which at least one must be A- or better. Note that POLS 3996 counts as an upper-level elective and writing-intensive course, and POLS 4996 counts as the senior capstone
-requirement. In special circumstances, honors students may take, in place of one (but no more) of these honors capstones, a regular capstone (POLS 4896) using an approved "honors contract" signed with the instructor.
+## Political Science Honors Program (Distinction in Major)
+Distinction in Major, also known as the Political Science Honors program, allow exceptional undergraduates to pursue the most rigorous classes and research opportunities. Distinction in Major is an official Temple recognition separate from the University Honors program. Students must maintain a minimum GPA of 3.5 and pass two honors-designated capstones (POLS 3996 and 4996) with a minimum grade of “B.”  Note that POLS 3996 counts as an upper-level elective and writing-intensive course, and POLS 4996 counts as the senior capstone requirement. In special circumstances, honors students may take, in place of one (but no more) of these honors capstones, a regular capstone (POLS 4896) using an approved “honors contract” signed with the instructor. 
 
-Eligible students will be contacted via e-mail in the early weeks of the fall and spring semesters to apply to this honors program. Students who believe they are eligible but who were not notified should contact the [Undergraduate Chair](mailto:sean.yom@temple.edu) for more information.
-
-Learn More about the [Political Science Distinction in Major Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor)
+Students with an eligible GPA (3.5 or higher) are invited every year to participate in this program, which is administered by the [Undergraduate Chair](mailto:sean.yom@temple.edu). Learn more about the [Political Science Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor).
 
 ## University Honors Program
-Students accepted into the [University Honors Scholar Program](http://www.temple.edu/honors/) may select political science as their field of concentration to join the political science honors program. University honors students interested in earning distinction in the major should take the junior and senior honors capstone course, as described above. University honors students who do not wish to pursue distinction in the major should, nonetheless, sign up for POLI 4996 as their capstone.
+The [University Honors Scholar Program](http://www.temple.edu/honors/) at Temple is not administered by the department, but often selects promising political science majors to join its structured program of elevated study. University Honors students take specialized courses, participate in tailored opportunities, and pursue intensive research projects. To learn more about joining the program, please contact th University Honors Director,[Ruth Ost][rost@temple.edu](mailto:rost@temple.edu). 
 
-## University Honors Scholar Track
-The thesis proposal is submitted to the university honors program, preferably by the beginning of the second semester of your junior year. All proposals are due by the end of junior year and are reviewed by the honors director and the student’s faculty advisor. Thesis topics may emerge from coursework (e.g., the capstone), an independent study or curiosity about some other facet of political study. The completed thesis must be at least 8,000 words exclusive of footnotes and bibliography. The thesis can serve as the core of a student’s dossier as she or he applies for graduate school.
+_Note that the University Honors Program is different than the Political Science Honors program. Both grant special recognition from Temple upon graduation, and students can participate in both._
 
-The university honors program maintains a set of minimal progress standards that every honors student must satisfy in order to continue in the program. Students failing to make satisfactory progress are placed on probation and may ultimately be dismissed from the program. To learn more about joining the program, contact the university honors director, Ruth Ost at [rost@temple.edu](mailto:rost@temple.edu).
+## Special Research Opportunities
+The College of Liberal Arts and Temple University provide support for students wishing to engage in specialized research and teaching opportunities. These include the [Diamond Research Scholars](https://www.temple.edu/vpus/research/diamond.html) program, the Liberal Arts Undergraduate Research Award (LAURA), the [Creative Arts, Research, and Scholarship (CARAS)](https://www.temple.edu/vpus/research/caras.html) award, and the [Diamond Peer Teachers](http://www.temple.edu/vpus/opportunities/peerteachers.html) program. All of these involve pairing talented students with faculty mentors.
 
-## Honors Funding and Support
-Funds are available in the Diamond Research Scholars program. Honors students are also encouraged to submit their completed thesis to the [Library Prize for Undergraduate Research](http://guides.temple.edu/content.php?pid=155082&sid=1314496).
+Political science majors can also present their research at prestigious Temple-wide conferences such as [Global Temple](https://studyabroad.temple.edu/global-temple-conference) and the [Symposium for Undergraduate Research and Creativity](https://www.temple.edu/vpus/research/symposium.html). These programs are not administered by the department, but political science faculty serve as mentors for students who wish to apply for these opportunities.
 
-- [Undergraduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/Department%20of%20Political%20Science%20Undergraduate%20Handbook_0.pdf)
+### Undergraduate Handbook
+Please consult the [Undergraduate Handbook](https://liberalarts.temple.edu/sites/liberalarts/files/-2-Undergraduate%20Handbook%20%28July%202019%29.pdf) for more information on our major, minor and specialized opportunities.
