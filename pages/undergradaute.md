@@ -63,7 +63,7 @@ Distinction in Major, also known as the Political Science Honors program, allow 
 Students with an eligible GPA (3.5 or higher) are invited every year to participate in this program, which is administered by the [undergraduate chair](mailto:sean.yom@temple.edu). Learn more about the [Political Science Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor).
 
 ## University Honors Program
-The [University Honors Scholar Program](http://www.temple.edu/honors/) at Temple is not administered by the department, but often selects promising political science majors to join its structured program of elevated study. University Honors students take specialized courses, participate in tailored opportunities, and pursue intensive research projects. To learn more about joining the program, please contact th University Honors Director, Ruth Ost [rost@temple.edu](mailto:rost@temple.edu). 
+The [University Honors Scholar Program](http://www.temple.edu/honors/) at Temple is not administered by the department, but often selects promising political science majors to join its structured program of elevated study. University Honors students take specialized courses, participate in tailored opportunities, and pursue intensive research projects. To learn more about joining the program, please contact the University Honors Director, Ruth Ost [rost@temple.edu](mailto:rost@temple.edu). 
 
 _Note that the University Honors Program is different than the Political Science Honors program. Both grant special recognition from Temple upon graduation, and students can participate in both._
 
