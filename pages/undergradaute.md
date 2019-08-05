@@ -13,7 +13,7 @@ description: >-
 
 sidebar: sidebars/undergraduate.html  
 ---
-College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their [Bachelor of Arts](#major-in-political-science) in Political Science degree. Alternatively, students can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Political science majors can also earn a Master in Public Policy degree through the [4+1 MPP program](4-1-mpp-master-of-public-policy).
+College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their [Bachelor of Arts](#major-in-political-science) in Political Science degree. Alternatively, students can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Political science majors can also earn a Master in Public Policy degree through the [4+1 MPP program](#41-mpp-master-of-public-policy).
 
 Standout students are eligible for [Pi Sigma Alpha](https://www.cla.temple.edu/political-science/student-life#pi-sigma-alpha) (the national political science honors society); the political science [honors program](#political-science-honors-program-distinction-in-major) (which grants Distinction in Major), the Temple University [Honors Program](#university-honors-program) and [special research opportunities](#special-research-opportunities) from CLA and Temple, including the Diamond Research Scholarship and CARAS award.  
 
@@ -42,7 +42,7 @@ Our political science major encompasses eleven courses taken in a general sequen
 
 **Finally**, the major culminates in POLS 4896 (Capstone Seminar), which brings together topical knowledge, research skills, and the learning process into a writing-intensive course to be taken in the final year or semester of study.
 
-Learn more about the [Bachelor of Arts in Political Science](https://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
+Learn more about the [Bachelor of Arts in Political Science](https://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/). Already a major? Here's your [Four-Year Plan](https://liberalarts.temple.edu/sites/liberalarts/files/Four-Year%20Plan%20%28FINAL%29.pdf) to graduate with a Political Science BA!
 
 ## Minor in Political Science
 Want to pair political science with another program of study? Our minor is ideal for students who wish to supplement their outside majors with focused knowledge and exposure to the study of politics. The political science minor encompasses six courses – two introductory classes, and four upper-level electives.
@@ -63,7 +63,7 @@ Distinction in Major, also known as the Political Science Honors program, allow 
 Students with an eligible GPA (3.5 or higher) are invited every year to participate in this program, which is administered by the [undergraduate chair](mailto:sean.yom@temple.edu). Learn more about the [Political Science Honors Program](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/#distinctioninthemajor).
 
 ## University Honors Program
-The [University Honors Scholar Program](http://www.temple.edu/honors/) at Temple is not administered by the department, but often selects promising political science majors to join its structured program of elevated study. University Honors students take specialized courses, participate in tailored opportunities, and pursue intensive research projects. To learn more about joining the program, please contact th University Honors Director,[Ruth Ost][rost@temple.edu](mailto:rost@temple.edu). 
+The [University Honors Scholar Program](http://www.temple.edu/honors/) at Temple is not administered by the department, but often selects promising political science majors to join its structured program of elevated study. University Honors students take specialized courses, participate in tailored opportunities, and pursue intensive research projects. To learn more about joining the program, please contact th University Honors Director,Ruth Ost [rost@temple.edu](mailto:rost@temple.edu). 
 
 _Note that the University Honors Program is different than the Political Science Honors program. Both grant special recognition from Temple upon graduation, and students can participate in both._
 
