@@ -10,6 +10,7 @@ description: >-
   Spend a semester in Washington, D.C, study abroad, intern, and join the Political Science Society
   or Pi Sigma Alpha as a Political Science student at Temple University’s College of Liberal Arts.
 # custom variables
+sidebar: sidebars/undergraduate.html  
 ---
 At the College of Liberal Arts, your pursuit of a Political Science degree may start in the classroom, but it doesn’t end there. Make the most of your education by taking on an [internship](#undergraduate-internships), spending a [semester in Washington, D.C.](#the-washington-semester) or [Harrisburg](#pennsylvania-capital-semester), joining the [Political Science Society](#the-political-science-society) or [Pi Sigma Alpha](#pi-sigma-alpha) or even [studying abroad](#study-abroad)! Finally, exceptional students are eligible for various departmental and CLA awards and scholarships, which are listed on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4583&field_awards_academics_class_value=All) page.
 
