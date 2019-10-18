@@ -17,7 +17,7 @@ College of Liberal Arts students study [four different subfields](#learn-diverse
 
 Standout students are eligible for [Pi Sigma Alpha](https://www.cla.temple.edu/political-science/student-life#pi-sigma-alpha) (the national political science honors society); the political science [honors program](#political-science-honors-program-distinction-in-major) (which grants Distinction in Major), the Temple University [Honors Program](#university-honors-program) and [special research opportunities](#special-research-opportunities) from CLA and Temple, including the Diamond Research Scholarship and CARAS award.  
 
-Our undergraduate division assists students in all aspects of study. The Undergraduate Chair manages all points of student contact and oversees curricular, organizational, and honors issues. The Academic Adviser (Dr. Nicolaos Catsis) assists in course selection and transfer credits. The Internship/Career Coordinator (Erin Dwyer) advises students on internship opportunities and post-graduate planning.
+Our undergraduate division assists students in all aspects of study. The Undergraduate Chair manages all points of student contact and oversees curricular, organizational, and honors issues. The Academic Advisor (Dr. Nicolaos Catsis) assists in course selection and transfer credits. The Internship/Career Coordinator (Erin Dwyer) advises students on internship opportunities and post-graduate planning.
 
 ## Learn Diverse Theoretical and Methodological Approaches to Studying Political Science
 ![Capital]({{site.baseurl}}/media/resized Political Science Capital.jpg){:.responsive-img .img-right}
