@@ -34,7 +34,7 @@ As a political science student, you’ll also learn how to think, write, read an
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="World-Class Faculty"
     content="Our faculty are at the top of their fields in scholarship and teaching. Their work spans across the subfields of political science and to countries around the world."
     image=""
@@ -42,7 +42,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Exciting Internship Opportunities"
       content="We can connect you to internships and funding in both the public and private sectors."
       image=""
@@ -50,7 +50,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="A Degree with Distinction"
         content="Our departmental honors program allows you to conduct in-depth independent research on the topics you're most interested in."
         image=""
