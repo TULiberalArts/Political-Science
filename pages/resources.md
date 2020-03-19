@@ -12,12 +12,8 @@ meta-description: >-
   the College of Liberal Arts. Learn about more opportunities, grants, and resources.
 # custom variables
 ---
-The College of Liberal Arts has a number of resources available for political science degree students. Check out our two [affiliated centers](#affiliated-centers) for public policy research and community outreach. If you enroll as a student, we also encourage you to attend the [Featherman Lecture Series](#featherman-lecture-series), which addresses major public policy issues.
-
 ## Affiliated Centers
 
-### Institute for Public Affairs
-Temple University’s [Institute for Public Affairs](http://www.cla.temple.edu/ipa/) conducts, supports and disseminates interdisciplinary research to inform and improve public policy. Our research particularly focuses on Philadelphia, the greater metropolitan area and the Commonwealth of Pennsylvania.
+The College of Liberal Arts has a number of resources available for political science degree students. Check out our affiliated centers for [public policy research](https://www.cla.temple.edu/public-policy-lab/) and [community outreach](http://uccollab.org/). If you enroll as a student, we also encourage you to attend the [Featherman Lecture Series](https://www.cla.temple.edu/political-science/student-life/#featherman-lecture-series), which addresses major public policy issues.
 
-### University Community Collaborative
-The [University Community Collaborative](http://uccollab.org/) prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
+Learn More About All of Our [Affiliated Centers and Institutes](https://liberalarts.temple.edu/academics/centers)
