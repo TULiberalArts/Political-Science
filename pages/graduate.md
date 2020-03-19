@@ -33,7 +33,7 @@ The PhD program prepares students for careers in academia. We train our students
 
 In fact, our most recent PhD graduates and candidates are leveraging the skills and knowledge they learned at Temple in pursuing exciting careers right now. You can read about their individual dissertations and qualifications and view their personal websites. Learn more about our [PhD graduates](https://www.dropbox.com/s/2zu97avh2k5iao9/Placement%20candidates%20July%202018.pdf).
 
-Learn More About the [Ph.D in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
+Learn More About the [PhD in Political Science](http://bulletin.temple.edu/graduate/scd/cla/political-science-phd/)
 
 ## Master of Public Policy (MPP)
 Advance your career. Enhance your community. Develop the analytic skills needed to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. We train generalists who combine technical competency with a sophisticated understanding of the policy process. If you’re interested in social and quality-of-life issues throughout Philadelphia and beyond, Temple offers a graduate program in public policy led by full-time faculty and working practitioners.
