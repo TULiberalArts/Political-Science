@@ -38,7 +38,7 @@ View our [PhD Placement List](https://www.dropbox.com/s/ffhq3mxmwct31t7/POLS%20p
 Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twitter](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
 ## Calling All Alumni
-How are you? What are you up to? Join the [Temple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We’re working on getting us back in touch with you, getting you in touch with each other and giving our current students great ideas about all that you can do with political science training.
+How are you? What are you up to? Join the TTemple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We want to get in touch with you, get you in touch with each other and give our current students great ideas about all that you can do with political science training.
 
 ___
 
