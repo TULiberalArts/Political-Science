@@ -38,7 +38,15 @@ View our [PhD Placement List](https://www.dropbox.com/s/ffhq3mxmwct31t7/POLS%20p
 Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twitter](https://twitter.com/TUpolisci) to stay updated on department events and news.
 
 ## Calling All Alumni
-How are you? What are you up to? Join the TTemple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We want to get in touch with you, get you in touch with each other and give our current students great ideas about all that you can do with political science training.
+How are you? What are you up to? Join the [Temple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We want to get in touch with you, get you in touch with each other and give our current students great ideas about all that you can do with political science training.
+
+## Alumni Spotlight
+The stories below feature some of our outstanding alumni and they further illustrate the diversity of options available to Political Science graduates. 
+
+[Jesse Monoski](https://liberalarts.temple.edu/news/alumni-spotlight-jesse-monoski)<br/>
+  - Legislative Director in the Office of State Senator John Sabatina, Jr.<br/>
+  - Borough Councilman for Lemoyne, PA <br/>
+  _BA in Political Science from Temple in 2016_<br/>
 
 ___
 
