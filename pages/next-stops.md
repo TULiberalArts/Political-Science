@@ -40,6 +40,8 @@ Like us on [Facebook](https://www.facebook.com/TUpolisci/) and follow us on [Twi
 ## Calling All Alumni
 How are you? What are you up to? Join the [Temple University Political Science Alumni](https://www.linkedin.com/groups/3823848/profile) group on LinkedIn. We want to get in touch with you, get you in touch with each other and give our current students great ideas about all that you can do with political science training.
 
+___
+
 ## Alumni Spotlight
 The stories below feature some of our outstanding alumni and they further illustrate the diversity of options available to Political Science graduates. 
 
