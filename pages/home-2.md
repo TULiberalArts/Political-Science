@@ -43,8 +43,8 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="Exciting Internship Opportunities"
-      content="We can connect you to internships and funding in both the public and private sectors."
+      title="Exciting Public Service Internship Opportunities"
+      content="We offer credit-bearing public service internship opportunities for undergraduate students!"
       image=""
       button-link="/political-science/student-life#undergraduate-internships"
       button-text="Learn More" %}
