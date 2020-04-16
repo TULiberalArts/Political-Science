@@ -33,8 +33,6 @@ The political science discipline has four distinct subfields:
 
 - **Political Theory** theoretically evaluates how individuals behave and ought to behave in a collective polity. Political theorists bring precision to fundamental - yet contested - key political concepts, such as freedom, equality, democracy and justice.
 
-Learn More about the [BA in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/).
-
 ## Major in Political Science
 Our political science major encompasses eleven courses taken in a general sequence. 
 
@@ -44,17 +42,19 @@ Our political science major encompasses eleven courses taken in a general sequen
 
 **Finally**, the major culminates in POLS 4896 (Capstone Seminar), which brings together topical knowledge, research skills, and the learning process into a writing-intensive course to be taken in the final year or semester of study.
 
-Learn more about the [Bachelor of Arts in Political Science](https://bulletin.temple.edu/undergraduate/liberal-arts/political-science/ba-political-science/). Already a major? Here's your [Four-Year Plan](https://liberalarts.temple.edu/sites/liberalarts/files/Four-Year%20Plan%20%28FINAL%29.pdf) to graduate with a Political Science BA!
+Learn More about the [BA in Political Science](https://www.temple.edu/academics/degree-programs/political-science-major-la-pols-ba)
+
+- Already a major? Here's your [Four-Year Plan](https://liberalarts.temple.edu/sites/liberalarts/files/Four-Year%20Plan%20%28FINAL%29.pdf) to graduate with a Political Science BA!
 
 ## Minor in Political Science
 Want to pair political science with another program of study? Our minor is ideal for students who wish to supplement their outside majors with focused knowledge and exposure to the study of politics. The political science minor encompasses six courses – two introductory classes, and four upper-level electives.
 
-Learn More about the [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/).
+Learn More about the [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/)
 
 ## Certificate in Political Economy
 The Department of Political Science and the Department of Economics offer a multi-course interdisciplinary program leading to a Certificate in Political Economy. The program is open to all undergraduates and focuses on the relationship between the political and economic spheres of society. For more information, please contact the program’s coordinators, [Dr. Roselyn Hsueh](mailto:rhsueh@temple.edu) or [Dr. Alexandra Guisinger](mailto:alexandra.guisinger@temple.edu).
 
-Learn More about the [Certificate in Political Economy](http://bulletin.temple.edu/undergraduate/liberal-arts/certificate-programs/certificate-political-economy/).
+Learn More about the [Certificate in Political Economy](https://www.temple.edu/academics/degree-programs/political-economy-certificate-undergraduate-la-pole-cert).
 
 ## 4+1 MPP (Master of Public Policy)
 The Department of Political Science and the Master of Public Policy (MPP) program offer an accelerated track that enables students to attain their BA in Political Science and an MPP in five years, instead of the customary six. Students apply to the program during their third or fourth year of undergraduate study and begin taking graduate coursework upon entry.  The GRE is not necessary, but students must maintain an overall undergraduate GPA of at least 3.5.  For more information, please contact the MPP Director, [Dr. Gary Mucciaroni](mailto:gmucciar@temple.edu).
