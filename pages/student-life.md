@@ -12,12 +12,12 @@ description: >-
 # custom variables
 sidebar: sidebars/undergraduate.html  
 ---
-At the College of Liberal Arts, your pursuit of a Political Science degree may start in the classroom, but it doesn’t end there. Make the most of your education by taking on a [public service internship](#public-service-internship-opportunities), spending a [semester in Washington, D.C.](#washington-dc-semester) or [Harrisburg](#harrisburg-capital-semester), joining the [Political Science Society](#the-political-science-society) or [Pi Sigma Alpha](#pi-sigma-alpha) or even [studying abroad](#study-abroad)! Finally, exceptional students are eligible for various departmental and CLA awards and scholarships, which are listed on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4583&field_awards_academics_class_value=All) page.
+At the College of Liberal Arts, your pursuit of a Political Science degree may start in the classroom, but it doesn’t end there. Make the most of your education by taking on a [public service internship](#public-service-internship- opportunities-through-the-public-service-cooperative), spending a [semester in Washington, D.C.](#washington-dc-semester) or [Harrisburg](#harrisburg-capital-semester), joining the [Political Science Society](#the-political-science-society) or [Pi Sigma Alpha](#pi-sigma-alpha) or even [studying abroad](#study-abroad)! Finally, exceptional students are eligible for various departmental and CLA awards and scholarships, which are listed on the [College of Liberal Arts Awards and Scholarships](https://liberalarts.temple.edu/about-us/resources/awards-and-scholarships?field_awards_department_nid=4583&field_awards_academics_class_value=All) page.
 
-## Public Service Internship Opportunities
-Temple University understands the need for public service, which is why starting in Fall 2020, Temple will offer four structured credit-bearing internship opportunities for undergraduate students on the local, state, and federal levels. 
-
-Students interested in public service will have the opportunity to work within Philadelphia City Hall, Harrisburg, Washington D.C. or on a competitive political campaign. These opportunities are available to students who apply for the program and are achieving a 3.0 GPA or higher. If a student is interested in learning more about these credit bearing internship programs, please complete the application below and speak with Program Coordinator Erin Dwyer [erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu) more information. 
+## Public Service Internship Opportunities through the Public Service Cooperative
+Temple University’s faculty, students and alumni have a long tradition of public service. In Fall 2020, Temple will offer four distinct credit-bearing internship opportunities for undergraduate students on the local, state, and federal levels.
+ 
+Students interested in public service can work part time in Philadelphia in either city government or competitive political campaigns. Full-time internship programs are available in Pennsylvania’s capital city Harrisburg, or in the nation’s capitol, Washington D.C. If a student is interested in learning more about these credit-bearing internship programs, please complete the application below and speak with Program Coordinator Erin Dwyer [erin.dwyer@temple.edu](mailto:erin.dwyer@temple.edu) more information. 
 
 - [**Public Service Internship Application**](https://form.jotform.com/CVE13/public-service-internships)
 
