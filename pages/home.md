@@ -46,7 +46,7 @@ ___
       title="Exciting Public Service Internship Opportunities"
       content="We offer credit-bearing public service internship opportunities for undergraduate students!"
       image=""
-      button-link="/political-science/student-life#public-service-internship- opportunities"
+      button-link="/political-science/student-life#public-service-internship- opportunities-through-the-public-service-cooperative"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
