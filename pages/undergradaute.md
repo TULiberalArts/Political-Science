@@ -13,7 +13,7 @@ description: >-
 
 sidebar: sidebars/undergraduate.html  
 ---
-College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their [Bachelor of Arts](#major-in-political-science) in Political Science degree. Alternatively, students can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Political science majors can also earn a Master in Public Policy degree through the [4+1 MPP program](#41-mpp-master-of-public-policy).
+College of Liberal Arts students study [four different subfields](#learn-diverse-theoretical-and-methodological-approaches-to-studying-political-science) when earning their [Bachelor of Arts](#bachelor-of-arts-in-political-science) in Political Science degree. Alternatively, students can [minor](#minor-in-political-science) in political science or earn a [political economy certificate](#certificate-in-political-economy). Political science majors can also earn a Master in Public Policy degree through the [4+1 MPP program](#41-mpp-master-of-public-policy).
 
 Standout students are eligible for [Pi Sigma Alpha](https://www.cla.temple.edu/political-science/student-life#pi-sigma-alpha) (the national political science honors society); the political science [honors program](#political-science-honors-program-distinction-in-major) (which grants Distinction in Major), the Temple University [Honors Program](#university-honors-program) and [special research opportunities](#special-research-opportunities) from CLA and Temple, including the Diamond Research Scholarship and CARAS award.  
 
@@ -33,7 +33,7 @@ The political science discipline has four distinct subfields:
 
 - **Political Theory** theoretically evaluates how individuals behave and ought to behave in a collective polity. Political theorists bring precision to fundamental - yet contested - key political concepts, such as freedom, equality, democracy and justice.
 
-## Major in Political Science
+## Bachelor of Arts in Political Science
 Our political science major encompasses eleven courses taken in a general sequence. 
 
 **First**, the major begins with four introductory courses to each subfield – POLS 1101 (American Political System), POLS 1201 (Foreign Governments and Politics), POLS 1301 (International Politics), and POLS 2496 (Introduction to Political Philosophy).  POLS 2496 counts as a writing-intensive course. 
