@@ -15,7 +15,7 @@ sidebar: sidebars/graduate.html
 graduate_students: profiles/graduate_students_2.html
 ---
 ![Philadelphia City Hall and Temple Flag]({{site.baseurl}}/media/Temple-Flag-and-City-Hall.jpg){:.responsive-img .img-right}
-Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#ma-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
+Temple University Political Science graduate degree students can take coursework in the [four major subfields](#study-political-sciences-four-major-subfields) of political science. Graduate students can earn a political science [masters degree](#master-of-arts-in-political-science) or [PhD](#phd-in-political-science) or a [public policy masters](#master-of-public-policy-mpp). Learn about our [admissions process](#admissions-process), available [grants](#graduate-student-support-grants) and additional [resources](#resources) to get started.
 
 ## Study Political Science’s Four Major Subfields
 - In **American Politics**, faculty and students conduct research on political behavior, political institutions, public policy and urban politics.
@@ -23,7 +23,7 @@ Temple University Political Science graduate degree students can take coursework
 - In **International Relations**, faculty and students apply the various theoretical approaches to the study of world politics, international security, international political economy and the study of international organizations.
 - In **Political Theory**, our strengths cluster around the research areas of late modernity; democratic and normative political theories - especially those pertaining to political questions of social and economic inequality - globalization, identity politics and social movements and the relationship between politics and religion.
 
-## MA in Political Science
+## Master of Arts Political Science
 The terminal MA program gives you a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree toward careers in the private or public sector.
 
 Learn More About the [MA in Political Science](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/)
