@@ -43,7 +43,7 @@ Learn More about the [Master of Public Policy](https://www.cla.temple.edu/public
 ## Admissions Process
 Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 15th**_. 
 
-Please visit the [Master’s of Arts in Political Science Admissions page](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/) or the [PhD in Political Science Asmissions page](https://www.temple.edu/academics/degree-programs/political-science-phd-la-pols-phd) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
+Please visit the Political Science [Master’s of Arts Admissions page](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/) or the Political Science [PhD Admissions page](https://www.temple.edu/academics/degree-programs/political-science-phd-la-pols-phd) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Student Support Grants
 - [Political Science MA Grants](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/cla-political-science-ma-scholarships-financial-aid)
