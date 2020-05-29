@@ -26,22 +26,24 @@ Temple University Political Science graduate degree students can take coursework
 ## Master of Arts Political Science
 The terminal MA program gives you a broad education in the general field of political science. MA students also have the option to develop technical skills by completing the methods sequence. MA students typically apply their degree toward careers in the private or public sector.
 
-Learn More About the [MA in Political Science](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/)
+Learn More about the [MA in Political Science](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/)
 
 ## PhD in Political Science
 The PhD program prepares students for careers in academia. We train our students to become successful scholars and teachers. PhD students complete the MA program requirements, take additional courses that help them specialize in particular fields of study and complete a methods sequence. Many of our PhDs pursue a career in academia, but some of our graduates also successfully apply their political science training to non-academic careers.
 
 In fact, our most recent PhD graduates and candidates are leveraging the skills and knowledge they learned at Temple in pursuing exciting careers right now. You can read about their individual dissertations and qualifications and view their personal websites. Learn more about our [PhD graduates](https://www.dropbox.com/s/2zu97avh2k5iao9/Placement%20candidates%20July%202018.pdf).
 
-Learn More About the [PhD in Political Science](https://www.temple.edu/academics/degree-programs/political-science-phd-la-pols-phd)
+Learn More about the [PhD in Political Science](https://www.temple.edu/academics/degree-programs/political-science-phd-la-pols-phd)
 
 ## Master of Public Policy (MPP)
 Advance your career. Enhance your community. Develop the analytic skills needed to formulate and assess public policies and evaluate the effectiveness of government programs at the federal, state and local levels. Learn the “softer” skills of leadership and communicating your ideas in a political context. We train generalists who combine technical competency with a sophisticated understanding of the policy process. Temple’s graduate program in public policy is led by full-time faculty and working practitioners and is ideal for students interested in social and quality-of-life issues throughout Philadelphia and beyond.
 
-Learn More About the [Master of Public Policy](https://www.cla.temple.edu/public-policy/graduate/)
+Learn More about the [Master of Public Policy](https://www.cla.temple.edu/public-policy/graduate/)
 
 ## Admissions Process
 Admissions decisions are made in the spring semester and admitted students are expected to begin in the following fall term. _**Application Deadline is December 15th**_. 
+
+Please visit the [MA in Political Science Admissions page](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/) or the [PhD in Political Science Asmissions page](https://www.temple.edu/academics/degree-programs/political-science-phd-la-pols-phd) to learn more about graduate program requirements, dates and deadlines and instructions on how to apply.
 
 ## Graduate Student Support Grants
 - [Political Science MA Grants](https://www.temple.edu/academics/degree-programs/political-science-ma-la-pols-ma/cla-political-science-ma-scholarships-financial-aid)
