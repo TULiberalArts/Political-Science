@@ -30,9 +30,6 @@ Started in fall 2009, Temple University sponsors an internship semester each fal
 ### Washington D.C. Semester
 The Washington Semester allows Temple students to gain valuable career experience in the nation’s capital, while remaining full-time students. If accepted into the program, students register for three courses in the College of Liberal Arts (two for 3 credits each, and one for 9 credits) for a 15-credit semester in the fall and spring. (Summer programs are also available for 12 credits.) Temple University serves as liaison to [The Washington Center (TWC)](https://twc.edu), a well-established and well-regarded internship semester program in Washington, DC through which Temple students receive internships and take classes.
 
-### Campaign 2020 Opportunities 
-Started in Fall 1998, the Political Science Department offers a comprehensive campaign experience for undergraduate students. This year, the six-credit Political Science course “bundle” will allow students to participate in the 2020 campaign. If admitted to the program students will enroll for two separate courses, worth three credits each. The internship requires an average commitment of 8-10 hours of campaign work per week. The seminar component of the course meets once a week for two hours (Mondays 3:00 to 5:30).
-
 ## The Political Science Society
 The Political Science Society welcomes all students taking political science coursework at Temple University. As an inclusive student organization, it sponsors exciting weekly and monthly activities including career forums, lectures, student and faculty mixers, law and graduate forums, seminars on popular topics, and trips to locales like New York City and Washington, D.C. Interested students should consult the Society’s [website](https://pssoc5.wixsite.com/temple), [Facebook page](https://www.facebook.com/TemplePSS/) or inquire directly at [pssoc@temple.edu](mailto:pssoc@temple.edu).
 
