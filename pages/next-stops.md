@@ -45,9 +45,8 @@ ___
 ## Alumni Spotlight
 The stories below feature some of our outstanding alumni and they further illustrate the diversity of options available to Political Science graduates. 
 
-[Jesse Monoski](https://liberalarts.temple.edu/news/alumni-spotlight-jesse-monoski-one-our-owlsinoffice), _BA in Political Science from Temple in 2016_<br/>
-  - Legislative Director in the Office of State Senator John Sabatina, Jr.<br/>
-  - Borough Councilman for Lemoyne, PA <br/>
+[Jesse Monoski](https://liberalarts.temple.edu/news/alumni-spotlight-jesse-monoski-one-our-owlsinoffice), Currently serves as Legislative Director in the Office of State Senator John Sabatina, Jr. and as Borough Councilman for Lemoyne, PA <br/>
+_BA in Political Science from Temple in 2016_<br/>  
 
 ___
 
