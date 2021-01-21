@@ -56,3 +56,7 @@ ___
 
 {% include {{ page.graduate_students }} %}
 
+### Graduate Students On the Market
+Listed below are current graduate students and recent PhD graduates seeking academic employment.
+
+- [Matthew Stein](https://liberalarts.temple.edu/academics/faculty/stein-matthew)
