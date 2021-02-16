@@ -51,6 +51,13 @@ Want to pair political science with another program of study? Our minor is ideal
 
 Learn More about the [Minor in Political Science](http://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-political-science/)
 
+## Minor in Public Policy
+If you want to learn how to create an impact on major public issues—from gun violence to student debt to poverty to criminal justice and beyond—this is the minor for you. Public Policy minors will discover how governments, policy experts and ordinary citizens can work to improve society’s most vexing challenges. They’ll also learn how to assess policies and evaluate their effectiveness.
+
+The minor is six-courses (18-credits). There are two required courses (PLCY 2103 U.S. Public Policymaking and POLS 3151 Policy Analysis) and four electives, one of which can be filled by an internship. If you’re thinking about a career in the public or nonprofit sector or just want to learn more about how to enhance communities through effective policy, this is the perfect minor to pair with your major.
+
+Learn More about the [Minor in Public Policy](https://bulletin.temple.edu/undergraduate/liberal-arts/political-science/minor-public-policy/)
+
 ## Certificate in Political Economy
 The Department of Political Science and the Department of Economics offer a multi-course interdisciplinary program leading to a Certificate in Political Economy. The program is open to all undergraduates and focuses on the relationship between the political and economic spheres of society. For more information, please contact the program’s coordinators, [Dr. Roselyn Hsueh](mailto:rhsueh@temple.edu) or [Dr. Alexandra Guisinger](mailto:alexandra.guisinger@temple.edu).
 
