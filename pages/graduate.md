@@ -20,7 +20,9 @@ Temple University Political Science graduate degree students can take coursework
 ## Study Political Science’s Major Subfields
 In American Politics, faculty and students conduct research on votingbehavior, political institutions, public opinion, urban politics and their instersection with race, gender and income.
 
-In Comparative Politics, faculty specialize in the politics of Africa, China, Europe, India, Latin America, and the Middle East. Special attention is given to authoritarian stabiliy and democratization, political economy, the development of the state, and political parties.In International Relations, faculty and students study world politics, international security, international political economy, political violence and civil war, and international organizations.
+In Comparative Politics, faculty specialize in the politics of Africa, China, Europe, India, Latin America, and the Middle East. Special attention is given to authoritarian stabiliy and democratization, political economy, the development of the state, and political parties. 
+
+In International Relations, faculty and students study world politics, international security, international political economy, political violence and civil war, and international organizations.
 
 Our program emphasizes political questions of social and economic inequality – globalization, identity politics and social movements – throughout the curriculum. Our courses in Political Theory examinedemocratic and normative political theories. 
 
