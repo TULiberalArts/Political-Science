@@ -51,6 +51,7 @@ Admission decisions for the Master of Public Policy program vary by term. Please
 
 ## Resources
 - [Graduate Student FAQs](https://liberalarts.temple.edu/sites/liberalarts/files/PolySci%20Graduate%20Frequently%20Asked%20Questions.pdf)
+- [APSA Diversity Fellowship Program (DFP](https://www.apsanet.org/mfp)
 
 ___
 
