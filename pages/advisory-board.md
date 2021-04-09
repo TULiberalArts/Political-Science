@@ -26,7 +26,7 @@ Brandon W. Boberick | 2004 | Assistant Counsel with the PA Office of State Inspe
 James Cawley |  | Vice President of Institutional Advancement at Temple University
 Michael H. Cook |  | Partner and Co-chair, Health Care Group; Liles Parker PLLC
 Susan Gobreski |  | Principal Consultant at Sedgwick Group
-Ken Lawrence Jr. | 1995 | Montgomery Count Commissioner
+Ken Lawrence Jr. | 1995 | Montgomery County Commissioner
 Michael J. Nerozzi | 2009 | Director of Policy and Planning at Pennsylvania Fish & Boat Commission
 Christopher Russell | 1995 | Co-Founder Checkmate Strategies
 Daniel Sulman | 1997 | Judge of the Philadelphia Court of Common Pleas
